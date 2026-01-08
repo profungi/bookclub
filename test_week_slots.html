@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Week Slots Test</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .week-slots {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 20px;
+    }
+    .week-slot {
+      width: 40px;
+      height: 40px;
+      border-radius: 4px;
+      background-color: #e5e7eb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 600;
+      color: #6b7280;
+    }
+    .week-slot.active {
+      background-color: #16a34a;
+      color: white;
+    }
+    .test-case {
+      border: 1px solid #e5e7eb;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+    }
+    .test-case h3 {
+      margin-top: 0;
+      color: #1f2937;
+    }
+  </style>
+</head>
+<body>
+  <h1>Week Day Slots - Visual Test</h1>
+
+  <div class="test-case">
+    <h3>Monday Event</h3>
+    <div id="monday"></div>
+  </div>
+
+  <div class="test-case">
+    <h3>Thursday Event</h3>
+    <div id="thursday"></div>
+  </div>
+
+  <div class="test-case">
+    <h3>Sunday Event</h3>
+    <div id="sunday"></div>
+  </div>
+
+  <script>
+    function generateWeekSlots(isoDate) {
+      const date = new Date(isoDate);
+      const dayOfWeek = date.getDay();
+      const mondayIndex = dayOfWeek === 0 ? 6 : dayOfWeek - 1;
+      const days = ['M', 'T', 'W', 'T', 'F', 'S', 'S'];
+
+      const slots = days.map((label, index) => {
+        const isActive = index === mondayIndex;
+        const activeClass = isActive ? ' active' : '';
+        return '<div class="week-slot' + activeClass + '">' + label + '</div>';
+      });
+
+      return '<div class="week-slots">' + slots.join('') + '</div>';
+    }
+
+    // Test cases
+    document.getElementById('monday').innerHTML = generateWeekSlots('2026-01-12T10:00:00Z'); // Monday
+    document.getElementById('thursday').innerHTML = generateWeekSlots('2026-01-15T10:00:00Z'); // Thursday
+    document.getElementById('sunday').innerHTML = generateWeekSlots('2026-01-18T10:00:00Z'); // Sunday
+  </script>
+</body>
+</html>

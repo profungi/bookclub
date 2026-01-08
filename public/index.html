@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find book club events from libraries across North America. Search and filter by date, location, and more.">
+  <title>Book Club Event Finder</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <h1>📚 Book Club Event Finder</h1>
+      <p>Discover book club events from libraries across North America</p>
+    </div>
+  </header>
+
+  <!-- Search and Filters Section -->
+  <section class="search-section">
+    <div class="container">
+      <!-- Search Box -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search by title, library, book, or topic..."
+          autocomplete="off"
+        >
+      </div>
+
+      <!-- Quick Filters -->
+      <div class="quick-filters">
+        <button class="quick-filter-btn" data-filter="today">Today</button>
+        <button class="quick-filter-btn" data-filter="tomorrow">Tomorrow</button>
+        <button class="quick-filter-btn" data-filter="this-week">This Week</button>
+        <button class="quick-filter-btn" data-filter="this-month">This Month</button>
+        <button class="quick-filter-btn" data-filter="next-month">Next Month</button>
+      </div>
+
+      <!-- Advanced Filters Toggle -->
+      <button class="filter-toggle" id="filter-toggle">
+        <span>⚙️</span>
+        <span>More Filters</span>
+      </button>
+
+      <!-- Advanced Filters -->
+      <div class="advanced-filters" id="advanced-filters">
+        <div class="filter-group">
+          <label for="location-filter">Location Type</label>
+          <select id="location-filter">
+            <option value="all">All Events</option>
+            <option value="online">Online Only</option>
+            <option value="in-person">In Person Only</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="state-filter">State/Province</label>
+          <select id="state-filter">
+            <option value="all">All States</option>
+            <!-- Options will be populated dynamically -->
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <!-- Reserved for future filters -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Results Info -->
+  <div class="results-info" id="results-info">
+    Loading events...
+  </div>
+
+  <!-- Events Table -->
+  <main class="table-container">
+    <div class="table-wrapper">
+      <table class="events-table" id="events-table">
+        <thead>
+          <tr>
+            <th>Event Name</th>
+            <th>Type</th>
+            <th>Library</th>
+            <th>Date & Time</th>
+            <th>Day of Week</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+        <tbody id="events-container">
+          <!-- Events will be rendered here -->
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>Data updated daily from library RSS feeds · Last update: <span id="last-update">-</span></p>
+      <p style="margin-top: 8px; font-size: 13px;">
+        Built with ❤️ for book lovers everywhere
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/utils.js"></script>
+  <script src="js/search.js"></script>
+  <script>
+    // Display last update time
+    fetch('events.json')
+      .then(res => res.json())
+      .then(data => {
+        if (data.generated_at) {
+          const date = new Date(data.generated_at);
+          document.getElementById('last-update').textContent = date.toLocaleString();
+        }
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>
