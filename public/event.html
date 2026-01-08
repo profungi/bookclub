@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Book club event details">
+  <title>Event Details - Book Club Finder</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <h1>📚 Book Club Event Finder</h1>
+    </div>
+  </header>
+
+  <!-- Detail Container -->
+  <div class="detail-container">
+    <a href="index.html" class="back-button">
+      ← Back to all events
+    </a>
+
+    <div id="event-detail">
+      <!-- Event details will be loaded here -->
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading event details...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>
+        <a href="index.html" style="color: var(--primary-color); text-decoration: none;">
+          ← Back to all events
+        </a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/utils.js"></script>
+  <script>
+    // Load event details
+    async function loadEventDetail() {
+      const eventId = getUrlParameter('id');
+
+      if (!eventId) {
+        showError('Event not found');
+        return;
+      }
+
+      try {
+        const response = await fetch('events.json');
+        const data = await response.json();
+        const event = data.events.find(e => e.id === eventId);
+
+        if (!event) {
+          showError('Event not found');
+          return;
+        }
+
+        renderEventDetail(event);
+        updatePageTitle(event.title);
+      } catch (error) {
+        console.error('Error loading event:', error);
+        showError('Failed to load event details');
+      }
+    }
+
+    function renderEventDetail(event) {
+      const container = document.getElementById('event-detail');
+
+      const imageHtml = event.image
+        ? `<img src="${event.image}" alt="${event.title}" class="detail-image">`
+        : '';
+
+      const badge = event.is_virtual
+        ? '<span class="event-badge online">ONLINE</span>'
+        : '<span class="event-badge in-person">IN PERSON</span>';
+
+      const location = event.is_virtual
+        ? 'Virtual Event'
+        : formatFullAddress(event.location) || 'Location details in event link';
+
+      const registrationHtml = event.registration && event.registration.required
+        ? `<div class="detail-meta-item">
+             <span class="detail-meta-icon">📝</span>
+             <div>
+               <strong>Registration Required</strong>
+               ${event.registration.full ? '<br><em style="color: #dc2626;">This event is full</em>' : ''}
+               ${event.registration.capacity ? `<br>Capacity: ${event.registration.registered || 0}/${event.registration.capacity}` : ''}
+             </div>
+           </div>`
+        : '';
+
+      const bookHtml = event.book
+        ? `<div class="detail-meta-item">
+             <span class="detail-meta-icon">📖</span>
+             <div>
+               <strong>${event.book.title}</strong>
+               ${event.book.author ? `<br>by ${event.book.author}` : ''}
+             </div>
+           </div>`
+        : '';
+
+      const categoriesHtml = event.categories && event.categories.length > 0
+        ? `<div class="detail-meta-item">
+             <span class="detail-meta-icon">🏷️</span>
+             <div>
+               ${event.categories.join(' · ')}
+             </div>
+           </div>`
+        : '';
+
+      container.innerHTML = `
+        <div class="detail-card">
+          ${imageHtml}
+          <div class="detail-content">
+            <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 16px;">
+              <h1 class="detail-title">${event.title}</h1>
+              ${badge}
+            </div>
+
+            <div class="detail-meta">
+              <div class="detail-meta-item">
+                <span class="detail-meta-icon">🏛️</span>
+                <div><strong>${event.library}</strong></div>
+              </div>
+
+              <div class="detail-meta-item">
+                <span class="detail-meta-icon">🗓️</span>
+                <div><strong>${formatFullDate(event.start_date)}</strong></div>
+              </div>
+
+              <div class="detail-meta-item">
+                <span class="detail-meta-icon">📍</span>
+                <div>${location}</div>
+              </div>
+
+              ${bookHtml}
+              ${registrationHtml}
+              ${categoriesHtml}
+            </div>
+
+            ${event.description ? `
+              <div class="detail-description">
+                <h3 style="margin-bottom: 12px; font-size: 18px;">About This Event</h3>
+                <p>${event.description}</p>
+              </div>
+            ` : ''}
+
+            <a href="${event.link}" target="_blank" rel="noopener noreferrer" class="detail-action">
+              View Full Details & Register →
+            </a>
+          </div>
+        </div>
+      `;
+    }
+
+    function showError(message) {
+      const container = document.getElementById('event-detail');
+      container.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-state-icon">⚠️</div>
+          <h3>Oops!</h3>
+          <p>${message}</p>
+          <p style="margin-top: 16px;">
+            <a href="index.html" style="color: var(--primary-color);">← Back to all events</a>
+          </p>
+        </div>
+      `;
+    }
+
+    function updatePageTitle(title) {
+      document.title = `${title} - Book Club Finder`;
+    }
+
+    // Initialize
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadEventDetail);
+    } else {
+      loadEventDetail();
+    }
+  </script>
+</body>
+</html>
