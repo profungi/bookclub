@@ -537,8 +537,7 @@ body {
   }
 
   .filter-toggle {
-    width: auto;
-    padding: 10px 24px;
+    display: none;
   }
 
   .advanced-filters {

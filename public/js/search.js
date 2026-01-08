@@ -1,12 +1,26 @@
 // Search and filtering logic
 
+// Bay Area libraries list
+const BAY_AREA_LIBRARIES = [
+  'San Francisco Public Library',
+  'San José Public Library',
+  'Oakland Public Library',
+  'San Mateo County Libraries',
+  'Santa Clara County Library',
+  'Alameda County Library',
+  'Contra Costa County Library',
+  'Palo Alto City Library',
+  'Pleasanton Public Library'
+];
+
 let allEvents = [];
 let filteredEvents = [];
 let currentFilters = {
   search: '',
   dateRange: null,
   location: 'all',
-  state: 'all'
+  state: 'all',
+  bayArea: false
 };
 
 /**
@@ -99,6 +113,11 @@ function applyFilters() {
     // State filter
     if (currentFilters.state !== 'all') {
       if (event.state_full !== currentFilters.state) return false;
+    }
+
+    // Bay Area filter
+    if (currentFilters.bayArea) {
+      if (!BAY_AREA_LIBRARIES.includes(event.library)) return false;
     }
 
     return true;
@@ -242,8 +261,15 @@ function handleQuickFilter(filterType) {
   // Add active class to clicked button
   event.target.classList.add('active');
 
-  // Apply date range filter
-  currentFilters.dateRange = getDateRange(filterType);
+  // Apply appropriate filter
+  if (filterType === 'bay-area') {
+    currentFilters.bayArea = true;
+    currentFilters.dateRange = null;
+  } else {
+    currentFilters.bayArea = false;
+    currentFilters.dateRange = getDateRange(filterType);
+  }
+
   applyFilters();
   scrollToTop();
 }
@@ -256,6 +282,7 @@ function clearQuickFilter() {
     btn.classList.remove('active');
   });
   currentFilters.dateRange = null;
+  currentFilters.bayArea = false;
   applyFilters();
 }
 
