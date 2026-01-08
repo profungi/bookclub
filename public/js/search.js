@@ -52,7 +52,24 @@ function populateFilterOptions() {
  * Apply all active filters
  */
 function applyFilters() {
+  const now = new Date();
+
   filteredEvents = allEvents.filter(event => {
+    // Filter out expired events (events that have already ended)
+    if (event.end_date) {
+      const endDate = new Date(event.end_date);
+      if (endDate < now) {
+        return false;
+      }
+    } else if (event.start_date) {
+      // If no end date, use start date + 3 hours as approximate end
+      const startDate = new Date(event.start_date);
+      const approximateEnd = new Date(startDate.getTime() + 3 * 60 * 60 * 1000);
+      if (approximateEnd < now) {
+        return false;
+      }
+    }
+
     // Search filter
     if (currentFilters.search) {
       const searchTerm = currentFilters.search.toLowerCase();
@@ -114,12 +131,8 @@ function createEventCard(event) {
     ? '<span class="type-badge online">ONLINE</span>'
     : '<span class="type-badge in-person">IN PERSON</span>';
 
-  const bookHtml = event.book && event.book.title
-    ? `<div class="book-info">
-         <div class="book-title">${event.book.title}</div>
-         ${event.book.author ? `<div class="book-author">by ${event.book.author}</div>` : ''}
-       </div>`
-    : '<span style="color: #9ca3af;">—</span>';
+  // Generate week day slots (use compact mode for mobile)
+  const weekSlotsHtml = generateWeekSlots(event.start_date, false);
 
   return `
     <tr>
@@ -129,7 +142,7 @@ function createEventCard(event) {
       <td>${badge}</td>
       <td class="library-name">${event.library}</td>
       <td class="event-date">${formatDate(event.start_date)}</td>
-      <td>${bookHtml}</td>
+      <td>${weekSlotsHtml}</td>
       <td>
         <a href="${getEventUrl(event.id)}" class="details-link">View →</a>
       </td>
