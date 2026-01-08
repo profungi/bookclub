@@ -246,3 +246,33 @@ function getUrlParameter(name) {
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
+/**
+ * Generate week day slots visualization
+ * @param {string} isoDate - ISO date string
+ * @param {boolean} compact - Use abbreviated labels (Mon, Tue, etc.)
+ * @returns {string} HTML for week slots
+ */
+function generateWeekSlots(isoDate, compact = false) {
+  if (!isoDate) {
+    return '<span style="color: #9ca3af;">—</span>';
+  }
+
+  const date = new Date(isoDate);
+  const dayOfWeek = date.getDay();
+
+  const mondayIndex = dayOfWeek === 0 ? 6 : dayOfWeek - 1;
+
+  const days = compact
+    ? ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    : ['M', 'T', 'W', 'T', 'F', 'S', 'S'];
+
+  const slots = days.map((label, index) => {
+    const isActive = index === mondayIndex;
+    const activeClass = isActive ? ' active' : '';
+    const compactClass = compact ? ' compact' : '';
+    return '<div class="week-slot' + activeClass + compactClass + '">' + label + '</div>';
+  });
+
+  return '<div class="week-slots">' + slots.join('') + '</div>';
+}
