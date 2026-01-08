@@ -74,10 +74,6 @@
     function renderEventDetail(event) {
       const container = document.getElementById('event-detail');
 
-      const imageHtml = event.image
-        ? `<img src="${event.image}" alt="${event.title}" class="detail-image">`
-        : '';
-
       const badge = event.is_virtual
         ? '<span class="event-badge online">ONLINE</span>'
         : '<span class="event-badge in-person">IN PERSON</span>';
@@ -118,8 +114,6 @@
 
       container.innerHTML = `
         <div class="detail-card">
-          ${imageHtml}
-          <div class="detail-content">
             <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 16px;">
               <h1 class="detail-title">${event.title}</h1>
               ${badge}
@@ -156,7 +150,6 @@
             <a href="${event.link}" target="_blank" rel="noopener noreferrer" class="detail-action">
               View Full Details & Register →
             </a>
-          </div>
         </div>
       `;
     }

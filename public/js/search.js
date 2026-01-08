@@ -107,47 +107,33 @@ function renderEvents() {
 }
 
 /**
- * Create event card HTML
+ * Create event table row HTML
  */
 function createEventCard(event) {
-  const imageHtml = event.image
-    ? `<img src="${event.image}" alt="${event.title}" class="event-image">`
-    : `<div class="event-image no-image">📚</div>`;
-
   const badge = event.is_virtual
-    ? '<span class="event-badge online">ONLINE</span>'
-    : '<span class="event-badge in-person">IN PERSON</span>';
+    ? '<span class="type-badge online">ONLINE</span>'
+    : '<span class="type-badge in-person">IN PERSON</span>';
 
-  const bookHtml = event.book
-    ? `<div class="event-book">
-         <div class="event-book-title">📖 ${event.book.title}</div>
-         ${event.book.author ? `<div class="event-book-author">by ${event.book.author}</div>` : ''}
+  const bookHtml = event.book && event.book.title
+    ? `<div class="book-info">
+         <div class="book-title">${event.book.title}</div>
+         ${event.book.author ? `<div class="book-author">by ${event.book.author}</div>` : ''}
        </div>`
-    : '';
-
-  const tagsHtml = event.categories && event.categories.length > 0
-    ? `<div class="event-tags">
-         ${event.categories.slice(0, 3).map(cat => `<span class="event-tag">${cat}</span>`).join('')}
-       </div>`
-    : '';
-
-  const location = formatLocation(event.location, event.is_virtual);
+    : '<span style="color: #9ca3af;">—</span>';
 
   return `
-    <a href="${getEventUrl(event.id)}" class="event-card">
-      ${imageHtml}
-      <div class="event-content">
-        <div class="event-header">
-          <h3 class="event-title">${event.title}</h3>
-          ${badge}
-        </div>
-        <div class="event-library">${event.library}</div>
-        <div class="event-date">🗓️ ${formatDate(event.start_date)}</div>
-        <div class="event-location">📍 ${location}</div>
-        ${bookHtml}
-        ${tagsHtml}
-      </div>
-    </a>
+    <tr>
+      <td class="event-name">
+        <a href="${getEventUrl(event.id)}">${event.title}</a>
+      </td>
+      <td>${badge}</td>
+      <td class="library-name">${event.library}</td>
+      <td class="event-date">${formatDate(event.start_date)}</td>
+      <td>${bookHtml}</td>
+      <td>
+        <a href="${getEventUrl(event.id)}" class="details-link">View →</a>
+      </td>
+    </tr>
   `;
 }
 
@@ -210,11 +196,15 @@ function showEmptyState() {
   const container = document.getElementById('events-container');
   if (container) {
     container.innerHTML = `
-      <div class="empty-state">
-        <div class="empty-state-icon">🔍</div>
-        <h3>No events found</h3>
-        <p>Try adjusting your filters or search terms</p>
-      </div>
+      <tr>
+        <td colspan="6">
+          <div class="empty-state">
+            <div class="empty-state-icon">🔍</div>
+            <h3>No events found</h3>
+            <p>Try adjusting your filters or search terms</p>
+          </div>
+        </td>
+      </tr>
     `;
   }
 }
