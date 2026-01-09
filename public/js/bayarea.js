@@ -159,14 +159,14 @@ function createEventCard(event) {
   return `
     <tr>
       <td class="event-name">
-        <a href="${getEventUrl(event.id)}">${event.title}</a>
+        <a href="${getEventUrl(event.id)}" onclick="trackEventClick('${event.id}', '${event.title.replace(/'/g, "\\'")}', '${event.library.replace(/'/g, "\\'")}', 'title_link')">${event.title}</a>
       </td>
       <td>${badge}</td>
       <td class="library-name">${event.library}</td>
       <td class="event-date">${formatDate(event.start_date)}</td>
       <td>${weekSlotsHtml}</td>
       <td>
-        <a href="${getEventUrl(event.id)}" class="details-link">View →</a>
+        <a href="${getEventUrl(event.id)}" class="details-link" onclick="trackEventClick('${event.id}', '${event.title.replace(/'/g, "\\'")}', '${event.library.replace(/'/g, "\\'")}', 'view_button')">View →</a>
       </td>
     </tr>
   `;
@@ -259,6 +259,15 @@ function showEmptyState() {
  */
 function handleSearch(event) {
   currentFilters.search = event.target.value;
+
+  // Track search event
+  if (typeof gtag !== 'undefined' && currentFilters.search) {
+    gtag('event', 'search', {
+      search_term: currentFilters.search,
+      page_location: 'bay_area_page'
+    });
+  }
+
   applyFilters();
 }
 
@@ -273,6 +282,15 @@ function handleQuickFilter(filterType) {
 
   // Add active class to clicked button
   event.target.classList.add('active');
+
+  // Track quick filter click
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'quick_filter',
+      filter_value: filterType,
+      page_location: 'bay_area_page'
+    });
+  }
 
   // Apply date range filter
   currentFilters.dateRange = getDateRange(filterType);
@@ -303,6 +321,15 @@ function handleLocationFilter(value) {
   // Add active class to clicked button
   event.target.classList.add('active');
 
+  // Track event type filter
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'event_type',
+      filter_value: value,
+      page_location: 'bay_area_page'
+    });
+  }
+
   currentFilters.location = value;
   applyFilters();
 }
@@ -318,6 +345,15 @@ function handleLibraryFilter(value) {
 
   // Add active class to clicked button
   event.target.classList.add('active');
+
+  // Track library filter
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'library',
+      filter_value: value,
+      page_location: 'bay_area_page'
+    });
+  }
 
   currentFilters.library = value;
   applyFilters();
@@ -382,6 +418,22 @@ function initEventListeners() {
       if (e.target.classList.contains('filter-option-btn')) {
         handleLibraryFilter(e.target.dataset.value);
       }
+    });
+  }
+}
+
+/**
+ * Track event click
+ */
+function trackEventClick(eventId, eventTitle, libraryName, clickSource) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'select_content', {
+      content_type: 'event',
+      content_id: eventId,
+      item_name: eventTitle,
+      library: libraryName,
+      click_source: clickSource,
+      page_location: 'bay_area_page'
     });
   }
 }

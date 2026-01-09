@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKLYFEERNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JKLYFEERNL');
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Book club event details">
@@ -147,11 +156,23 @@
               </div>
             ` : ''}
 
-            <a href="${event.link}" target="_blank" rel="noopener noreferrer" class="detail-action">
+            <a href="${event.link}" target="_blank" rel="noopener noreferrer" class="detail-action" onclick="trackRegistrationClick('${event.id}', '${event.title.replace(/'/g, "\\'")}', '${event.library.replace(/'/g, "\\'")}')">
               View Full Details & Register →
             </a>
         </div>
       `;
+
+      // Track event detail page view
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'view_item', {
+          content_type: 'event',
+          content_id: event.id,
+          item_name: event.title,
+          library: event.library,
+          event_type: event.is_virtual ? 'online' : 'in_person',
+          page_location: 'event_detail_page'
+        });
+      }
     }
 
     function showError(message) {
@@ -170,6 +191,19 @@
 
     function updatePageTitle(title) {
       document.title = `${title} - Book Club Finder`;
+    }
+
+    function trackRegistrationClick(eventId, eventTitle, libraryName) {
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'click', {
+          event_category: 'registration',
+          event_label: 'registration_button',
+          content_id: eventId,
+          item_name: eventTitle,
+          library: libraryName,
+          page_location: 'event_detail_page'
+        });
+      }
     }
 
     // Initialize

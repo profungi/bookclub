@@ -180,14 +180,14 @@ function createEventCard(event) {
   return `
     <tr>
       <td class="event-name">
-        <a href="${getEventUrl(event.id)}">${event.title}</a>
+        <a href="${getEventUrl(event.id)}" onclick="trackEventClick('${event.id}', '${event.title.replace(/'/g, "\\'")}', '${event.library.replace(/'/g, "\\'")}', 'title_link')">${event.title}</a>
       </td>
       <td>${badge}</td>
       <td class="library-name">${event.library}</td>
       <td class="event-date">${formatDate(event.start_date)}</td>
       <td>${weekSlotsHtml}</td>
       <td>
-        <a href="${getEventUrl(event.id)}" class="details-link">View →</a>
+        <a href="${getEventUrl(event.id)}" class="details-link" onclick="trackEventClick('${event.id}', '${event.title.replace(/'/g, "\\'")}', '${event.library.replace(/'/g, "\\'")}', 'view_button')">View →</a>
       </td>
     </tr>
   `;
@@ -280,6 +280,15 @@ function showEmptyState() {
  */
 function handleSearch(event) {
   currentFilters.search = event.target.value;
+
+  // Track search event
+  if (typeof gtag !== 'undefined' && currentFilters.search) {
+    gtag('event', 'search', {
+      search_term: currentFilters.search,
+      page_location: 'main_page'
+    });
+  }
+
   applyFilters();
 }
 
@@ -294,6 +303,15 @@ function handleQuickFilter(filterType) {
 
   // Add active class to clicked button
   event.target.classList.add('active');
+
+  // Track quick filter click
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'quick_filter',
+      filter_value: filterType,
+      page_location: 'main_page'
+    });
+  }
 
   // Apply appropriate filter
   if (filterType === 'bay-area') {
@@ -339,6 +357,15 @@ function handleLocationFilter(value) {
   // Add active class to clicked button
   event.target.classList.add('active');
 
+  // Track event type filter
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'event_type',
+      filter_value: value,
+      page_location: 'main_page'
+    });
+  }
+
   currentFilters.location = value;
   applyFilters();
 }
@@ -354,6 +381,15 @@ function handleStateFilter(value) {
 
   // Add active class to clicked button
   event.target.classList.add('active');
+
+  // Track state filter
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'filter_click', {
+      filter_type: 'state',
+      filter_value: value,
+      page_location: 'main_page'
+    });
+  }
 
   currentFilters.state = value;
   applyFilters();
@@ -418,6 +454,22 @@ function initEventListeners() {
       if (e.target.classList.contains('filter-option-btn')) {
         handleStateFilter(e.target.dataset.value);
       }
+    });
+  }
+}
+
+/**
+ * Track event click
+ */
+function trackEventClick(eventId, eventTitle, libraryName, clickSource) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'select_content', {
+      content_type: 'event',
+      content_id: eventId,
+      item_name: eventTitle,
+      library: libraryName,
+      click_source: clickSource,
+      page_location: 'main_page'
     });
   }
 }
