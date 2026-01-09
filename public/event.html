@@ -12,8 +12,27 @@
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Book club event details">
+
+  <!-- Primary Meta Tags -->
   <title>Event Details - Book Club Finder</title>
+  <meta name="title" content="Event Details - Book Club Finder">
+  <meta name="description" content="View details for this book club event including date, time, location, and registration information. Find your next book discussion group!">
+  <meta name="author" content="Book Club Event Finder">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://bookclub.bayareaselected.com/event.html">
+  <meta property="og:title" content="Book Club Event - Event Finder">
+  <meta property="og:description" content="View details for this book club event including date, time, location, and registration information.">
+  <meta property="og:image" content="https://bookclub.bayareaselected.com/og-image.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://bookclub.bayareaselected.com/event.html">
+  <meta property="twitter:title" content="Book Club Event - Event Finder">
+  <meta property="twitter:description" content="View details for this book club event including date, time, location, and registration information.">
+  <meta property="twitter:image" content="https://bookclub.bayareaselected.com/og-image.png">
+
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -173,6 +192,79 @@
           page_location: 'event_detail_page'
         });
       }
+
+      // Add structured data (JSON-LD) for this event
+      addEventStructuredData(event);
+    }
+
+    function addEventStructuredData(event) {
+      // Remove existing structured data if any
+      const existingSchema = document.querySelector('script[type="application/ld+json"]');
+      if (existingSchema) {
+        existingSchema.remove();
+      }
+
+      const schema = {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": event.title,
+        "description": event.description || "Book club event",
+        "startDate": event.start_date,
+        "endDate": event.end_date || event.start_date,
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": event.is_virtual
+          ? "https://schema.org/OnlineEventAttendanceMode"
+          : "https://schema.org/OfflineEventAttendanceMode",
+        "organizer": {
+          "@type": "Organization",
+          "name": event.library,
+          "url": event.link
+        },
+        "url": event.link
+      };
+
+      // Add location if not virtual
+      if (!event.is_virtual && event.location) {
+        schema.location = {
+          "@type": "Place",
+          "name": event.location.name || event.library,
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": event.location.number && event.location.street
+              ? `${event.location.number} ${event.location.street}`
+              : event.location.street,
+            "addressLocality": event.location.city,
+            "addressRegion": event.location.state,
+            "postalCode": event.location.zip
+          }
+        };
+      }
+
+      // Add book information if available
+      if (event.book && event.book.title) {
+        schema.about = {
+          "@type": "Book",
+          "name": event.book.title,
+          "author": event.book.author ? {
+            "@type": "Person",
+            "name": event.book.author
+          } : undefined
+        };
+      }
+
+      // Add registration info
+      if (event.registration && event.registration.required) {
+        schema.isAccessibleForFree = true;
+        if (event.registration.capacity) {
+          schema.maximumAttendeeCapacity = event.registration.capacity;
+        }
+      }
+
+      // Inject the schema into the page
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.text = JSON.stringify(schema);
+      document.head.appendChild(script);
     }
 
     function showError(message) {
