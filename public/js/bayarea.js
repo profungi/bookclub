@@ -1,4 +1,4 @@
-// Search and filtering logic
+// Bay Area specific search and filtering logic
 
 // Bay Area libraries list
 const BAY_AREA_LIBRARIES = [
@@ -13,40 +13,29 @@ const BAY_AREA_LIBRARIES = [
   'Pleasanton Public Library'
 ];
 
-// New England libraries list
-const NEW_ENGLAND_LIBRARIES = [
-  'Boston Public Library',
-  'Providence Public Library',
-  'Hartford Public Library',
-  'New Haven Free Public Library',
-  'Portland Public Library',
-  'Manchester City Library',
-  'Burlington Public Library',
-  'Rhode Island State Library',
-  'Connecticut State Library',
-  'Maine State Library'
-];
-
 let allEvents = [];
 let filteredEvents = [];
 let currentFilters = {
   search: '',
   dateRange: null,
   location: 'all',
-  state: 'all',
-  bayArea: false,
-  newEngland: false
+  library: 'all'
 };
 
 /**
- * Load events data from JSON
+ * Load events data from JSON and filter for Bay Area only
  */
 async function loadEvents() {
   try {
     showLoading();
     const response = await fetch('events.json');
     const data = await response.json();
-    allEvents = data.events || [];
+
+    // Filter to only include Bay Area libraries
+    allEvents = (data.events || []).filter(event =>
+      BAY_AREA_LIBRARIES.includes(event.library)
+    );
+
     filteredEvents = [...allEvents];
     hideLoading();
     applyFilters();
@@ -61,18 +50,18 @@ async function loadEvents() {
  * Populate filter dropdown options
  */
 function populateFilterOptions() {
-  // Get unique states
-  const states = getUniqueValues(allEvents, 'state_full');
-  const stateButtonsContainer = document.getElementById('state-buttons');
+  // Get unique libraries
+  const libraries = getUniqueValues(allEvents, 'library');
+  const libraryButtonsContainer = document.getElementById('library-buttons');
 
-  if (stateButtonsContainer) {
-    states.forEach(state => {
-      if (state) {
+  if (libraryButtonsContainer) {
+    libraries.forEach(library => {
+      if (library) {
         const button = document.createElement('button');
-        button.className = 'filter-option-btn state-btn';
-        button.dataset.value = state;
-        button.textContent = state;
-        stateButtonsContainer.appendChild(button);
+        button.className = 'filter-option-btn library-btn';
+        button.dataset.value = library;
+        button.textContent = library;
+        libraryButtonsContainer.appendChild(button);
       }
     });
   }
@@ -129,19 +118,9 @@ function applyFilters() {
       if (currentFilters.location === 'in-person' && event.is_virtual) return false;
     }
 
-    // State filter
-    if (currentFilters.state !== 'all') {
-      if (event.state_full !== currentFilters.state) return false;
-    }
-
-    // Bay Area filter
-    if (currentFilters.bayArea) {
-      if (!BAY_AREA_LIBRARIES.includes(event.library)) return false;
-    }
-
-    // New England filter
-    if (currentFilters.newEngland) {
-      if (!NEW_ENGLAND_LIBRARIES.includes(event.library)) return false;
+    // Library filter
+    if (currentFilters.library !== 'all') {
+      if (event.library !== currentFilters.library) return false;
     }
 
     return true;
@@ -202,7 +181,7 @@ function updateResultsCount() {
     const count = filteredEvents.length;
     const total = allEvents.length;
     resultsInfo.innerHTML = `
-      Showing <span class="results-count">${count}</span> of ${total} events
+      Showing <span class="results-count">${count}</span> of ${total} Bay Area events
     `;
   }
 }
@@ -213,7 +192,7 @@ function updateResultsCount() {
 function updateEventsCount() {
   const eventsCountEl = document.getElementById('events-count');
   if (eventsCountEl && allEvents.length > 0) {
-    eventsCountEl.textContent = `${allEvents.length}+ Events across North America`;
+    eventsCountEl.textContent = `${allEvents.length} Bay Area Library Events`;
   }
 }
 
@@ -295,21 +274,8 @@ function handleQuickFilter(filterType) {
   // Add active class to clicked button
   event.target.classList.add('active');
 
-  // Apply appropriate filter
-  if (filterType === 'bay-area') {
-    currentFilters.bayArea = true;
-    currentFilters.newEngland = false;
-    currentFilters.dateRange = null;
-  } else if (filterType === 'new-england') {
-    currentFilters.newEngland = true;
-    currentFilters.bayArea = false;
-    currentFilters.dateRange = null;
-  } else {
-    currentFilters.bayArea = false;
-    currentFilters.newEngland = false;
-    currentFilters.dateRange = getDateRange(filterType);
-  }
-
+  // Apply date range filter
+  currentFilters.dateRange = getDateRange(filterType);
   applyFilters();
   scrollToTop();
 }
@@ -322,8 +288,6 @@ function clearQuickFilter() {
     btn.classList.remove('active');
   });
   currentFilters.dateRange = null;
-  currentFilters.bayArea = false;
-  currentFilters.newEngland = false;
   applyFilters();
 }
 
@@ -344,18 +308,18 @@ function handleLocationFilter(value) {
 }
 
 /**
- * Handle state filter change
+ * Handle library filter change
  */
-function handleStateFilter(value) {
-  // Remove active class from all state buttons
-  document.querySelectorAll('#state-buttons .filter-option-btn').forEach(btn => {
+function handleLibraryFilter(value) {
+  // Remove active class from all library buttons
+  document.querySelectorAll('#library-buttons .filter-option-btn').forEach(btn => {
     btn.classList.remove('active');
   });
 
   // Add active class to clicked button
   event.target.classList.add('active');
 
-  currentFilters.state = value;
+  currentFilters.library = value;
   applyFilters();
 }
 
@@ -411,12 +375,12 @@ function initEventListeners() {
     });
   });
 
-  // State filter buttons (delegated event since they're added dynamically)
-  const stateButtonsContainer = document.getElementById('state-buttons');
-  if (stateButtonsContainer) {
-    stateButtonsContainer.addEventListener('click', (e) => {
+  // Library filter buttons (delegated event since they're added dynamically)
+  const libraryButtonsContainer = document.getElementById('library-buttons');
+  if (libraryButtonsContainer) {
+    libraryButtonsContainer.addEventListener('click', (e) => {
       if (e.target.classList.contains('filter-option-btn')) {
-        handleStateFilter(e.target.dataset.value);
+        handleLibraryFilter(e.target.dataset.value);
       }
     });
   }
