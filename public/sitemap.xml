@@ -8,6 +8,42 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Static filter pages (high priority - SEO optimized) -->
+  <url>
+    <loc>https://bookclub.bayareaselected.com/today.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bookclub.bayareaselected.com/tomorrow.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bookclub.bayareaselected.com/this-month.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://bookclub.bayareaselected.com/next-month.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bookclub.bayareaselected.com/online.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
   <!-- Bay Area page -->
   <url>
     <loc>https://bookclub.bayareaselected.com/bayarea.html</loc>

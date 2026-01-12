@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKLYFEERNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JKLYFEERNL');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary Meta Tags -->
+  <title>{{ page_config.title }}</title>
+  <meta name="title" content="{{ page_config.title }}">
+  <meta name="description" content="{{ page_config.description }}">
+  <meta name="keywords" content="{{ page_config.keywords }}">
+  <meta name="author" content="Book Club Event Finder">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bookclub.bayareaselected.com/{{ page_config.filename }}">
+  <meta property="og:title" content="{{ page_config.title }}">
+  <meta property="og:description" content="{{ page_config.description }}">
+  <meta property="og:image" content="https://bookclub.bayareaselected.com/og-image.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://bookclub.bayareaselected.com/{{ page_config.filename }}">
+  <meta property="twitter:title" content="{{ page_config.title }}">
+  <meta property="twitter:description" content="{{ page_config.description }}">
+  <meta property="twitter:image" content="https://bookclub.bayareaselected.com/og-image.png">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://bookclub.bayareaselected.com/{{ page_config.filename }}">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "{{ page_config.title }}",
+    "description": "{{ page_config.description }}",
+    "url": "https://bookclub.bayareaselected.com/{{ page_config.filename }}"
+  }
+  </script>
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <div class="header-badge">
+        <span class="badge-icon">✨</span>
+        <span class="badge-text">{{ events|length }} {{ page_config.badge_text }}</span>
+      </div>
+      <h1 class="main-title">
+        {{ page_config.heading|safe }}
+      </h1>
+      <p class="subtitle">{{ page_config.subtitle }}</p>
+    </div>
+  </header>
+
+  <!-- Quick Navigation -->
+  <section class="search-section">
+    <div class="container">
+      <div class="quick-filters">
+        <a href="/" class="quick-filter-btn">
+          <span class="btn-icon">🌐</span>
+          <span>All Events</span>
+        </a>
+        <a href="/today.html" class="quick-filter-btn {% if page_config.filter_type == 'today' %}active{% endif %}">
+          <span class="btn-icon">🔥</span>
+          <span>Today</span>
+        </a>
+        <a href="/tomorrow.html" class="quick-filter-btn {% if page_config.filter_type == 'tomorrow' %}active{% endif %}">
+          <span class="btn-icon">☀️</span>
+          <span>Tomorrow</span>
+        </a>
+        <a href="/this-month.html" class="quick-filter-btn {% if page_config.filter_type == 'this-month' %}active{% endif %}">
+          <span class="btn-icon">📅</span>
+          <span>This Month</span>
+        </a>
+        <a href="/next-month.html" class="quick-filter-btn {% if page_config.filter_type == 'next-month' %}active{% endif %}">
+          <span class="btn-icon">⏩</span>
+          <span>Next Month</span>
+        </a>
+        <a href="/online.html" class="quick-filter-btn {% if page_config.filter_type == 'online' %}active{% endif %}">
+          <span class="btn-icon">💻</span>
+          <span>Online</span>
+        </a>
+        <a href="/bayarea.html" class="quick-filter-btn">
+          <span class="btn-icon">🌉</span>
+          <span>Bay Area</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Results Info -->
+  <div class="results-info" id="results-info">
+    Showing <span class="results-count">{{ events|length }}</span> events
+  </div>
+
+  <!-- Events Table -->
+  <main class="table-container">
+    <div class="table-wrapper">
+      <table class="events-table" id="events-table">
+        <thead>
+          <tr>
+            <th>Event Name</th>
+            <th>Type</th>
+            <th>Library</th>
+            <th>Date & Time</th>
+            <th>Day of Week</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+        <tbody id="events-container">
+          {% if events|length == 0 %}
+          <tr>
+            <td colspan="6">
+              <div class="empty-state">
+                <div class="empty-state-icon">📚</div>
+                <h3>No events found</h3>
+                <p>{{ page_config.empty_message }}</p>
+                <p style="margin-top: 16px;">
+                  <a href="/" style="color: var(--primary-color);">← View all events</a>
+                </p>
+              </div>
+            </td>
+          </tr>
+          {% else %}
+          {% for event in events %}
+          <tr>
+            <td class="event-name">
+              <a href="event.html?id={{ event.id }}">{{ event.title }}</a>
+            </td>
+            <td>
+              {% if event.is_virtual %}
+              <span class="type-badge online">ONLINE</span>
+              {% else %}
+              <span class="type-badge in-person">IN PERSON</span>
+              {% endif %}
+            </td>
+            <td class="library-name">{{ event.library }}</td>
+            <td class="event-date">{{ event.formatted_date }}</td>
+            <td>{{ event.week_slots|safe }}</td>
+            <td>
+              <a href="event.html?id={{ event.id }}" class="details-link">View →</a>
+            </td>
+          </tr>
+          {% endfor %}
+          {% endif %}
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>Data updated daily from library RSS feeds · Generated: {{ generation_time }}</p>
+      <p style="margin-top: 8px; font-size: 13px;">
+        Built with ❤️ for book lovers everywhere
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/utils.js"></script>
+  <script>
+    // Preloaded event data for JavaScript enhancement
+    window.preloadedEvents = {{ events_json|safe }};
+    window.initialFilter = '{{ page_config.filter_type }}';
+  </script>
+</body>
+
+</html>
