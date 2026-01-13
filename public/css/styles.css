@@ -161,6 +161,7 @@ body {
   transition: all 0.2s;
   color: var(--text-dark);
   white-space: nowrap;
+  text-decoration: none;
 }
 
 .quick-filter-btn .btn-icon {
