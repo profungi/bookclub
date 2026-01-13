@@ -276,6 +276,120 @@ function showEmptyState() {
 }
 
 /**
+ * Update URL with current filters
+ */
+function updateURL() {
+  const params = new URLSearchParams();
+
+  if (currentFilters.search) {
+    params.set('search', currentFilters.search);
+  }
+
+  if (currentFilters.dateRange) {
+    // Determine which date filter is active
+    if (currentFilters.bayArea) {
+      params.set('filter', 'bay-area');
+    } else if (currentFilters.newEngland) {
+      params.set('filter', 'new-england');
+    } else {
+      // Figure out the date range type
+      const now = new Date();
+      const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+      const tomorrow = new Date(today.getTime() + 24 * 60 * 60 * 1000);
+
+      if (currentFilters.dateRange.start.getTime() === today.getTime()) {
+        params.set('filter', 'today');
+      } else if (currentFilters.dateRange.start.getTime() === tomorrow.getTime()) {
+        params.set('filter', 'tomorrow');
+      } else {
+        // Check for this-month or next-month
+        const startMonth = currentFilters.dateRange.start.getMonth();
+        if (startMonth === now.getMonth()) {
+          params.set('filter', 'this-month');
+        } else if (startMonth === now.getMonth() + 1) {
+          params.set('filter', 'next-month');
+        }
+      }
+    }
+  }
+
+  if (currentFilters.location !== 'all') {
+    params.set('type', currentFilters.location);
+  }
+
+  if (currentFilters.state !== 'all') {
+    params.set('state', currentFilters.state);
+  }
+
+  if (currentFilters.bayArea) {
+    params.set('region', 'bay-area');
+  } else if (currentFilters.newEngland) {
+    params.set('region', 'new-england');
+  }
+
+  const newURL = params.toString() ? `?${params.toString()}` : window.location.pathname;
+  window.history.pushState({}, '', newURL);
+}
+
+/**
+ * Initialize filters from URL parameters
+ */
+function initFromURL() {
+  const params = new URLSearchParams(window.location.search);
+
+  if (params.has('search')) {
+    currentFilters.search = params.get('search');
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      searchInput.value = params.get('search');
+    }
+  }
+
+  if (params.has('filter')) {
+    const filterValue = params.get('filter');
+    currentFilters.dateRange = getDateRange(filterValue);
+
+    if (filterValue === 'bay-area') {
+      currentFilters.bayArea = true;
+    } else if (filterValue === 'new-england') {
+      currentFilters.newEngland = true;
+    }
+
+    // Activate the corresponding button
+    document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+      if (btn.dataset.filter === filterValue) {
+        btn.classList.add('active');
+      }
+    });
+  }
+
+  if (params.has('type')) {
+    currentFilters.location = params.get('type');
+    // Activate the corresponding button
+    document.querySelectorAll('#event-type-buttons .filter-option-btn').forEach(btn => {
+      btn.classList.remove('active');
+      if (btn.dataset.value === params.get('type')) {
+        btn.classList.add('active');
+      }
+    });
+  }
+
+  if (params.has('state')) {
+    currentFilters.state = params.get('state');
+    // Will activate button after states are populated
+  }
+
+  if (params.has('region')) {
+    const region = params.get('region');
+    if (region === 'bay-area') {
+      currentFilters.bayArea = true;
+    } else if (region === 'new-england') {
+      currentFilters.newEngland = true;
+    }
+  }
+}
+
+/**
  * Handle search input
  */
 function handleSearch(event) {
@@ -290,6 +404,7 @@ function handleSearch(event) {
   }
 
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -329,6 +444,7 @@ function handleQuickFilter(filterType) {
   }
 
   applyFilters();
+  updateURL();
   scrollToTop();
 }
 
@@ -343,6 +459,7 @@ function clearQuickFilter() {
   currentFilters.bayArea = false;
   currentFilters.newEngland = false;
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -368,6 +485,7 @@ function handleLocationFilter(value) {
 
   currentFilters.location = value;
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -393,6 +511,7 @@ function handleStateFilter(value) {
 
   currentFilters.state = value;
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -479,6 +598,7 @@ function trackEventClick(eventId, eventTitle, libraryName, clickSource) {
  */
 function init() {
   initEventListeners();
+  initFromURL(); // Read URL parameters first
   loadEvents();
 }
 
