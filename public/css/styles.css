@@ -182,18 +182,6 @@ body {
   box-shadow: 0 4px 12px hsla(250, 84%, 54%, 0.3);
 }
 
-.quick-filter-btn[data-filter="today"] {
-  background: var(--gradient-hero);
-  color: white;
-  border-color: transparent;
-  box-shadow: 0 4px 12px hsla(250, 84%, 54%, 0.3);
-}
-
-.quick-filter-btn[data-filter="today"]:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 6px 16px hsla(250, 84%, 54%, 0.4);
-}
-
 /* Advanced Filters */
 .filter-toggle {
   display: flex;

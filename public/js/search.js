@@ -336,6 +336,7 @@ function updateURL() {
  */
 function initFromURL() {
   const params = new URLSearchParams(window.location.search);
+  let hasAnyFilter = false;
 
   if (params.has('search')) {
     currentFilters.search = params.get('search');
@@ -343,6 +344,7 @@ function initFromURL() {
     if (searchInput) {
       searchInput.value = params.get('search');
     }
+    hasAnyFilter = true;
   }
 
   if (params.has('filter')) {
@@ -355,12 +357,18 @@ function initFromURL() {
       currentFilters.newEngland = true;
     }
 
-    // Activate the corresponding button
+    // Deactivate "All Events" and activate the corresponding filter button
+    const allEventsBtn = document.getElementById('all-events-btn');
+    if (allEventsBtn) {
+      allEventsBtn.classList.remove('active');
+    }
+
     document.querySelectorAll('.quick-filter-btn').forEach(btn => {
       if (btn.dataset.filter === filterValue) {
         btn.classList.add('active');
       }
     });
+    hasAnyFilter = true;
   }
 
   if (params.has('type')) {
@@ -372,10 +380,12 @@ function initFromURL() {
         btn.classList.add('active');
       }
     });
+    hasAnyFilter = true;
   }
 
   if (params.has('state')) {
     currentFilters.state = params.get('state');
+    hasAnyFilter = true;
     // Will activate button after states are populated
   }
 
@@ -385,6 +395,15 @@ function initFromURL() {
       currentFilters.bayArea = true;
     } else if (region === 'new-england') {
       currentFilters.newEngland = true;
+    }
+    hasAnyFilter = true;
+  }
+
+  // If no filters from URL, ensure "All Events" is active
+  if (!hasAnyFilter) {
+    const allEventsBtn = document.getElementById('all-events-btn');
+    if (allEventsBtn) {
+      allEventsBtn.classList.add('active');
     }
   }
 }
@@ -408,16 +427,81 @@ function handleSearch(event) {
 }
 
 /**
+ * Clear all filters and return to showing all events
+ */
+function clearAllFilters() {
+  // Reset all filters
+  currentFilters.search = '';
+  currentFilters.dateRange = null;
+  currentFilters.location = 'all';
+  currentFilters.state = 'all';
+  currentFilters.bayArea = false;
+  currentFilters.newEngland = false;
+
+  // Clear search input
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) {
+    searchInput.value = '';
+  }
+
+  // Remove active class from all quick filter buttons
+  document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+
+  // Activate "All Events" button
+  const allEventsBtn = document.getElementById('all-events-btn');
+  if (allEventsBtn) {
+    allEventsBtn.classList.add('active');
+  }
+
+  // Reset event type filter buttons
+  document.querySelectorAll('#event-type-buttons .filter-option-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.dataset.value === 'all') {
+      btn.classList.add('active');
+    }
+  });
+
+  // Reset state filter buttons
+  document.querySelectorAll('#state-buttons .filter-option-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.dataset.value === 'all') {
+      btn.classList.add('active');
+    }
+  });
+
+  applyFilters();
+  updateURL();
+}
+
+/**
  * Handle quick filter click
  */
 function handleQuickFilter(filterType) {
+  // Handle "All Events" button - clear all filters
+  if (filterType === 'all') {
+    clearAllFilters();
+    scrollToTop();
+    return;
+  }
+
+  // Check if clicking an already active filter (toggle off)
+  const clickedButton = event.target.closest('.quick-filter-btn');
+  if (clickedButton && clickedButton.classList.contains('active')) {
+    // Toggle off - return to all events
+    clearAllFilters();
+    scrollToTop();
+    return;
+  }
+
   // Remove active class from all quick filters
   document.querySelectorAll('.quick-filter-btn').forEach(btn => {
     btn.classList.remove('active');
   });
 
   // Add active class to clicked button
-  event.target.classList.add('active');
+  clickedButton.classList.add('active');
 
   // Track quick filter click
   if (typeof gtag !== 'undefined') {
