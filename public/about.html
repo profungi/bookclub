@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKLYFEERNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JKLYFEERNL');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary Meta Tags -->
+  <title>About - Book Club Event Finder | Our Mission & How It Works</title>
+  <meta name="title" content="About - Book Club Event Finder | Our Mission & How It Works">
+  <meta name="description" content="Learn about Book Club Event Finder, how we aggregate 1400+ library events daily, our mission to connect readers with book clubs, and the technology behind our service.">
+  <meta name="keywords" content="about book club finder, library event aggregator, how it works, mission, open source">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bookclub.bayareaselected.com/about.html">
+  <meta property="og:title" content="About - Book Club Event Finder">
+  <meta property="og:description" content="Learn about our mission to connect readers with book clubs across North America.">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary">
+  <meta property="twitter:url" content="https://bookclub.bayareaselected.com/about.html">
+  <meta property="twitter:title" content="About - Book Club Event Finder">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://bookclub.bayareaselected.com/about.html">
+
+  <!-- AboutPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About Book Club Event Finder",
+    "description": "Learn about our mission to connect readers with book clubs and literary events across North America",
+    "url": "https://bookclub.bayareaselected.com/about.html",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "Book Club Event Finder",
+      "description": "A free service aggregating book club events from 66+ public libraries across North America",
+      "url": "https://bookclub.bayareaselected.com/",
+      "foundingDate": "2024",
+      "areaServed": ["United States", "Canada"],
+      "serviceType": "Event Aggregation Platform",
+      "knowsAbout": ["Book Clubs", "Library Events", "Reading Groups", "Literary Discussions"]
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    .about-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .about-header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .about-header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 15px;
+      background: var(--gradient-hero);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .about-header p {
+      font-size: 1.2rem;
+      color: var(--text-secondary);
+      max-width: 700px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    .about-section {
+      margin-bottom: 50px;
+      background: white;
+      border-radius: 12px;
+      padding: 35px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .about-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      color: var(--primary);
+    }
+
+    .about-section p {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--text-secondary);
+      margin-bottom: 15px;
+    }
+
+    .about-section ul {
+      margin: 15px 0;
+      padding-left: 25px;
+    }
+
+    .about-section li {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--text-secondary);
+      margin-bottom: 10px;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 30px 0;
+    }
+
+    .stat-card {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+      color: white;
+      padding: 25px;
+      border-radius: 12px;
+      text-align: center;
+    }
+
+    .stat-number {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .stat-label {
+      font-size: 0.95rem;
+      opacity: 0.95;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 20px 0;
+    }
+
+    .tech-badge {
+      background: var(--bg-secondary);
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      color: var(--text-primary);
+      font-weight: 500;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: var(--gradient-hero);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: transform 0.2s ease;
+    }
+
+    .back-link:hover {
+      transform: translateY(-2px);
+    }
+
+    .breadcrumb {
+      margin-bottom: 30px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .highlight-box {
+      background: var(--bg-secondary);
+      border-left: 4px solid var(--primary);
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 4px;
+    }
+
+    .highlight-box p {
+      margin-bottom: 0;
+      color: var(--text-primary);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="about-container">
+    <!-- Breadcrumb for SEO -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> / <span>About</span>
+    </nav>
+
+    <div class="about-header">
+      <h1>About Book Club Event Finder</h1>
+      <p>Connecting readers with book clubs and literary events across North America</p>
+    </div>
+
+    <!-- Mission Section -->
+    <section class="about-section">
+      <h2>Our Mission</h2>
+      <p>
+        <strong>Book Club Event Finder</strong> was created to solve a simple problem: it's hard to discover book club events and reading groups in your area. While public libraries offer hundreds of amazing literary programs, finding them requires visiting multiple library websites individually.
+      </p>
+      <p>
+        Our mission is to <strong>centralize and simplify</strong> the discovery of book club events by aggregating programs from libraries across the United States and Canada into one searchable, easy-to-use platform. We believe that everyone deserves access to vibrant reading communities, whether online or in person.
+      </p>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="about-section">
+      <h2>By the Numbers</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-number">1400+</div>
+          <div class="stat-label">Active Events</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">66+</div>
+          <div class="stat-label">Library Systems</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">Daily</div>
+          <div class="stat-label">Data Updates</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">2</div>
+          <div class="stat-label">Countries</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="about-section">
+      <h2>How It Works</h2>
+      <p>
+        Book Club Event Finder uses <strong>automated data aggregation</strong> to collect event information from public library RSS feeds:
+      </p>
+      <ul>
+        <li><strong>Daily Updates:</strong> Every day, our system automatically fetches the latest events from 66+ library RSS feeds using GitHub Actions</li>
+        <li><strong>Smart Filtering:</strong> Events are parsed, deduplicated, and categorized (online vs. in-person, by location, by date)</li>
+        <li><strong>Automatic Cleanup:</strong> Past events are automatically removed to keep listings fresh and relevant</li>
+        <li><strong>Static Site Generation:</strong> Popular filter views (Today, Tomorrow, This Month, etc.) are pre-rendered daily for fast SEO-friendly pages</li>
+        <li><strong>Real-time Search:</strong> Users can search by book title, author, library, or topic with instant results</li>
+      </ul>
+      <div class="highlight-box">
+        <p>
+          <strong>Note:</strong> We aggregate publicly available event data. For registration and attendance policies, please refer to each library's official page.
+        </p>
+      </div>
+    </section>
+
+    <!-- Technology Stack -->
+    <section class="about-section">
+      <h2>Technology Stack</h2>
+      <p>
+        This platform is built with modern web technologies to ensure fast performance and reliable daily updates:
+      </p>
+      <div class="tech-stack">
+        <span class="tech-badge">Python</span>
+        <span class="tech-badge">JavaScript</span>
+        <span class="tech-badge">GitHub Actions</span>
+        <span class="tech-badge">Jinja2 Templates</span>
+        <span class="tech-badge">RSS Feed Parsing</span>
+        <span class="tech-badge">JSON-LD Schema</span>
+        <span class="tech-badge">Google Analytics</span>
+        <span class="tech-badge">Static Site Generation</span>
+      </div>
+      <p style="margin-top: 20px;">
+        The entire platform is automated and runs serverlessly using GitHub Pages and GitHub Actions, ensuring zero downtime and minimal maintenance costs.
+      </p>
+    </section>
+
+    <!-- Coverage -->
+    <section class="about-section">
+      <h2>Library Coverage</h2>
+      <p>
+        We currently aggregate events from major public library systems including:
+      </p>
+      <ul>
+        <li><strong>California:</strong> San Francisco, San José, Oakland, Palo Alto, Pleasanton, Alameda County, Contra Costa County, San Mateo County, Santa Clara County</li>
+        <li><strong>New York:</strong> New York Public Library system and branches</li>
+        <li><strong>Other States:</strong> Libraries across Washington, Oregon, Texas, Illinois, Massachusetts, and more</li>
+        <li><strong>Canada:</strong> Select library systems in major Canadian cities</li>
+      </ul>
+      <p>
+        Our coverage continues to grow. If you'd like to suggest a library system to add, please reach out!
+      </p>
+    </section>
+
+    <!-- Privacy & Data -->
+    <section class="about-section">
+      <h2>Privacy & Data</h2>
+      <p>
+        <strong>Your Privacy Matters:</strong> Book Club Event Finder does not collect personal information. We use Google Analytics to understand aggregate usage patterns (page views, popular searches) to improve the service.
+      </p>
+      <p>
+        <strong>Data Source:</strong> All event data is sourced from publicly available library RSS feeds. We do not modify event content; we simply aggregate and present it in a searchable format.
+      </p>
+      <p>
+        <strong>Registration:</strong> When you click to register for an event, you are directed to the library's official registration page. We do not handle registration ourselves.
+      </p>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="about-section">
+      <h2>Join the Community</h2>
+      <p>
+        Whether you're a lifelong reader or just discovering the joy of book clubs, we invite you to explore our event listings and find your next literary adventure. Book clubs offer more than just book discussions—they create communities, spark conversations, and connect people through shared stories.
+      </p>
+      <p style="margin-top: 20px;">
+        <strong>Ready to find your next book club?</strong>
+      </p>
+      <a href="/" class="back-link">Browse Events →</a>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>
+        <a href="/" style="color: inherit;">Home</a> ·
+        <a href="/about.html" style="color: inherit;">About</a> ·
+        <a href="/faq.html" style="color: inherit;">FAQ</a>
+      </p>
+      <p style="margin-top: 8px; font-size: 13px;">
+        Built with ❤️ for book lovers everywhere
+      </p>
+    </div>
+  </footer>
+</body>
+
+</html>

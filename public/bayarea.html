@@ -73,6 +73,10 @@
 
       <!-- Quick Filters -->
       <div class="quick-filters">
+        <button class="quick-filter-btn active" data-filter="all" id="all-events-btn">
+          <span class="btn-icon">🌐</span>
+          <span>All Events</span>
+        </button>
         <button class="quick-filter-btn" data-filter="today">
           <span class="btn-icon">🔥</span>
           <span>Today</span>
@@ -160,7 +164,11 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p>Data updated daily from library RSS feeds · Last update: <span id="last-update">-</span></p>
+      <p>
+        <a href="/about.html" style="color: inherit; text-decoration: underline;">About</a> ·
+        <a href="/faq.html" style="color: inherit; text-decoration: underline;">FAQ</a>
+      </p>
+      <p style="margin-top: 8px;">Data updated daily from library RSS feeds · Last update: <span id="last-update">-</span></p>
       <p style="margin-top: 8px; font-size: 13px;">
         Built with ❤️ for book lovers everywhere
       </p>

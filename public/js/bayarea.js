@@ -61,6 +61,17 @@ function populateFilterOptions() {
         button.className = 'filter-option-btn library-btn';
         button.dataset.value = library;
         button.textContent = library;
+
+        // Activate if this library matches the URL parameter
+        if (currentFilters.library === library) {
+          button.classList.add('active');
+          // Also deactivate "All Libraries" button
+          const allButton = libraryButtonsContainer.querySelector('[data-value="all"]');
+          if (allButton) {
+            allButton.classList.remove('active');
+          }
+        }
+
         libraryButtonsContainer.appendChild(button);
       }
     });
@@ -68,6 +79,175 @@ function populateFilterOptions() {
 
   // Update total events count
   updateEventsCount();
+}
+
+/**
+ * Update URL with current filter state
+ */
+function updateURL() {
+  const params = new URLSearchParams();
+
+  // Add search parameter
+  if (currentFilters.search) {
+    params.set('search', currentFilters.search);
+  }
+
+  // Add location/type parameter
+  if (currentFilters.location !== 'all') {
+    params.set('type', currentFilters.location);
+  }
+
+  // Add library parameter
+  if (currentFilters.library !== 'all') {
+    params.set('library', currentFilters.library);
+  }
+
+  // Add date range parameter
+  if (currentFilters.dateRange) {
+    const dateRangeType = getDateRangeType(currentFilters.dateRange);
+    if (dateRangeType) {
+      params.set('date', dateRangeType);
+    }
+  }
+
+  // Update URL without reloading page
+  const newURL = params.toString()
+    ? `${window.location.pathname}?${params.toString()}`
+    : window.location.pathname;
+  window.history.pushState({}, '', newURL);
+}
+
+/**
+ * Get date range type identifier from date range object
+ */
+function getDateRangeType(dateRange) {
+  if (!dateRange) return null;
+
+  const today = getDateRange('today');
+  const tomorrow = getDateRange('tomorrow');
+  const thisWeek = getDateRange('this-week');
+  const thisMonth = getDateRange('this-month');
+  const nextMonth = getDateRange('next-month');
+
+  if (dateRange.start.getTime() === today.start.getTime() &&
+      dateRange.end.getTime() === today.end.getTime()) {
+    return 'today';
+  }
+  if (dateRange.start.getTime() === tomorrow.start.getTime() &&
+      dateRange.end.getTime() === tomorrow.end.getTime()) {
+    return 'tomorrow';
+  }
+  if (dateRange.start.getTime() === thisWeek.start.getTime() &&
+      dateRange.end.getTime() === thisWeek.end.getTime()) {
+    return 'this-week';
+  }
+  if (dateRange.start.getTime() === thisMonth.start.getTime() &&
+      dateRange.end.getTime() === thisMonth.end.getTime()) {
+    return 'this-month';
+  }
+  if (dateRange.start.getTime() === nextMonth.start.getTime() &&
+      dateRange.end.getTime() === nextMonth.end.getTime()) {
+    return 'next-month';
+  }
+
+  return null;
+}
+
+/**
+ * Initialize filters from URL parameters
+ */
+function initFromURL() {
+  const params = new URLSearchParams(window.location.search);
+
+  // Read search parameter
+  if (params.has('search')) {
+    currentFilters.search = params.get('search');
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      searchInput.value = currentFilters.search;
+    }
+  }
+
+  // Read type parameter
+  if (params.has('type')) {
+    currentFilters.location = params.get('type');
+    // Activate corresponding button
+    document.querySelectorAll('#event-type-buttons .filter-option-btn').forEach(btn => {
+      if (btn.dataset.value === currentFilters.location) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+  }
+
+  // Read library parameter
+  if (params.has('library')) {
+    currentFilters.library = params.get('library');
+    // Note: library buttons are added dynamically, will be activated after population
+  }
+
+  // Read date parameter
+  if (params.has('date')) {
+    const dateType = params.get('date');
+    currentFilters.dateRange = getDateRange(dateType);
+    // Activate corresponding quick filter button
+    document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+      if (btn.dataset.filter === dateType) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+  }
+}
+
+/**
+ * Clear all filters and return to "All Events" view
+ */
+function clearAllFilters() {
+  // Reset all filter state
+  currentFilters.search = '';
+  currentFilters.dateRange = null;
+  currentFilters.location = 'all';
+  currentFilters.library = 'all';
+
+  // Reset search input
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) {
+    searchInput.value = '';
+  }
+
+  // Reset quick filter buttons
+  document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+    if (btn.dataset.filter === 'all') {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+
+  // Reset event type buttons
+  document.querySelectorAll('#event-type-buttons .filter-option-btn').forEach(btn => {
+    if (btn.dataset.value === 'all') {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+
+  // Reset library buttons
+  document.querySelectorAll('#library-buttons .filter-option-btn').forEach(btn => {
+    if (btn.dataset.value === 'all') {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+
+  // Apply filters and update URL
+  applyFilters();
+  updateURL();
 }
 
 /**
@@ -269,12 +449,29 @@ function handleSearch(event) {
   }
 
   applyFilters();
+  updateURL();
 }
 
 /**
  * Handle quick filter click
  */
 function handleQuickFilter(filterType) {
+  // If "all" button clicked, clear all filters
+  if (filterType === 'all') {
+    clearAllFilters();
+    scrollToTop();
+    return;
+  }
+
+  // Check if clicking already active filter (toggle off)
+  const clickedButton = event.target.closest('.quick-filter-btn');
+  if (clickedButton && clickedButton.classList.contains('active')) {
+    // Toggle off - return to All Events
+    clearAllFilters();
+    scrollToTop();
+    return;
+  }
+
   // Remove active class from all quick filters
   document.querySelectorAll('.quick-filter-btn').forEach(btn => {
     btn.classList.remove('active');
@@ -295,6 +492,7 @@ function handleQuickFilter(filterType) {
   // Apply date range filter
   currentFilters.dateRange = getDateRange(filterType);
   applyFilters();
+  updateURL();
   scrollToTop();
 }
 
@@ -332,6 +530,7 @@ function handleLocationFilter(value) {
 
   currentFilters.location = value;
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -357,6 +556,7 @@ function handleLibraryFilter(value) {
 
   currentFilters.library = value;
   applyFilters();
+  updateURL();
 }
 
 /**
@@ -383,11 +583,7 @@ function initEventListeners() {
   document.querySelectorAll('.quick-filter-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
       const filterType = btn.dataset.filter;
-      if (btn.classList.contains('active')) {
-        clearQuickFilter();
-      } else {
-        handleQuickFilter(filterType);
-      }
+      handleQuickFilter(filterType);
     });
   });
 
@@ -443,6 +639,7 @@ function trackEventClick(eventId, eventTitle, libraryName, clickSource) {
  */
 function init() {
   initEventListeners();
+  initFromURL();
   loadEvents();
 }
 
