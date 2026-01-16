@@ -59,4 +59,19 @@
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <!-- Information pages (AIEO optimized) -->
+  <url>
+    <loc>https://bookclub.bayareaselected.com/about.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://bookclub.bayareaselected.com/faq.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

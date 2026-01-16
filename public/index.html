@@ -50,7 +50,35 @@
       "@type": "SearchAction",
       "target": "https://bookclub.bayareaselected.com/?search={search_term_string}",
       "query-input": "required name=search_term_string"
-    }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Book Club Event Finder"
+    },
+    "keywords": "book clubs, library events, reading groups, North America, online book clubs, in-person events",
+    "inLanguage": "en-US"
+  }
+  </script>
+
+  <!-- Organization Schema for AIEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Book Club Event Finder",
+    "url": "https://bookclub.bayareaselected.com/",
+    "logo": "https://bookclub.bayareaselected.com/og-image.png",
+    "description": "A comprehensive directory aggregating 1400+ book club events from 66+ public libraries across North America. Updated daily.",
+    "areaServed": ["United States", "Canada"],
+    "serviceType": "Event Discovery Platform",
+    "knowsAbout": [
+      "Book Clubs",
+      "Library Events",
+      "Reading Groups",
+      "Literary Discussions",
+      "Author Talks",
+      "Book Discussions"
+    ]
   }
   </script>
 
@@ -61,6 +89,22 @@
   <!-- Header -->
   <header class="header">
     <div class="container">
+      <!-- SEO/AIEO Content - Structured description for AI engines -->
+      <div style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0);">
+        <h2>What is Book Club Event Finder?</h2>
+        <p>Book Club Event Finder is a free service that helps you discover book clubs, reading groups, and literary events from public libraries across the United States and Canada. We aggregate over 1400 events from 66+ library systems and update our listings daily.</p>
+        <h2>How to use this site:</h2>
+        <ul>
+          <li>Use the search bar to find events by book title, author, library, or topic</li>
+          <li>Filter by date: Today, Tomorrow, This Month, or Next Month</li>
+          <li>Filter by type: Online events or In-Person events</li>
+          <li>Filter by location: Browse by state, province, or Bay Area libraries</li>
+          <li>Click any event to view details and register through the library's website</li>
+        </ul>
+        <h2>Event Coverage:</h2>
+        <p>We cover public library events from major cities including San Francisco, San José, Oakland, New York, and many others across North America. Events include book discussions, author talks, reading groups, literary clubs, and more.</p>
+      </div>
+
       <div class="header-badge">
         <span class="badge-icon">✨</span>
         <span class="badge-text" id="events-count">1400+ Events across North America</span>
@@ -180,7 +224,11 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p>Data updated daily from library RSS feeds · Last update: <span id="last-update">-</span></p>
+      <p>
+        <a href="/about.html" style="color: inherit; text-decoration: underline;">About</a> ·
+        <a href="/faq.html" style="color: inherit; text-decoration: underline;">FAQ</a>
+      </p>
+      <p style="margin-top: 8px;">Data updated daily from library RSS feeds · Last update: <span id="last-update">-</span></p>
       <p style="margin-top: 8px; font-size: 13px;">
         Built with ❤️ for book lovers everywhere
       </p>
