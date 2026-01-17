@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKLYFEERNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JKLYFEERNL');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary Meta Tags -->
+  <title>Partner Libraries | 66 Public Library Systems Across North America</title>
+  <meta name="title" content="Partner Libraries | 66 Public Library Systems Across North America">
+  <meta name="description" content="Book Club Event Finder aggregates events from 66 public library systems across the United States and Canada. Browse our full list of partner libraries.">
+  <meta name="keywords" content="public libraries, library systems, book club libraries, North America libraries">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bookclub.bayareaselected.com/libraries.html">
+  <meta property="og:title" content="Partner Libraries | Book Club Event Finder">
+  <meta property="og:description" content="We aggregate book club events from 66 public library systems across North America.">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary">
+  <meta property="twitter:url" content="https://bookclub.bayareaselected.com/libraries.html">
+  <meta property="twitter:title" content="Partner Libraries | Book Club Event Finder">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://bookclub.bayareaselected.com/libraries.html">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    .libraries-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .libraries-header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .libraries-header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 15px;
+      background: var(--gradient-hero);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .libraries-header p {
+      font-size: 1.2rem;
+      color: var(--text-secondary);
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    .breadcrumb {
+      margin-bottom: 30px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .stats-summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-bottom: 50px;
+    }
+
+    .stat-box {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .stat-box-number {
+      font-size: 3rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 10px;
+    }
+
+    .stat-box-label {
+      font-size: 1rem;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .intro-section {
+      background: white;
+      border-radius: 12px;
+      padding: 35px;
+      margin-bottom: 40px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .intro-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      color: var(--primary);
+    }
+
+    .intro-section p {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--text-secondary);
+      margin-bottom: 15px;
+    }
+
+    .cta-box {
+      background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #ec4899 100%);
+      color: white;
+      border-radius: 12px;
+      padding: 30px;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .cta-box h3 {
+      font-size: 1.5rem;
+      margin-bottom: 15px;
+      color: white;
+    }
+
+    .cta-box p {
+      font-size: 1.05rem;
+      margin-bottom: 20px;
+      opacity: 0.95;
+    }
+
+    .cta-box a {
+      display: inline-block;
+      background: white;
+      color: #6366f1;
+      padding: 12px 30px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform 0.2s ease;
+    }
+
+    .cta-box a:hover {
+      transform: translateY(-2px);
+    }
+
+    .region-section {
+      margin-bottom: 40px;
+    }
+
+    .region-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 3px solid var(--primary);
+    }
+
+    .libraries-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .library-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      border-left: 4px solid var(--primary);
+    }
+
+    .library-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .library-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+
+    .library-location {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+    }
+
+    .library-link {
+      display: inline-block;
+      color: var(--primary);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    .library-link:hover {
+      text-decoration: underline;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 40px;
+      padding: 12px 24px;
+      background: var(--gradient-hero);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: transform 0.2s ease;
+    }
+
+    .back-link:hover {
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="libraries-container">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> / <span>Partner Libraries</span>
+    </nav>
+
+    <div class="libraries-header">
+      <h1>Our Partner Libraries</h1>
+      <p>We aggregate book club events from 66 public library systems across the United States and Canada</p>
+    </div>
+
+    <!-- Stats Summary -->
+    <div class="stats-summary">
+      <div class="stat-box">
+        <div class="stat-box-number">66</div>
+        <div class="stat-box-label">Library Systems</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-box-number">1400+</div>
+        <div class="stat-box-label">Active Events</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-box-number">Daily</div>
+        <div class="stat-box-label">Updates</div>
+      </div>
+    </div>
+
+    <!-- Introduction -->
+    <div class="intro-section">
+      <h2>About Our Library Partnerships</h2>
+      <p>
+        Book Club Event Finder works by aggregating publicly available event data from library RSS feeds and event calendars.
+        We update our database <strong>daily</strong> to ensure readers have access to the most current book club events,
+        reading groups, and literary discussions.
+      </p>
+      <p>
+        All event registration and attendance is managed by the individual libraries. When you click to register for an event,
+        you'll be directed to the library's official registration page. We simply make it easier to discover these wonderful
+        community programs in one central location.
+      </p>
+      <p>
+        <strong>Are you a library?</strong> If your library offers book club programs and you'd like to be included in our
+        aggregator, or if you have questions about how we use your event data, please reach out to us.
+      </p>
+    </div>
+
+    <!-- Call to Action for Libraries -->
+    <div class="cta-box">
+      <h3>Library Partners: Link to Us!</h3>
+      <p>Help your community discover your book club events. Add a link to Book Club Event Finder from your events or book clubs page.</p>
+      <a href="/">View Our Event Listings</a>
+    </div>
+
+    <!-- California Libraries -->
+    <section class="region-section">
+      <h2 class="region-title">🌉 California</h2>
+      <div class="libraries-grid">
+        <div class="library-card">
+          <div class="library-name">Alameda County Library</div>
+          <div class="library-location">Alameda County, California</div>
+          <a href="?library=Alameda%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Contra Costa County Library</div>
+          <div class="library-location">Contra Costa County, California</div>
+          <a href="?library=Contra%20Costa%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Marin County Free Library</div>
+          <div class="library-location">Marin County, California</div>
+          <a href="?library=Marin%20County%20Free%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Oakland Public Library</div>
+          <div class="library-location">Oakland, California</div>
+          <a href="?library=Oakland%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Palo Alto City Library</div>
+          <div class="library-location">Palo Alto, California</div>
+          <a href="?library=Palo%20Alto%20City%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Pleasanton Public Library</div>
+          <div class="library-location">Pleasanton, California</div>
+          <a href="?library=Pleasanton%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">San Diego County Library</div>
+          <div class="library-location">San Diego County, California</div>
+          <a href="?library=San%20Diego%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">San José Public Library</div>
+          <div class="library-location">San José, California</div>
+          <a href="?library=San%20Jos%C3%A9%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">San Mateo County Libraries</div>
+          <div class="library-location">San Mateo County, California</div>
+          <a href="?library=San%20Mateo%20County%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Santa Clara County Library</div>
+          <div class="library-location">Santa Clara County, California</div>
+          <a href="?library=Santa%20Clara%20County%20Library" class="library-link">View Events →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Other US States -->
+    <section class="region-section">
+      <h2 class="region-title">🇺🇸 Other US States</h2>
+      <div class="libraries-grid">
+        <div class="library-card">
+          <div class="library-name">Arapahoe Libraries</div>
+          <div class="library-location">Colorado</div>
+          <a href="?library=Arapahoe%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Aurora Public Library</div>
+          <div class="library-location">Colorado</div>
+          <a href="?library=Aurora%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Burlington County Library System</div>
+          <div class="library-location">New Jersey</div>
+          <a href="?library=Burlington%20County%20Library%20System" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Canton Public Library</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Canton%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Central Rappahannock Regional Library</div>
+          <div class="library-location">Virginia</div>
+          <a href="?library=Central%20Rappahannock%20Regional%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Chandler Public Library</div>
+          <div class="library-location">Arizona</div>
+          <a href="?library=Chandler%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Charlotte Mecklenburg Library</div>
+          <div class="library-location">North Carolina</div>
+          <a href="?library=Charlotte%20Mecklenburg%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Chicago Public Library</div>
+          <div class="library-location">Illinois</div>
+          <a href="?library=Chicago%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Cincinnati & Hamilton County Public Library</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Cincinnati%20%26%20Hamilton%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Clark County Public Library</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=Clark%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Dayton Metro Library</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Dayton%20Metro%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Denton Public Library</div>
+          <div class="library-location">Texas</div>
+          <a href="?library=Denton%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">East Lansing Public Library</div>
+          <div class="library-location">Michigan</div>
+          <a href="?library=East%20Lansing%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Evanston Public Library</div>
+          <div class="library-location">Illinois</div>
+          <a href="?library=Evanston%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Fort Vancouver Regional Libraries</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=Fort%20Vancouver%20Regional%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Frisco Public Library</div>
+          <div class="library-location">Texas</div>
+          <a href="?library=Frisco%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Fulton County Library System</div>
+          <div class="library-location">Georgia</div>
+          <a href="?library=Fulton%20County%20Library%20System" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Glenview Public Library</div>
+          <div class="library-location">Illinois</div>
+          <a href="?library=Glenview%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Grand Rapids Public Library</div>
+          <div class="library-location">Michigan</div>
+          <a href="?library=Grand%20Rapids%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Greene County Public Library</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Greene%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Harris County Public Library</div>
+          <div class="library-location">Texas</div>
+          <a href="?library=Harris%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Hennepin County Library</div>
+          <div class="library-location">Minnesota</div>
+          <a href="?library=Hennepin%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Herrick District Library</div>
+          <div class="library-location">Michigan</div>
+          <a href="?library=Herrick%20District%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Jefferson County Public Library</div>
+          <div class="library-location">Colorado</div>
+          <a href="?library=Jefferson%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Johnson County Library</div>
+          <div class="library-location">Kansas</div>
+          <a href="?library=Johnson%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Kenosha Public Library</div>
+          <div class="library-location">Wisconsin</div>
+          <a href="?library=Kenosha%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Kent District Library</div>
+          <div class="library-location">Michigan</div>
+          <a href="?library=Kent%20District%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Kenton County Public Library</div>
+          <div class="library-location">Kentucky</div>
+          <a href="?library=Kenton%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">King County Library System</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=King%20County%20Library%20System" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Kitsap Regional Library</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=Kitsap%20Regional%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Laurel County Public Library</div>
+          <div class="library-location">Kentucky</div>
+          <a href="?library=Laurel%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Lawrence Public Library</div>
+          <div class="library-location">Kansas</div>
+          <a href="?library=Lawrence%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Muskegon Area District Library</div>
+          <div class="library-location">Michigan</div>
+          <a href="?library=Muskegon%20Area%20District%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Ocean City Free Public Library</div>
+          <div class="library-location">New Jersey</div>
+          <a href="?library=Ocean%20City%20Free%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Omaha Public Library</div>
+          <div class="library-location">Nebraska</div>
+          <a href="?library=Omaha%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Palm Beach County Library System</div>
+          <div class="library-location">Florida</div>
+          <a href="?library=Palm%20Beach%20County%20Library%20System" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Pima County Public Library</div>
+          <div class="library-location">Arizona</div>
+          <a href="?library=Pima%20County%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Public Library of Youngstown and Mahoning County</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Public%20Library%20of%20Youngstown%20and%20Mahoning%20County" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Ramsey County Library</div>
+          <div class="library-location">Minnesota</div>
+          <a href="?library=Ramsey%20County%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Saint Paul Public Library</div>
+          <div class="library-location">Minnesota</div>
+          <a href="?library=Saint%20Paul%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Sno-Isle Libraries</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=Sno-Isle%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">St. Louis Public Library - City</div>
+          <div class="library-location">Missouri</div>
+          <a href="?library=St.%20Louis%20Public%20Library%20-%20City" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">St. Tammany Parish Library</div>
+          <div class="library-location">Louisiana</div>
+          <a href="?library=St.%20Tammany%20Parish%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Stark Library</div>
+          <div class="library-location">Ohio</div>
+          <a href="?library=Stark%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Tacoma Public Library</div>
+          <div class="library-location">Washington</div>
+          <a href="?library=Tacoma%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Canada -->
+    <section class="region-section">
+      <h2 class="region-title">🇨🇦 Canada</h2>
+      <div class="libraries-grid">
+        <div class="library-card">
+          <div class="library-name">Edmonton Public Library</div>
+          <div class="library-location">Alberta</div>
+          <a href="?library=Edmonton%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Guelph Public Library</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=Guelph%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Halifax Public Libraries</div>
+          <div class="library-location">Nova Scotia</div>
+          <a href="?library=Halifax%20Public%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Innisfil Public Library</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=Innisfil%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Markham Public Library</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=Markham%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Oshawa Public Libraries</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=Oshawa%20Public%20Libraries" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Red Deer Public Library</div>
+          <div class="library-location">Alberta</div>
+          <a href="?library=Red%20Deer%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Richmond Hill Public Library</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=Richmond%20Hill%20Public%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">SDG Library</div>
+          <div class="library-location">Ontario</div>
+          <a href="?library=SDG%20Library" class="library-link">View Events →</a>
+        </div>
+        <div class="library-card">
+          <div class="library-name">Strathcona County Library</div>
+          <div class="library-location">Alberta</div>
+          <a href="?library=Strathcona%20County%20Library" class="library-link">View Events →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- International -->
+    <section class="region-section">
+      <h2 class="region-title">🌏 International</h2>
+      <div class="libraries-grid">
+        <div class="library-card">
+          <div class="library-name">Christchurch City Libraries</div>
+          <div class="library-location">New Zealand</div>
+          <a href="?library=Christchurch%20City%20Libraries%20Ng%C4%81%20Kete%20W%C4%81nanga%20o%20%C5%8Ctautahi" class="library-link">View Events →</a>
+        </div>
+      </div>
+    </section>
+
+    <a href="/" class="back-link">← Browse All Events</a>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>
+        <a href="/" style="color: inherit; text-decoration: underline;">Home</a> ·
+        <a href="/about.html" style="color: inherit; text-decoration: underline;">About</a> ·
+        <a href="/faq.html" style="color: inherit; text-decoration: underline;">FAQ</a> ·
+        <a href="/libraries.html" style="color: inherit; text-decoration: underline;">Partner Libraries</a>
+      </p>
+      <p style="margin-top: 8px; font-size: 13px;">
+        Built with ❤️ for book lovers everywhere
+      </p>
+    </div>
+  </footer>
+</body>
+
+</html>
