@@ -20,7 +20,7 @@ import sys
 import time
 import urllib.request
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 from typing import List, Dict, Optional
 
@@ -280,7 +280,7 @@ def main():
     output_path = 'public/events.json'
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump({
-            'generated_at': datetime.utcnow().isoformat() + 'Z',
+            'generated_at': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
             'total_events': len(all_events),
             'total_libraries': success_count,
             'events': all_events
