@@ -7,7 +7,7 @@ Creates today.html, tomorrow.html, this-month.html, next-month.html, online.html
 import json
 import sys
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from jinja2 import Environment, FileSystemLoader
 
 # Add parent directory to path
@@ -68,9 +68,9 @@ def is_today(event_date_str):
     if not event_dt:
         return False
 
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(timezone.utc)
     # Include events from UTC-12 to UTC+14 (covers all timezones)
-    today_start = datetime(now_utc.year, now_utc.month, now_utc.day) - timedelta(hours=12)
+    today_start = datetime(now_utc.year, now_utc.month, now_utc.day, tzinfo=timezone.utc) - timedelta(hours=12)
     today_end = today_start + timedelta(hours=38)  # 24 + 14 hours
 
     return today_start <= event_dt < today_end
@@ -81,8 +81,8 @@ def is_tomorrow(event_date_str):
     if not event_dt:
         return False
 
-    now_utc = datetime.utcnow()
-    tomorrow_start = datetime(now_utc.year, now_utc.month, now_utc.day) + timedelta(days=1, hours=-12)
+    now_utc = datetime.now(timezone.utc)
+    tomorrow_start = datetime(now_utc.year, now_utc.month, now_utc.day, tzinfo=timezone.utc) + timedelta(days=1, hours=-12)
     tomorrow_end = tomorrow_start + timedelta(hours=38)
 
     return tomorrow_start <= event_dt < tomorrow_end
@@ -93,14 +93,14 @@ def is_this_month(event_date_str):
     if not event_dt:
         return False
 
-    now_utc = datetime.utcnow()
-    month_start = datetime(now_utc.year, now_utc.month, now_utc.day)
+    now_utc = datetime.now(timezone.utc)
+    month_start = datetime(now_utc.year, now_utc.month, now_utc.day, tzinfo=timezone.utc)
 
     # End of current month
     if now_utc.month == 12:
-        month_end = datetime(now_utc.year + 1, 1, 1)
+        month_end = datetime(now_utc.year + 1, 1, 1, tzinfo=timezone.utc)
     else:
-        month_end = datetime(now_utc.year, now_utc.month + 1, 1)
+        month_end = datetime(now_utc.year, now_utc.month + 1, 1, tzinfo=timezone.utc)
 
     return month_start <= event_dt < month_end
 
@@ -110,18 +110,18 @@ def is_next_month(event_date_str):
     if not event_dt:
         return False
 
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(timezone.utc)
 
     # Start of next month
     if now_utc.month == 12:
-        next_month_start = datetime(now_utc.year + 1, 1, 1)
-        next_month_end = datetime(now_utc.year + 1, 2, 1)
+        next_month_start = datetime(now_utc.year + 1, 1, 1, tzinfo=timezone.utc)
+        next_month_end = datetime(now_utc.year + 1, 2, 1, tzinfo=timezone.utc)
     else:
-        next_month_start = datetime(now_utc.year, now_utc.month + 1, 1)
+        next_month_start = datetime(now_utc.year, now_utc.month + 1, 1, tzinfo=timezone.utc)
         if now_utc.month == 11:
-            next_month_end = datetime(now_utc.year + 1, 1, 1)
+            next_month_end = datetime(now_utc.year + 1, 1, 1, tzinfo=timezone.utc)
         else:
-            next_month_end = datetime(now_utc.year, now_utc.month + 2, 1)
+            next_month_end = datetime(now_utc.year, now_utc.month + 2, 1, tzinfo=timezone.utc)
 
     return next_month_start <= event_dt < next_month_end
 
@@ -131,7 +131,7 @@ def is_online(event):
 
 def filter_expired_events(events):
     """Remove events that have already ended"""
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(timezone.utc)
     filtered = []
 
     for event in events:
@@ -237,7 +237,7 @@ def generate_static_pages():
     template = env.get_template('filtered_page.html')
 
     output_dir = Path(__file__).parent.parent / 'public'
-    generation_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+    generation_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
     # Generate each page
     for config in PAGE_CONFIGS:
