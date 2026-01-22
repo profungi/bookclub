@@ -7,7 +7,7 @@ Creates today.html, tomorrow.html, this-month.html, next-month.html, online.html
 import json
 import sys
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from jinja2 import Environment, FileSystemLoader
 
 # Add parent directory to path
@@ -131,7 +131,7 @@ def is_online(event):
 
 def filter_expired_events(events):
     """Remove events that have already ended"""
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(timezone.utc)
     filtered = []
 
     for event in events:
