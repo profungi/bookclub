@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T04:51:46.414133Z",
+  "generated_at": "2026-03-02T04:46:34.447711Z",
   "total_events": 1399,
   "total_libraries": 65,
   "events": [
@@ -42,191 +42,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cincinnati"
-    },
-    {
-      "id": "696559dd91e4576f847c26a5",
-      "title": "Manga of the Month Club",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Do you love manga, but hate in-person book discussions? Try our Manga of the Month Club!Pick up the first volume of the month's chosen series along with a review sheet. Return a completed review sheet to the Westwood Branch at any time and receive a small prize.This activity is recommended for ages 13-18 since the series are typically rated T for Teen.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/696559dd91e4576f847c26a5",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-02-01T05:00:00+00:00",
-      "end_date": "2026-03-01T04:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Westwood",
-        "street": "Epworth Ave.",
-        "number": "3345",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45211",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
-      "id": "696fe7a84a9fd98b7f78aa68",
-      "title": "Winter Scavenger Hunt",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "This is a fun variation on the Adult Winter Checkout Challenge so that kids can get involved, too! Get a bookmark with prompts from the circulation desk then find books that match! Bring the completed bookmark to the front desk for a prize.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/696fe7a84a9fd98b7f78aa68",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-02-01T05:00:00+00:00",
-      "end_date": "2026-03-01T04:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Westwood",
-        "street": "Epworth Ave.",
-        "number": "3345",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45211",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Children",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
-      "id": "6984ecd28b29ea2800ce2346",
-      "title": "Teen Passive Book Club: Mysteries",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "This month's teen passive book club theme is mysteries! Our featured title for February is Under the Same Stars by Libba Bray: Three timelines converge to unveil the mysterious disappearance of two girls during WWII. Grab a copy (or any alternate title) in the teen area & an activity packet!",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/6984ecd28b29ea2800ce2346",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-02-01T05:00:00+00:00",
-      "end_date": "2026-03-01T04:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Harrison",
-        "street": "New Haven Road",
-        "number": "10398",
-        "city": "Harrison",
-        "state": "Ohio",
-        "zip": "45030",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Harrison"
-    },
-    {
-      "id": "698657f26724c63d00f1163c",
-      "title": "Button Book Club",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Button Book Club is a passive book club, where participants read a book inspired by the monthly theme, fill in a brief worksheet and collect button. In February the topic is Works: Business, Labor and Innovation. With a curated selection of books on everything from play-doh, the Wright Brothers, and beer making in Cincinnati there is something for everyone. Something else spark your interest? We can't wait to hear what it is.Please see staff if you have any questions.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/698657f26724c63d00f1163c",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/4963fb1a9facf3bd84f22c1f8668126d/America250_Biblioeventheader-01.jpg",
-      "start_date": "2026-02-06T05:00:00+00:00",
-      "end_date": "2026-03-01T04:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Clifton",
-        "street": "Brookline Ave.",
-        "number": "3400",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45220",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "America 250",
-        "Book Clubs and Reading",
-        "All Ages",
-        "English"
-      ],
-      "book": {
-        "title": "Club is a passive book club, where participants read a book inspired",
-        "author": "the monthly theme, fill in a brief worksheet and collect button."
-      },
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
-      "id": "692105c504e183f66038f9a1",
-      "title": "StoryWalk® with Dougherty Station and San Ramon Libraries",
-      "library": "Contra Costa County Library",
-      "library_slug": "ccclib",
-      "description": "Get some exercise and read the latest story installed at the StoryWalk in Central Park. The winter themed story is called Except Antarctica, written and illustrated by Todd Sturgell. Follow turtle and learn about animals found on every continent except Antarctica!The San Ramon StoryWalk® is a permanent feature in San Ramon’s Central Park. The 20-station project features a new book four times a year. The San Ramon StoryWalk® project is a partnership with the Rotary Club of San Ramon, the City of San Ramon, the San Ramon Library Foundation, and the Library. The Central Park StoryWalk® begins near the Alcosta parking lot to the right of the playground, ending at the Community Center’s rear fountain. The StoryWalk Project was created by Anne Ferguson of Montpelier, VT and developed in collaboration with the Kellogg-Hubbard Library. StoryWalk is a registered service mark owned by Ms. Ferguson.",
-      "link": "https://ccclib.bibliocommons.com/events/692105c504e183f66038f9a1",
-      "image": "http://ccclib.bibliocommons.com/events/uploads/images/full/75560a56e3f0a568fb27242ccc949cc4/Facebookbannereditable.jpg",
-      "start_date": "2026-02-28T08:00:00+00:00",
-      "end_date": "2026-03-01T07:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "San Ramon Community Center at Central Park",
-        "street": "Alcosta Boulevard",
-        "number": "12501",
-        "city": "San Ramon",
-        "state": "CA",
-        "zip": "94583",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Arts, Entertainment, and Performances",
-        "Health, Wellness, and Fitness",
-        "All Ages",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "San Ramon"
     },
     {
       "id": "6984ecb36724c63d00f0c9f2",
@@ -300,186 +115,6 @@
       "state": "CA",
       "state_full": "California",
       "city": "San Ramon"
-    },
-    {
-      "id": "691cac6a886bb73600bb6bbb",
-      "title": "Theatre Club",
-      "library": "Aurora Public Library",
-      "library_slug": "aurora",
-      "description": "Lights up on a brand-new scene! Read from our selected plays in preparation or join us to read aloud day of! Take a chance to familiarize yourself with some of the most popular, famous works from the stage – both in writing and performance.",
-      "link": "https://aurora.bibliocommons.com/events/691cac6a886bb73600bb6bbb",
-      "image": "http://aurora.bibliocommons.com/events/uploads/images/full/ad7217a84e69b3bb2f3bd129488d63a1/TheatreClub.png",
-      "start_date": "2026-03-01T20:00:00+00:00",
-      "end_date": "2026-03-01T21:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Aurora Public Library",
-        "street": "Yonge Street",
-        "number": "15145",
-        "city": "Aurora",
-        "state": "Ontario",
-        "zip": "L4G 1M1",
-        "details": "Multi-Use Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Talks & Discussions",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ontario",
-      "state_full": "Ontario",
-      "city": "Aurora"
-    },
-    {
-      "id": "697117241f01fb76cec650df",
-      "title": "(Virtual) Club de Lectura en Español:  La Negra Angustias / Francisco Rojas Gonzalez",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Únase al club de lectura en Español este mes por una discusion de La Negra Angustias por Francisco Rojas Gonzalez. Un programa de Illinois Humanities, el Club de Lectura en Español Enhorabuena se junta mensualmente para discutir libros en Español. Este grupo esta abierto a cualquier adulto interesade en lectura y en discutir lectura con otros adultos. Este programa esta planeado para ser en persona. Mande correo para registrarse para obtener detalles por cualquier cambio. Accesibilidad ¿Necesita interpretación de lenguaje de señas u otra asistencia de accesibilidad para este evento? Por favor llame al (312) 747-8184 o envíe un correo electrónico a access@chipublib.org para solicitar alojamiento. Las solicitudes deben hacerse al menos 14 días hábiles antes del evento.",
-      "link": "https://chipublib.bibliocommons.com/events/697117241f01fb76cec650df",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-03-01T20:00:00+00:00",
-      "end_date": "2026-03-01T22:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "30",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "696ea433b0595799c0974486",
-      "title": "Tutoring Club",
-      "library": "Lawrence Public Library",
-      "library_slug": "lawrence",
-      "description": "Boost reading and math skills with our KU tutor. Register for an in-person session here. Tutoring in Reading: Pre-K–6th gradeTutoring in Math: K–9th grade This session will meet in the Children's Study Nooks. Check in at the Children's desk upon arrival. Please do not sign up for more than one session a day or two sessions a week. Sessions may be booked up to 2 weeks in advance.",
-      "link": "https://lawrence.bibliocommons.com/events/696ea433b0595799c0974486",
-      "image": "http://lawrence.bibliocommons.com/events/uploads/images/full/b77089aa8bc9e46033a01edc92663838/tutoringclubresized.png",
-      "start_date": "2026-03-01T20:00:00+00:00",
-      "end_date": "2026-03-02T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lawrence Public Library",
-        "street": "Vermont Street",
-        "number": "707",
-        "city": "Lawrence",
-        "state": "KS",
-        "zip": "66044",
-        "details": "Children's Room"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Educational",
-        "Kids",
-        "Kids Clubs",
-        "Language & Culture",
-        "Teen",
-        "Kids",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "KS",
-      "state_full": "Kansas",
-      "city": "Lawrence"
-    },
-    {
-      "id": "693603f894297d36009ec156",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec156",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-03-02T01:00:00+00:00",
-      "end_date": "2026-03-02T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Christchurch",
-        "state": "",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": "Christchurch"
-    },
-    {
-      "id": "695427abc967cb41207f221c",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f221c",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-03-02T01:00:00+00:00",
-      "end_date": "2026-03-02T02:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
     },
     {
       "id": "6950447ee3e3999b5c0478ac",
@@ -652,9 +287,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Book clubs",
@@ -802,7 +437,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "11"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -1099,7 +734,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "0"
       },
       "categories": [
         "Book Club",
@@ -1138,7 +773,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "10"
+        "registered": "13"
       },
       "categories": [
         "Language, Literacy & Writing",
@@ -1280,9 +915,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "14",
-        "registered": "12"
+        "registered": "14"
       },
       "categories": [
         "Community Read",
@@ -1414,7 +1049,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "13"
+        "registered": "12"
       },
       "categories": [
         "Books & Reading",
@@ -5156,7 +4791,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "18"
+        "registered": "20"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -5890,7 +5525,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -6540,7 +6175,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Authors & Speakers",
@@ -8951,7 +8586,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Silicon Valley Reads",
@@ -9738,9 +9373,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "45",
-        "registered": "42"
+        "registered": "45"
       },
       "categories": [
         "Community Read",
@@ -10226,7 +9861,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -10262,7 +9897,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -10641,7 +10276,7 @@
         "required": true,
         "full": false,
         "capacity": "8",
-        "registered": "1"
+        "registered": "0"
       },
       "categories": [
         "Book Club",
@@ -10870,7 +10505,7 @@
         "required": true,
         "full": true,
         "capacity": "15",
-        "registered": "17"
+        "registered": "16"
       },
       "categories": [
         "Makerspace and Making",
@@ -11340,6 +10975,82 @@
       "state": "CA",
       "state_full": "California",
       "city": "Castro Valley"
+    },
+    {
+      "id": "693b16f12bee0c370064c8ca",
+      "title": "Bishopdale Monday Book Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come and join our friendly group of readers and chat about your current reading and old favourites. With no set book to read, this is a relaxed and social group with a monthly meet up in the library. Held on the 2nd Monday of each month. Hope to see you there!",
+      "link": "https://christchurch.bibliocommons.com/events/693b16f12bee0c370064c8ca",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-03-08T21:00:00+00:00",
+      "end_date": "2026-03-08T22:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court, Farrington Avenue",
+        "number": "13",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "New adults (ages 18-24)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
+    },
+    {
+      "id": "693603f894297d36009ec157",
+      "title": "Not Just Cards - Social Games Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
+      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec157",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-03-09T01:00:00+00:00",
+      "end_date": "2026-03-09T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Spreydon Library",
+        "street": "Barrington Street",
+        "number": "266",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8024",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
     },
     {
       "id": "6950447ee3e3999b5c0478ad",
@@ -12406,7 +12117,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Women's History Month",
@@ -14286,6 +13997,42 @@
       "city": "Richfield,"
     },
     {
+      "id": "690a65cb3cbc052f00832925",
+      "title": "Tales to Tails with Nanny",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Drop- in to read a story to our furry friend, Nanny, a certified therapy dog. Nanny is a super sweet dog who loves listening to stories that you can either bring with you or pick off the shelf to share with her. For youth of all reading levels. No registration required.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/690a65cb3cbc052f00832925",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-03-10T21:00:00+00:00",
+      "end_date": "2026-03-10T22:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Harrison",
+        "street": "New Haven Road",
+        "number": "10398",
+        "city": "Harrison",
+        "state": "Ohio",
+        "zip": "45030",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Children",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Harrison"
+    },
+    {
       "id": "690e2e12c313c23700e0ff6f",
       "title": "Washburn Book Club",
       "library": "Hennepin County Library",
@@ -14852,6 +14599,42 @@
       "city": "Canton"
     },
     {
+      "id": "694469f294297d3600a0a0e7",
+      "title": "Book Club: Mariemont Mystery Bookclub",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Join our group of mystery-minded readers as we tackle well-known classics, hidden gems, the latest and greatest, the tense with suspense, the chilling and the thrilling, as well as the up-and-coming.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/694469f294297d3600a0a0e7",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-03-10T22:30:00+00:00",
+      "end_date": "2026-03-10T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Mariemont",
+        "street": "Pocahontas Avenue",
+        "number": "3810",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45227",
+        "details": "Meeting Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "15",
+        "registered": "3"
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "All Ages",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
+    },
+    {
       "id": "68fa6198e59a13000d3e0450",
       "title": "Books on Tap Book Club 2026",
       "library": "East Lansing Public Library",
@@ -14875,7 +14658,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "12"
       },
       "categories": [
         "Books on Tap",
@@ -15035,6 +14818,44 @@
       "state": "CA",
       "state_full": "California",
       "city": "San Ramon"
+    },
+    {
+      "id": "6966b88191e4576f847c5f26",
+      "title": "Not Your Mother's (Spicy) Romance Book Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Do you prefer your romance novels with a side of spice or your spice with a side of plot? Either way, join us at Revel OTR Urban Winery at 7pm on second Tuesday of each month! We’ll talk about our favorite spicy romance books, discuss our current read, and enjoy a drink or two. Whether you're a seasoned reader or new to the genre, all are welcome! March's Read: Deep End by Ali Hazelwood Haven't read the book? Don't worry! Come enjoy the vibes and get some good book recs! Adults Only. Registration Recommended.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/6966b88191e4576f847c5f26",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/593576592ad8c0302dba38e20732eed2/spicybookclubbanner.jpg",
+      "start_date": "2026-03-10T23:00:00+00:00",
+      "end_date": "2026-03-11T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Revel OTR Urban Winery",
+        "street": "East 12th Street",
+        "number": "111",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45202",
+        "details": "2nd floor"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "30",
+        "registered": "2"
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "Deep End"
+      },
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
     },
     {
       "id": "6968625e491b809c6f12f334",
@@ -16481,7 +16302,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "26"
+        "registered": "28"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -16499,6 +16320,43 @@
       "state": "",
       "state_full": "",
       "city": ""
+    },
+    {
+      "id": "686d7ad34afabc39de4d72c2",
+      "title": "Silent Reading Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Read with a librarian and other kids after school. Candy is promised for every silent reader!",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/686d7ad34afabc39de4d72c2",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-03-11T18:15:00+00:00",
+      "end_date": "2026-03-11T19:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Westwood",
+        "street": "Epworth Ave.",
+        "number": "3345",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45211",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Children",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
     },
     {
       "id": "697440d34a9fd98b7f7968f8",
@@ -16951,6 +16809,42 @@
       "state": "TX",
       "state_full": "Texas",
       "city": "Frisco"
+    },
+    {
+      "id": "69a06f46491b809c6f1ca437",
+      "title": "Beginning Readers Book Club",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Read with us! Each child has their own book in this shared reading experience enhanced with literacy games and crafts. For beginning readers and their caregivers.This program is part of Chicago Public Library's Jump into Reading initiative. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/69a06f46491b809c6f1ca437",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-03-11T21:30:00+00:00",
+      "end_date": "2026-03-11T22:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Woodson Regional",
+        "street": "S. Halsted Street",
+        "number": "9525",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60628",
+        "details": "Children's Department, 1st Floor"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Kids: 6 to 13 years",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
     },
     {
       "id": "690c1532683f18f7608cacb2",
@@ -19480,7 +19374,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "35"
+        "registered": "37"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -19986,7 +19880,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Clubs",
@@ -22302,7 +22196,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Women's History Month",
@@ -23481,7 +23375,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "16"
+        "registered": "17"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -23492,6 +23386,44 @@
       "state": "CO",
       "state_full": "Colorado",
       "city": "Centennial"
+    },
+    {
+      "id": "693893baddf5632800201445",
+      "title": "Online Forever Young Book Club",
+      "library": "Contra Costa County Library",
+      "library_slug": "ccclib",
+      "description": "Join our Book Club for Adults where we will meet virtually at 4pm on the third Tuesday of every month to discuss various kids and teen titles. Conversation will be casual and friendly! This month we will be discussing Holes by Louis Sachar. Monthly titles are available to check-out at the Concord Library. Contact Kristen at Kristen.crim@library.cccounty.us for the link to join.",
+      "link": "https://ccclib.bibliocommons.com/events/693893baddf5632800201445",
+      "image": "http://ccclib.bibliocommons.com/events/uploads/images/full/398e4b1521d35bfa53543c238022d0b4/ForeverYoungEventBanner.jpg",
+      "start_date": "2026-03-17T23:00:00+00:00",
+      "end_date": "2026-03-18T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Concord",
+        "street": "Salvio Street",
+        "number": "2900",
+        "city": "Concord",
+        "state": "CA",
+        "zip": "94519",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Discussions",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "."
+      },
+      "state": "CA",
+      "state_full": "California",
+      "city": "Concord"
     },
     {
       "id": "696962d16724c63d00ec6e7d",
@@ -25306,7 +25238,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -25455,7 +25387,7 @@
         "required": true,
         "full": false,
         "capacity": "35",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -26594,7 +26526,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -27883,9 +27815,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "40",
-        "registered": "39"
+        "registered": "40"
       },
       "categories": [
         "Literature & Writing",
@@ -29627,7 +29559,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -32402,6 +32334,47 @@
       "city": "Frisco"
     },
     {
+      "id": "696ea433b0595799c0974490",
+      "title": "Tutoring Club",
+      "library": "Lawrence Public Library",
+      "library_slug": "lawrence",
+      "description": "Boost reading and math skills with our KU tutor. Register for an in-person session here. Tutoring in Reading: Pre-K–6th gradeTutoring in Math: K–9th grade This session will meet in the Children's Study Nooks. Check in at the Children's desk upon arrival. Please do not sign up for more than one session a day or two sessions a week. Sessions may be booked up to 2 weeks in advance.",
+      "link": "https://lawrence.bibliocommons.com/events/696ea433b0595799c0974490",
+      "image": "http://lawrence.bibliocommons.com/events/uploads/images/full/b77089aa8bc9e46033a01edc92663838/tutoringclubresized.png",
+      "start_date": "2026-03-28T15:00:00+00:00",
+      "end_date": "2026-03-28T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Lawrence Public Library",
+        "street": "Vermont Street",
+        "number": "707",
+        "city": "Lawrence",
+        "state": "KS",
+        "zip": "66044",
+        "details": "Children's Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Educational",
+        "Kids",
+        "Kids Clubs",
+        "Language & Culture",
+        "Teen",
+        "Kids",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "KS",
+      "state_full": "Kansas",
+      "city": "Lawrence"
+    },
+    {
       "id": "69611f6b1e64afd01e535f05",
       "title": "Page Turners Teen Book Club: English Festival",
       "library": "Public Library of Youngstown and Mahoning County",
@@ -34145,7 +34118,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Authors & Speakers",
@@ -36030,7 +36003,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Book Clubs",
@@ -48094,6 +48067,42 @@
       "state": "CA",
       "state_full": "California",
       "city": "Palo Alto"
+    },
+    {
+      "id": "69a1b29f4a9fd98b7f80efd4",
+      "title": "APL Afternoon Book Club",
+      "library": "Aurora Public Library",
+      "library_slug": "aurora",
+      "description": "Join book lovers like yourself on the third Monday afternoon of every month to express your opinion and discuss the shared title with the rest of the Book Club. June Section: TBD",
+      "link": "https://aurora.bibliocommons.com/events/69a1b29f4a9fd98b7f80efd4",
+      "image": "http://aurora.bibliocommons.com/events/uploads/images/full/e41ec70c6a7c01d470521485c65fd9a6/AfternoonBookClubWide.png",
+      "start_date": "2026-06-15T18:30:00+00:00",
+      "end_date": "2026-06-15T20:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Aurora Public Library",
+        "street": "Yonge Street",
+        "number": "15145",
+        "city": "Aurora",
+        "state": "Ontario",
+        "zip": "L4G 1M1",
+        "details": "Magna Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "12",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "Ontario",
+      "state_full": "Ontario",
+      "city": "Aurora"
     },
     {
       "id": "6998e6f5b0595799c09e4c59",
