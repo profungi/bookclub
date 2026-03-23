@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T04:50:39.997756Z",
+  "generated_at": "2026-03-23T05:00:42.770917Z",
   "total_events": 1409,
   "total_libraries": 66,
   "events": [
@@ -118,307 +118,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cincinnati"
-    },
-    {
-      "id": "691e0ab8b864f02900253a48",
-      "title": "Community Read: The Courageous, Connecting Power of Words",
-      "library": "Charlotte Mecklenburg Library",
-      "library_slug": "cmlibrary",
-      "description": "In The House in the Cerulean Sea, Linus Baker’s courage was a testament to the transforming power of love and connection. When have you experienced courage—your own, or anyone else’s? What was its source? What connection did it create? Come explore these questions, and others, through writing methods that will spark imagination and reflection and provide a framework for telling inspiring stories. Ideal for those interested in expanding their writing—and their relationship to self, others, and the world—for personal expression or publication. About the Presenter This writing workshop will be provided by Maureen Griffin, an award-winning poetry and nonfiction writer, Maureen has also been a commentator on Public Radio Station WFAE 90.7. Her work has appeared in numerous publications, includingThe Texas Review, The Charlotte Observer, St.Anthony Messenger (Ohio), Potato Eyes (Maine), Kalliope (Florida), Chelsea (New York), Cincinnati Poetry Review, Catfish Stew (South Carolina), Catalyst (Georgia), and Calyx (Oregon). She is the author of Spinning Words into Gold, a Hands-On Guide to the Craft of Writing, a grief workbook entitled I Will Never Forget You, and two collections of poetry, This Scatter of Blossoms and When the Leaves Are in the Water and many others.About Community ReadCommunity Read is Charlotte Mecklenburg Library’s annual, community-wide book club—an invitation to connect through a shared story. Each year’s book selection inspires programs, community conversations, and events that explore timely and meaningful themes. This year’s title The House in the Cerulean Sea by TJ Klune explores themes of found family, belonging, and self-acceptance. Please join us at programs and events all month long and pick up your free copy at any Charlotte Mecklenburg Library location, while supplies last. Learn more at cmlibrary.org/community-read",
-      "link": "https://cmlibrary.bibliocommons.com/events/691e0ab8b864f02900253a48",
-      "image": "http://cmlibrary.bibliocommons.com/events/uploads/images/full/0811be7f445536a1bbf5091a19c3de59/CML_BiblioEvents_760x230-CommunityRead.jpg",
-      "start_date": "2026-03-22T18:00:00+00:00",
-      "end_date": "2026-03-22T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "North County Regional",
-        "street": "Holly Crest Lane",
-        "number": "16500",
-        "city": "Huntersville",
-        "state": "NC",
-        "zip": "28078",
-        "details": "Community Room AB"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "30",
-        "registered": "6"
-      },
-      "categories": [
-        "Community Read",
-        "Writing",
-        "Adults",
-        "New Adults (18-24)",
-        "Older Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "NC",
-      "state_full": "North Carolina",
-      "city": "Huntersville"
-    },
-    {
-      "id": "698153ce377f55c8ec17643f",
-      "title": "Quick Reads Book Club",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join our discussion of new and interesting titles, all 250 pages or less. Bring along your recommendations for future meetings. Copies of the book may be picked up at the service desk prior to meeting. March 22: On Tyranny by Timothy Snyder April 26: The Serviceberry by Robin Wall Kimmerer May 24: The House on Mango Street by Sandra Cisneros",
-      "link": "https://hclib.bibliocommons.com/events/698153ce377f55c8ec17643f",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-03-22T18:00:00+00:00",
-      "end_date": "2026-03-22T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Hopkins",
-        "street": "11th Ave. N.",
-        "number": "22",
-        "city": "Hopkins,",
-        "state": "MN",
-        "zip": "55343",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "On Tyranny"
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Hopkins,"
-    },
-    {
-      "id": "6998d5a88d5e2d0933608366",
-      "title": "Book Swap",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join the Chinatown Branch for a Book Swap! Bring a book from your own collection on the day of the event (maximum of 3 books that you are willing to give away) to swap with others and find your next read! Participants will write a few lines about the book they brought and browse and swap from the collected books. Chat with fellow book lovers and give a book, get a book, and make new friends while you’re at it! For adults 18 and up. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6998d5a88d5e2d0933608366",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-03-22T18:30:00+00:00",
-      "end_date": "2026-03-22T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Chinatown",
-        "street": "S. Wentworth Avenue",
-        "number": "2100",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60616",
-        "details": "Chuck Fern and So-Har Quan Community Room, 1st Floor"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "Seniors: 55 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "695800d876261f280061fe6d",
-      "title": "Queer Readers' Cafe - Celebrating Trans Day of Visibility",
-      "library": "San JosÃ© Public Library",
-      "library_slug": "sjpl",
-      "description": "Queer joy shall abound at the Queer Readers’ Book Café! In March we'll be celebrating Trans Day of Visibility (March 31). There will be a selection of books with gender expansive characters, books about the trans experience, as well as books by openly trans authors on hand to browse and read. The Queer Readers' Cafe is sort of like a silent book club, but chatter is OK. Unlike a typical book club, participants can read whatever they want! We’ll create an LGBTQ+ friendly space in our community room for folks to gather, read, and discuss what they’re reading. A selection of queer reading materials will be available to browse and checkout. Light snacks and refreshments will be provided. Sharing and meeting like-minded readers is encouraged, but participants will not be asked to disclose their identities or their reading preferences. While the intention of this program is to highlight books about the LGBTQ+ experience and/or by LGBTQ+ authors, and to create a safe space for patrons identifying as LGBTQ+, we welcome all participants and reading materials. ADA Accommodation Requests ---------------------------------------------------------------------------------------------- Café de Lectores Queer - Celebrando el Día de la Visibilidad Trans ¡La alegría queer abundará en el Café del libro de lectores queer!En marzo celebraremos el Día de la Visibilidad Trans (31 de marzo). Habrá una selección de libros con personajes de género expansivo, libros sobre la experiencia trans, así como libros de autores abiertamente trans disponibles para hojear y leer. El Café de lectores queer es como un club de lectura silencioso, pero se permite charlar. A diferencia de un club de lectura típico, ¡los participantes pueden leer lo que quieran! Crearemos un espacio amigable LGBTQ+ en nuestra sala comunitaria para que la gente pueda reunirse, leer y discutir lo que está leyendo. Habrá una selección de materiales de lectura queer disponibles para consultar y consultar. Se proporcionarán aperitivos ligeros y refrescos. Se recomienda compartir y conocer lectores con ideas afines, pero no se pedirá a los participantes que revelen sus identidades ni sus preferencias de lectura. Aunque este programa tiene como objetivo destacar libros sobre la experiencia LGBTQ+ y/o de autores LGBTQ+, y crear un espacio seguro para los usuarios que se identifican como LGBTQ+, damos la bienvenida a todos los participantes y materiales de lectura.Solicitudes de adaptaciones ADA",
-      "link": "https://sjpl.bibliocommons.com/events/695800d876261f280061fe6d",
-      "image": "http://sjpl.bibliocommons.com/events/uploads/images/full/e25576f3fa29e8544be27fba9b29f0db/pexels-katierainbow-8275181.jpg",
-      "start_date": "2026-03-22T21:00:00+00:00",
-      "end_date": "2026-03-22T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Biblioteca Latinoamericana",
-        "street": "South First St",
-        "number": "921",
-        "city": "San Jose",
-        "state": "CA",
-        "zip": "95110",
-        "details": "Community Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Poetry & Literature",
-        "Adults, ages 18+",
-        "Teens, ages 12-18",
-        "English"
-      ],
-      "book": {
-        "title": "s with gender expansive characters, books about the trans experience, as well as books",
-        "author": "openly trans authors on hand to browse and read."
-      },
-      "state": "CA",
-      "state_full": "California",
-      "city": "San Jose"
-    },
-    {
-      "id": "692df902a2f9562900e6c47c",
-      "title": "Shirley Library Book Discussion Group",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "For those who love reading and want to share in discussion with other friendly book lovers. We subscribe to the Book Discussion Scheme so there is a cost involved. Held on the fourth Monday of the month at 10.30am. This book group is currently full and cannot take new members. Browse all book clubs and reading groups at your libraries.",
-      "link": "https://christchurch.bibliocommons.com/events/692df902a2f9562900e6c47c",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-03-22T21:30:00+00:00",
-      "end_date": "2026-03-22T22:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Shirley Library",
-        "street": "Marshland Road",
-        "number": "36",
-        "city": "Christchurch",
-        "state": "",
-        "zip": "8061",
-        "details": "36 Marshland Road, 8061"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": "Christchurch"
-    },
-    {
-      "id": "695abfb16f926136000e40ea",
-      "title": "Sunday Library Book Club",
-      "library": "San Diego County Library",
-      "library_slug": "sdcl",
-      "description": "Please come into the library to register and receive a copy of the book. This is a book club for adults. We meet on the fourth Sunday of each month. Space is limited.",
-      "link": "https://sdcl.bibliocommons.com/events/695abfb16f926136000e40ea",
-      "image": "http://sdcl.bibliocommons.com/events/uploads/images/full/15706881ee52106f7cdf31a7c337fa0d/EventsCalendarBanner-BookDiscussion.png",
-      "start_date": "2026-03-22T22:00:00+00:00",
-      "end_date": "2026-03-22T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Encinitas",
-        "street": "Cornish Drive",
-        "number": "540",
-        "city": "Encinitas",
-        "state": "CA",
-        "zip": "92024",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Adults",
-        "Older Adults 55+",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Encinitas"
-    },
-    {
-      "id": "693603f894297d36009ec159",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec159",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-03-23T01:00:00+00:00",
-      "end_date": "2026-03-23T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Christchurch",
-        "state": "",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": "Christchurch"
-    },
-    {
-      "id": "695427abc967cb41207f221f",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f221f",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-03-23T01:00:00+00:00",
-      "end_date": "2026-03-23T02:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
     },
     {
       "id": "6950447ee3e3999b5c0478af",
@@ -1008,9 +707,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "21"
+        "registered": "19"
       },
       "categories": [
         "Community Read",
@@ -1041,7 +740,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -1296,9 +995,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Book clubs",
@@ -1371,7 +1070,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "5"
+        "registered": "4"
       },
       "categories": [
         "Book Clubs",
@@ -2068,7 +1767,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "13"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -2326,7 +2025,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "16"
+        "registered": "17"
       },
       "categories": [
         "Book Club",
@@ -2465,7 +2164,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "28"
+        "registered": "29"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -2503,9 +2202,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "14"
       },
       "categories": [
         "Arts & Crafts",
@@ -3635,9 +3334,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "19"
       },
       "categories": [
         "Events",
@@ -3784,7 +3483,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Community Read",
@@ -8414,6 +8113,43 @@
       "city": "Newark"
     },
     {
+      "id": "69711a906c126d0e48958627",
+      "title": "Adult Book Discussion: The Lion Women of Tehran",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us for a discussion of The Lion Women of Tehran by Marjan Kamali. About the book:In 1950s Tehran, seven-year-old Ellie lives in grand comfort until the untimely death of her father, forcing Ellie and her mother to move to a tiny home downtown. Lonely and bearing the brunt of her mother's endless grievances, Ellie dreams of a friend to alleviate her isolation. Luckily, on the first day of school, she meets Homa, a kind, passionate girl with a brave and irrepressible spirit. This event especially welcomes patrons with print disabilities. An accessible digital audiobook or braille book format is available to those who qualify via the Chicago Public Library Assistive Resources and Talking Book Center. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/69711a906c126d0e48958627",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-03-26T17:00:00+00:00",
+      "end_date": "2026-03-26T18:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Harold Washington Library Center",
+        "street": "S. State Street",
+        "number": "400",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60605",
+        "details": "7th floor meeting room, 7N5"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "Seniors: 55 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6949e4f1111b9da65ca898de",
       "title": "Mystery Book Club",
       "library": "Harris County Public Library",
@@ -9925,7 +9661,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "17"
+        "registered": "18"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -10257,7 +9993,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "5"
       },
       "categories": [
         "Book Discussions",
@@ -11204,6 +10940,44 @@
       "city": "Hornby"
     },
     {
+      "id": "6960329848a98474cec3e0dc",
+      "title": "LGBTQ+ Book Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "This club is for people with an interest in LGBTQ+ stories to share, discover, and discuss their favorite titles and authors. We meet on the last Saturday of the month at Aranui Library, from 2:30-3:30pm. If you're new to the book club, you can bring along any book - a library book, your own copy, on Libby, Kobo, Audiobook, PDF or just as a fond memory.Check out past reading lists.Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/6960329848a98474cec3e0dc",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/9964c4768cf372529805452ed9f8e843/pride.jpg",
+      "start_date": "2026-03-28T01:30:00+00:00",
+      "end_date": "2026-03-28T02:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Aranui Library",
+        "street": "Aldershot Street",
+        "number": "109",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8061",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Christchurch Pride",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "New adults (ages 18-24)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
+    },
+    {
       "id": "699091bf81b67dfe32a666c3",
       "title": "Books and Brews: a Non-Traditional Book Club",
       "library": "Charlotte Mecklenburg Library",
@@ -11268,7 +11042,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "10"
+        "registered": "8"
       },
       "categories": [
         "Community Read",
@@ -12232,6 +12006,48 @@
       "city": "La Center"
     },
     {
+      "id": "69ae98088d5e2d0933640ce3",
+      "title": "Emma G - Mental Health Sounds Like This",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Emma G - Mental Health Sounds Like This Join Emma G in this celebration of music, mental health, and creative resilience. Sunday 29 March2-3.30pmTautoru/TSB Space, Hapori | Community, Level 1, TūrangaFree, get your tickets here New Zealand–born singer-songwriter, author, and speaker Emma G returns home this March for a nationwide tour following a recent performance at the Kennedy Center in Washington, D.C. Originally from Raglan and Hamilton, and now based in the United States, Emma has built an international career at the intersection of music and mental health. Her book Mental Health Sounds Like This recently reached #1 Amazon Best Seller status in both the Emotional Mental Health and Songwriting categories and has since received two awards for its impact. The book is currently being explored by social workers, therapists, and counsellors book club in England, and Emma also serves as an Executive Contributor for Brainz Magazine, writing on creativity, resilience, and emotional wellbeing. Now, she brings that work home. Blending live acoustic music, storytelling, and practical tools for emotional resilience, Emma’s events invite teens, parents, and adults alike to explore how creativity can support identity, communication, and wellbeing. “Music gives us language for what we don’t always know how to say,” Emma says. “These events aren’t just performances — they’re conversations about finding your voice and using it with courage.” Her sessions combine: • Author talk • Stripped-back acoustic performance • Interactive reflection • Q&A and book signing The tour will include appearances at libraries, independent bookstores, and festival events across the country.",
+      "link": "https://christchurch.bibliocommons.com/events/69ae98088d5e2d0933640ce3",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/98ed3269ccee2170d312a180cc2f0637/EmmaGevent.png",
+      "start_date": "2026-03-29T01:00:00+00:00",
+      "end_date": "2026-03-29T02:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Tūranga",
+        "street": "Cathedral Square",
+        "number": "60",
+        "city": "Central Christchurch",
+        "state": "Christchurch",
+        "zip": "8011",
+        "details": "Tautoru/TSB Space, Hapori | Community, Level 1, Tūranga"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Books and reading",
+        "Performance",
+        "Speakers and presentations",
+        "Adults (ages 18+)",
+        "Teens (ages 12-18)",
+        "English"
+      ],
+      "book": {
+        "title": "is currently being explored",
+        "author": "social workers, therapists, and counsellors book club in England, and Emma also serves as an Executive Contributor for Brainz Magazine, writing on creativity, resilience, and emotional wellbeing."
+      },
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Central Christchurch"
+    },
+    {
       "id": "696fe25a992fc18a86de77ea",
       "title": "Fan Art Book Club",
       "library": "Palm Beach County Library System",
@@ -12349,6 +12165,43 @@
       "state": "WA",
       "state_full": "Washington",
       "city": "Renton"
+    },
+    {
+      "id": "693f667c4be11d3d00d82281",
+      "title": "Book and Film Chat",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come join our friendly group to chat about your latest books or movies. With no set book to read, or film to watch, this is a relaxed group who meet monthly in the library. Held on the last Monday of each month",
+      "link": "https://christchurch.bibliocommons.com/events/693f667c4be11d3d00d82281",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-03-29T21:45:00+00:00",
+      "end_date": "2026-03-29T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Linwood Library",
+        "street": "1st Floor Eastgate Shopping Centre, Buckleys Road",
+        "number": "",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8062",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
     },
     {
       "id": "69690723992fc18a86dd8c59",
@@ -13066,6 +12919,40 @@
       "city": "Canton"
     },
     {
+      "id": "6830914c9c003a13d2eb4a88",
+      "title": "English Learners Book Club",
+      "library": "Charlotte Mecklenburg Library",
+      "library_slug": "cmlibrary",
+      "description": "English Learners Book Club Improve your fluency, pronunciation and reading comprehension in a supportive small group environment. Native speakers and ESL students proficient in English are both welcomed. Articles, short stories, and short novels will be read. Every other Monday from 6PM-7PM. Audience: Adults. This month, join us virtually. This program will be provided by Independence Regional Library staff. For more information call 704-416-4833 or email aramos@cmlibrary.org. How to Join an Online ProgramThis event takes place on Zoom. When registering, please provide an email address so you can receive the link to connect to the virtual English Learners Book Club meeting. You’ll receive an email with a link to the secure Zoom meeting about 24 hours before the event. New to using Zoom? Check out these videos to help you get started: Zoom How-To Videos Looking for more technology resources? Check out this list! Want to be notified about future events? Subscribe to our newsletter here.",
+      "link": "https://cmlibrary.bibliocommons.com/events/6830914c9c003a13d2eb4a88",
+      "image": "http://cmlibrary.bibliocommons.com/events/uploads/images/full/4f247e2f6a61169dfc434ad89afac3d5/English%20Learners%20Book%20Club%20BiblioEvents%20Header.jpg",
+      "start_date": "2026-03-30T22:00:00+00:00",
+      "end_date": "2026-03-30T23:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "3",
+        "registered": "3"
+      },
+      "categories": [
+        "WelcomeCLT",
+        "Book Club",
+        "ESOL (English Speakers of Other Languages)",
+        "Language Learning",
+        "WelcomeCLT",
+        "Adults",
+        "New Adults (18-24)",
+        "Older Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
+    },
+    {
       "id": "695e87b5c967cb4120808e8b",
       "title": "Readability Book Club",
       "library": "Evanston Public Library",
@@ -13271,7 +13158,7 @@
         "required": true,
         "full": false,
         "capacity": "225",
-        "registered": "15"
+        "registered": "16"
       },
       "categories": [
         "Auburn Avenue Research Library",
@@ -14105,7 +13992,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Book Clubs",
@@ -18910,7 +18797,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Arts and Culture",
@@ -19231,7 +19118,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -19363,7 +19250,7 @@
       "title": "Mystery Book Club at Saratoga Library",
       "library": "Santa Clara County Library",
       "library_slug": "sccl",
-      "description": "Join us for our monthly Mystery Book Club at Saratoga Library. We meet on the first Monday of each month. Drop by the Adult Reference Desk at Saratoga Library to sign up for the meeting and pick up a copy of the book.For accessibility accommodations (ex. ASL), please fill out the online form at sccld.org/accessibility 7+ days prior to the event. If you need assistance with the form, speak with a staff member at your local library, call (408) 540-3945, or email us at ask@lib.sccgov.org.",
+      "description": "Join us for our monthly Mystery Book Club at Saratoga Library. We meet on the first Monday of each month. This month, we will be discussing Tokyo Express by Seichō Matsumoto. Drop by the Adult Reference Desk at Saratoga Library to sign up for the meeting and pick up a copy of the book.For accessibility accommodations (ex. ASL), please fill out the online form at sccld.org/accessibility 7+ days prior to the event. If you need assistance with the form, speak with a staff member at your local library, call (408) 540-3945, or email us at ask@lib.sccgov.org.",
       "link": "https://sccl.bibliocommons.com/events/69125d55a18afa0c612acf7e",
       "image": "http://sccl.bibliocommons.com/events/uploads/images/full/8c215c9fbd8d9220fb8cfdb9f367ceaa/Author%20Visits%20and%20Book%20Clubs.jpg",
       "start_date": "2026-04-07T02:00:00+00:00",
@@ -21008,7 +20895,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "13"
+        "registered": "16"
       },
       "categories": [
         "Book Clubs",
@@ -22214,7 +22101,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Chapter Chat Book Club",
@@ -23059,7 +22946,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -24656,6 +24543,45 @@
       "state": "WA",
       "state_full": "Washington",
       "city": "Tacoma"
+    },
+    {
+      "id": "69a79c191e64afd01e5f9c50",
+      "title": "Mary Ann Key Book Club Discussion: The Serviceberry",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "The Mary Ann Key Book Club uses reading as a catalyst for intercultural conversations around understanding and addressing past and current injustices that impact Black, Indigenous, and People of Color. Join your neighbors in a discussion of our 2026 season selection: The Serviceberry by Robin Wall Kimmerer. While Indigenous scientist and author Robin Wall Kimmerer harvests serviceberries alongside the birds, she considers the ethic of reciprocity that lies at the heart of the gift economy and how we can learn from Indigenous wisdom and the plant world to reimagine what we value most. Copies of the book can be reserved; eBooks and eAudiobooks are available through www.hclib.org. Sponsor: Friends of the Hennepin County Library.",
+      "link": "https://hclib.bibliocommons.com/events/69a79c191e64afd01e5f9c50",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/9660eae5845a647ca097a511831f6e4c/MAK_ProgramBanner.jpg",
+      "start_date": "2026-04-11T19:00:00+00:00",
+      "end_date": "2026-04-11T20:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Minnetonka",
+        "street": "Excelsior Blvd.",
+        "number": "17524",
+        "city": "Minnetonka,",
+        "state": "MN",
+        "zip": "55345",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "18",
+        "registered": "1"
+      },
+      "categories": [
+        "Mary Ann Key Book Club",
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "The Serviceberry"
+      },
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Minnetonka,"
     },
     {
       "id": "69498ca72c65973d0013e3b8",
@@ -26490,7 +26416,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "DEI",
@@ -27995,6 +27921,43 @@
       "city": "Tucson"
     },
     {
+      "id": "68fabf9e2ea1b13000816405",
+      "title": "La Mesa Library Book Club",
+      "library": "San Diego County Library",
+      "library_slug": "sdcl",
+      "description": "Join us as we discuss The Dutch House by Ann Patchett. Pick up a copy from the front desk or order online.",
+      "link": "https://sdcl.bibliocommons.com/events/68fabf9e2ea1b13000816405",
+      "image": "http://sdcl.bibliocommons.com/events/uploads/images/full/15706881ee52106f7cdf31a7c337fa0d/EventsCalendarBanner-BookDiscussion.png",
+      "start_date": "2026-04-15T20:00:00+00:00",
+      "end_date": "2026-04-15T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "La Mesa",
+        "street": "Allison Avenue",
+        "number": "8074",
+        "city": "La Mesa",
+        "state": "CA",
+        "zip": "91942",
+        "details": "Magazine Area"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "Older Adults 55+",
+        "English"
+      ],
+      "book": null,
+      "state": "CA",
+      "state_full": "California",
+      "city": "La Mesa"
+    },
+    {
       "id": "6933425f76261f28005da5f2",
       "title": "Readers' Book Club",
       "library": "San JosÃ© Public Library",
@@ -29260,7 +29223,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "14"
       },
       "categories": [
         "Book Groups",
@@ -29483,7 +29446,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -30141,6 +30104,35 @@
       "state": "California",
       "state_full": "California",
       "city": "Pleasanton"
+    },
+    {
+      "id": "68fa667d2edc686d00f5ab4f",
+      "title": "(Virtual) Access Book Club",
+      "library": "San JosÃ© Public Library",
+      "library_slug": "sjpl",
+      "description": "Our mission is to provide individuals with disabilities an opportunity to form relationships through literature. By joining this group, members are disclosing that they have a disability. We will maintain every member’s privacy and confidentiality. Book for April, 2026:In honor of Autism Awareness Month, we will be reading a non-fiction book: “Unmasking Autism\" by Devon Price. Free. Please contact Bill Bowman bill.bowman@sjlibrary.org if you have any questions. Suggestions for further books are strongly encouraged! Zoom link:https://sanjoseca.zoom.us/j/95960167739?pwd=VL5RXXzum4obSacPGoKQgPXhl47a2n. ADA Accommodation Requests",
+      "link": "https://sjpl.bibliocommons.com/events/68fa667d2edc686d00f5ab4f",
+      "image": "http://sjpl.bibliocommons.com/events/uploads/images/full/94e8a4c03343ef5224b8c08abf3c626e/book-love-1400.jpg",
+      "start_date": "2026-04-17T17:00:00+00:00",
+      "end_date": "2026-04-17T18:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Disability Inclusion",
+        "Books & Authors",
+        "Adults, ages 18+",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "692dfc53e3b80d360059d6d1",
@@ -31101,7 +31093,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "13"
       },
       "categories": [
         "Book Clubs",
@@ -31987,7 +31979,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book Groups",
@@ -35091,7 +35083,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Clubs",
@@ -36076,7 +36068,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -36484,7 +36476,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Discussions",
@@ -43753,7 +43745,7 @@
       "title": "APL Afternoon Book Club",
       "library": "Aurora Public Library",
       "library_slug": "aurora",
-      "description": "Join book lovers like yourself on the third Monday afternoon of every month to express your opinion and discuss the shared title with the rest of the Book Club. May Section: TBD",
+      "description": "Join book lovers like yourself on the third Monday afternoon of every month to express your opinion and discuss the shared title with the rest of the Book Club. May Section: The Correspondent by Virginia Evans",
       "link": "https://aurora.bibliocommons.com/events/69a1af654a9fd98b7f80ef7b",
       "image": "http://aurora.bibliocommons.com/events/uploads/images/full/e41ec70c6a7c01d470521485c65fd9a6/AfternoonBookClubWide.png",
       "start_date": "2026-05-25T18:30:00+00:00",
@@ -43845,7 +43837,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book clubs",
@@ -44597,7 +44589,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -46499,7 +46491,7 @@
       "title": "APL Afternoon Book Club",
       "library": "Aurora Public Library",
       "library_slug": "aurora",
-      "description": "Join book lovers like yourself on the third Monday afternoon of every month to express your opinion and discuss the shared title with the rest of the Book Club. June Section: TBD",
+      "description": "Join book lovers like yourself on the third Monday afternoon of every month to express your opinion and discuss the shared title with the rest of the Book Club. June Section: Glorious Exploits by Ferdia Lennon",
       "link": "https://aurora.bibliocommons.com/events/69a1b29f4a9fd98b7f80efd4",
       "image": "http://aurora.bibliocommons.com/events/uploads/images/full/e41ec70c6a7c01d470521485c65fd9a6/AfternoonBookClubWide.png",
       "start_date": "2026-06-15T18:30:00+00:00",
