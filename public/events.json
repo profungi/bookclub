@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T05:07:57.616844Z",
+  "generated_at": "2026-03-30T05:21:02.418255Z",
   "total_events": 1369,
   "total_libraries": 66,
   "events": [
@@ -118,345 +118,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cincinnati"
-    },
-    {
-      "id": "69711a2830cbd582eff5ad8e",
-      "title": "Adult Book Discussion: Sandwich by Catherine Newman",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join us for a lively discussion of Sandwich by Catherine Newman. \"For the past two decades, Rocky has looked forward to her family's yearly escape to Cape Cod. Their humble beach-town rental has been the site of sweet memories, sunny days, great meals, and messes of all kinds : emotional, marital, and -- thanks to the cottage's ancient plumbing -- septic too. This year's vacation, with Rocky sandwiched between her half-grown kids and fully aging parents, promises to be just as delightful as summers past --\" Registration is suggested. How to Attend This event takes place in person. Questions about visiting the library? Check out our Using the Library FAQs. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/69711a2830cbd582eff5ad8e",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-03-29T18:30:00+00:00",
-      "end_date": "2026-03-29T19:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "North Pulaski",
-        "street": "W. North Avenue",
-        "number": "4300",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60639",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "1"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "696fe25a992fc18a86de77ea",
-      "title": "Fan Art Book Club",
-      "library": "Palm Beach County Library System",
-      "library_slug": "pbclibrary",
-      "description": "Do you have a book you loved so much you just had to make art about it? Come to Fan Art Book Club! You can either bring in art you've done or make the fan art right in the program! Everyone will chat about their books and art and ask questions. Snacks will be provided. Ages 10 -17.",
-      "link": "https://pbclibrary.bibliocommons.com/events/696fe25a992fc18a86de77ea",
-      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/bef7c82f56d93574fc586f2d408ad830/Arts&Crafts.png",
-      "start_date": "2026-03-29T18:30:00+00:00",
-      "end_date": "2026-03-29T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lantana Road Branch",
-        "street": "Lantana Road",
-        "number": "4020",
-        "city": "Lake Worth",
-        "state": "FL",
-        "zip": "33462",
-        "details": "Storytime Room"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "3"
-      },
-      "categories": [
-        "Sponsored by the Friends",
-        "Arts & Crafts",
-        "Book Discussion",
-        "Read a Recipe",
-        "Rediscover Reading",
-        "Children",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "FL",
-      "state_full": "Florida",
-      "city": "Lake Worth"
-    },
-    {
-      "id": "699cceaa8d5e2d093361267c",
-      "title": "Cookbook Club: Sister Pie",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join the RJ Daley-Bridgeport Library as we explore various cuisines through different cookbooks. Participants should choose one recipe to prepare and share at the meeting. Attendees will gather, discuss recipes, and enjoy offerings. This month's cookbook is Sister Pie by Lisa Ludwinski.A collection of favorite recipes for sweet and savory pies from the owner of Detroit's Sister Pie bakery features such options as ginger peach biscuit, toasted marshmallow butterscotch, and sour cherry bourbon pie.Lisa Ludwinski is the owner and head baker at Sister Pie, which she started out of her parents' kitchen. Before opening the shop, she trained at Milk Bar and Four and Twenty Blackbirds in New York and Brooklyn, respectively. She has been featured widely in national press, including a six-page feature in Bon Appetit, has twice been a semifinalist for a James Beard award, and makes the pies for Shake Shack's Detroit location.AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/699cceaa8d5e2d093361267c",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-03-29T19:00:00+00:00",
-      "end_date": "2026-03-29T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Daley, Richard J.-Bridgeport",
-        "street": "S. Halsted Street",
-        "number": "3400",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60608",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": {
-        "title": "Sister Pie"
-      },
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "699cce533cc3e0c9ecbb2536",
-      "title": "Book Discussion: Annie Bot",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join us as we discuss Annie Bot. Doug says he loves that Annie's AI makes her seem more like a real woman, so Annie explores human traits such as curiosity, secrecy, and longing. But becoming more human also means becoming less perfect, and as Annie's relationship with Doug grows more intricate and difficult, she starts to wonder: Does Doug really desire what he says he wants? And in such an impossible paradox, what does Annie owe herself?\"How to AttendThis event is available in person and online. Attend in person at the South Chicago Branch 9055 S. Houston. Attend online via ZoomOnly one registration per household is needed. You’ll receive an email with a link to the secure Zoom meeting about 24 hours before the meeting. Questions about attending online events? Check out our Events FAQs. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/699cce533cc3e0c9ecbb2536",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-03-29T21:00:00+00:00",
-      "end_date": "2026-03-29T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "South Chicago",
-        "street": "S. Houston Avenue",
-        "number": "9055",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60617",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "0"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6925de8a1b1cf10f3a27fd8a",
-      "title": "Book Clubs of EPL: The Bandit Queens",
-      "library": "Edmonton Public Library",
-      "library_slug": "epl",
-      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. This month we will be reading The Bandit Queens by Parini ShroffA young Indian woman falsely rumored to have killed her husband finds a way to make her unfortunate reputation surprisingly useful-- but complications arise when other village women seek her help offing their husbands. Please login to your account with your library card and then register to reserve a copy of the book.",
-      "link": "https://epl.bibliocommons.com/events/6925de8a1b1cf10f3a27fd8a",
-      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
-      "start_date": "2026-03-29T21:00:00+00:00",
-      "end_date": "2026-03-29T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lois Hole (Callingwood)",
-        "street": "69 Avenue",
-        "number": "17650",
-        "city": "Edmonton",
-        "state": "AB",
-        "zip": "T5T 3X9",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "1"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adult",
-        "English"
-      ],
-      "book": {
-        "title": "The Bandit Queens"
-      },
-      "state": "AB",
-      "state_full": "Alberta",
-      "city": "Edmonton"
-    },
-    {
-      "id": "695d72861e64afd01e52d08f",
-      "title": "Picture Book Club",
-      "library": "King County Library System",
-      "library_slug": "kcls",
-      "description": "Join us for an art project or craft based on a picture book. Keep the discussion going by checking out a copy of the book to take home! Ages 5 and up. Registration not required.Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
-      "link": "https://kcls.bibliocommons.com/events/695d72861e64afd01e52d08f",
-      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/1613267d344850cbce97886333d6cb58/crafting(1).jpg",
-      "start_date": "2026-03-29T21:00:00+00:00",
-      "end_date": "2026-03-29T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Renton",
-        "street": "Mill Avenue S",
-        "number": "100",
-        "city": "Renton",
-        "state": "WA",
-        "zip": "98057",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Art and Entertainment",
-        "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
-        "English"
-      ],
-      "book": {
-        "title": ". Keep the discussion going",
-        "author": "checking out a copy of the book to take home!"
-      },
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Renton"
-    },
-    {
-      "id": "693f667c4be11d3d00d82281",
-      "title": "Book and Film Chat",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Come join our friendly group to chat about your latest books or movies. With no set book to read, or film to watch, this is a relaxed group who meet monthly in the library. Held on the last Monday of each month",
-      "link": "https://christchurch.bibliocommons.com/events/693f667c4be11d3d00d82281",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-03-29T21:45:00+00:00",
-      "end_date": "2026-03-29T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Linwood Library",
-        "street": "1st Floor Eastgate Shopping Centre, Buckleys Road",
-        "number": "",
-        "city": "Christchurch",
-        "state": "",
-        "zip": "8062",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": "Christchurch"
-    },
-    {
-      "id": "693603f894297d36009ec15a",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec15a",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-03-30T01:00:00+00:00",
-      "end_date": "2026-03-30T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Christchurch",
-        "state": "",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": "Christchurch"
-    },
-    {
-      "id": "695427abc967cb41207f2220",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f2220",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-03-30T01:00:00+00:00",
-      "end_date": "2026-03-30T02:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
     },
     {
       "id": "69690723992fc18a86dd8c59",
@@ -1258,7 +919,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -1295,7 +956,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -2919,7 +2580,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Clubs",
@@ -3980,7 +3641,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Club",
@@ -5538,7 +5199,7 @@
         "required": true,
         "full": true,
         "capacity": "60",
-        "registered": "65"
+        "registered": "64"
       },
       "categories": [
         "Author Talks",
@@ -5672,7 +5333,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Authors & Speakers",
@@ -6592,7 +6253,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -7550,6 +7211,44 @@
       "city": "Foster City"
     },
     {
+      "id": "69c2a8dbb48451fc3c0ae9c3",
+      "title": "Reading is an Adventure/Leer es una Aventura",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Practice letter sounds, syllables and simple words through reading aloud and playing phonics games together as a group while eating a delicious snack. Caregivers and children 3 to 6 years old are welcome. Practica los sonidos de las letras, las sílabas y las palabras sencillas mediante la lectura en voz alta y juegos de fonética en grupo mientras comes un delicioso bocadillo. Los cuidadores y los niños de 3 a 6 años son bienvenidos. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event. Accesibilidad¿Necesita interpretación de lengua de signos u otro tipo de asistencia para este acto? Llame al (312) 747-8184 o envíe un correo electrónico a access@chipublib.org para solicitarlo. Las solicitudes deben realizarse al menos 14 días laborables antes del acto.",
+      "link": "https://chipublib.bibliocommons.com/events/69c2a8dbb48451fc3c0ae9c3",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-04-02T23:00:00+00:00",
+      "end_date": "2026-04-03T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Back of the Yards",
+        "street": "W. 47th Street",
+        "number": "2111",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60609",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Kids: 6 to 13 years",
+        "Preschoolers: 3 to 5 years",
+        "English",
+        "Spanish"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "699f20886583d22e3c0d2463",
       "title": "Reading Era Book Club",
       "library": "Dayton Metro Library",
@@ -8454,6 +8153,42 @@
       "city": "San Jose"
     },
     {
+      "id": "68c0546b9b6a35582f7003cf",
+      "title": "Adult Nonfiction Book Discussion: How the Word is Passed",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us at Harold Washington Library Center on the 1st Saturday of each month from 1-2 p.m. for a nonfiction book discussion for adults. April's selection is How the Word Is Passed: A Reckoning With the History of Slavery Across America by Clint Smith. You may pick up a copy one month in advance at the Business, Science, Technology, and Government Documents Reference Desk on the 4th floor of the Harold Washington Library Center. How to Attend These events take place in person. Questions about visiting the library? Check out our Using the Library FAQs. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/68c0546b9b6a35582f7003cf",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-04-04T18:00:00+00:00",
+      "end_date": "2026-04-04T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Harold Washington Library Center",
+        "street": "S. State Street",
+        "number": "400",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60605",
+        "details": "Room 7N-5, 7th floor"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "10",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6939bcee94297d36009f3663",
       "title": "Book Club",
       "library": "Dayton Metro Library",
@@ -8846,9 +8581,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "17",
-        "registered": "15"
+        "registered": "17"
       },
       "categories": [
         "Makerspace and Making",
@@ -9372,9 +9107,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "12",
-        "registered": "10"
+        "registered": "12"
       },
       "categories": [
         "Book Club",
@@ -9812,7 +9547,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "13"
+        "registered": "12"
       },
       "categories": [
         "Book Club",
@@ -11496,7 +11231,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -11731,6 +11466,47 @@
       "state": "Christchurch",
       "state_full": "Christchurch",
       "city": "Fendalton"
+    },
+    {
+      "id": "69447f201e64afd01e4fcd3c",
+      "title": "Shared Reading at Tūranga",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come and join our reading group with a difference. Shared reading is an opportunity to listen to a short story and a poem as a group and then break it down and discuss it. Share your thoughts - how it made you feel, how you interpreted it, did you enjoy it? Discover some interesting and thought provoking reading led by one of our library staff. Every Wednesday, 11am-12pm Location: Auahatanga | Creativity, Level 4, Tūranga Free, no bookings required.This programme is part of the The Reading Revolution.Listen to Kate Middleton talk about The Reading Revolution with Jim Mora about it on RNZ Sunday Morning.",
+      "link": "https://christchurch.bibliocommons.com/events/69447f201e64afd01e4fcd3c",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/02b8432b90bbcc730afe4e41a69b9c56/shared-reading.jpg",
+      "start_date": "2026-04-07T23:00:00+00:00",
+      "end_date": "2026-04-08T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Tūranga",
+        "street": "Cathedral Square",
+        "number": "60",
+        "city": "Central Christchurch",
+        "state": "Christchurch",
+        "zip": "8011",
+        "details": "Auahatanga | Creativity, Level 4, Tūranga"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": {
+        "title": "led",
+        "author": "one of our library staff."
+      },
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Central Christchurch"
     },
     {
       "id": "6914d76c2ea1b1300084844f",
@@ -12228,6 +12004,43 @@
       "city": "San Ramon"
     },
     {
+      "id": "69447f6876261f28005fe318",
+      "title": "Scrabble",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Wednesday at 1-3pm. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69447f6876261f28005fe318",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-04-08T01:00:00+00:00",
+      "end_date": "2026-04-08T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court, Farrington Avenue",
+        "number": "13",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
+    },
+    {
       "id": "691764a92ea1b1300084d6ad",
       "title": "Book Clubs of EPL: Ridgerunner",
       "library": "Edmonton Public Library",
@@ -12328,7 +12141,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -12339,6 +12152,43 @@
       "state": "CA",
       "state_full": "California",
       "city": "Castro Valley"
+    },
+    {
+      "id": "69112bd8683f18f7608cf65a",
+      "title": "Scrabble Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble Club. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69112bd8683f18f7608cf65a",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-04-08T01:30:00+00:00",
+      "end_date": "2026-04-08T03:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Shirley Library",
+        "street": "Marshland Road",
+        "number": "36",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8061",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
     },
     {
       "id": "69656de230cbd582eff4d45f",
@@ -13107,7 +12957,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "6"
+        "registered": "5"
       },
       "categories": [
         "Current Events, Lectures, Discussions",
@@ -13782,6 +13632,47 @@
       "state": "WA",
       "state_full": "Washington",
       "city": "Sammamish"
+    },
+    {
+      "id": "695d7283491b809c6f114ce5",
+      "title": "Reading Buddies at Renton Library (Study Zone)",
+      "library": "King County Library System",
+      "library_slug": "kcls",
+      "description": "Volunteers help students practice reading out loud. Two students are paired by reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12. Reading Buddies share eBooks on an iPad. Books selection changes every two weeks. Look for volunteers wearing the green Reading Buddies t-shirt. Add your name to the sign-up sheet for a 30-minute spot at your reading level. Safety guidelines and current protocols followed. Study Zone Study Zone programs provide volunteer-led academic support for grades K-12. Programs include Tutors, Math Club, Reading Buddies and Kids & Teens Talk Time. Available online and in libraries. Online Study Zone programs are supervised by library staff. Visit Study Zone for the Terms of Use Agreement and steps KCLS is taking to maintain a safe and positive online space. Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
+      "link": "https://kcls.bibliocommons.com/events/695d7283491b809c6f114ce5",
+      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/a3902ce9fd06f73d4342bc59dd409fb0/2025StudyZoneLLG2.jpg",
+      "start_date": "2026-04-08T23:00:00+00:00",
+      "end_date": "2026-04-09T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Renton",
+        "street": "Mill Avenue S",
+        "number": "100",
+        "city": "Renton",
+        "state": "WA",
+        "zip": "98057",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Reading Buddies In-Person",
+        "Tutoring and Education",
+        "Kids (Ages 6 to 8)",
+        "Tweens (Ages 9 to 12)",
+        "English"
+      ],
+      "book": {
+        "title": "out loud. Two students are paired",
+        "author": "reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12."
+      },
+      "state": "WA",
+      "state_full": "Washington",
+      "city": "Renton"
     },
     {
       "id": "693cb147ddf563280020a627",
@@ -15204,7 +15095,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "All Abilities",
@@ -15747,9 +15638,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "15",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Club",
@@ -19470,9 +19361,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "14",
-        "registered": "12"
+        "registered": "14"
       },
       "categories": [
         "Book Clubs",
@@ -21099,7 +20990,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -22021,7 +21912,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -22177,7 +22068,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -22533,7 +22424,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "13"
+        "registered": "14"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -23547,7 +23438,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "13"
+        "registered": "14"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -25595,7 +25486,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "3"
+        "registered": "5"
       },
       "categories": [
         "Pride",
@@ -25636,7 +25527,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Makerspace and Making",
@@ -28242,7 +28133,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -29094,7 +28985,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -29598,9 +29489,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "19"
       },
       "categories": [
         "Book Clubs",
@@ -30963,7 +30854,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -31553,7 +31444,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Book Clubs",
@@ -32501,7 +32392,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book Clubs",
@@ -32613,7 +32504,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -33057,7 +32948,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Discussions",
@@ -33071,6 +32962,44 @@
       "state": "",
       "state_full": "",
       "city": ""
+    },
+    {
+      "id": "6907d0c93cbc052f0082de7b",
+      "title": "Book Clubs of EPL: Transcription",
+      "library": "Edmonton Public Library",
+      "library_slug": "epl",
+      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. For the month of April, we will be reading Transcription by Kate Atkinson.",
+      "link": "https://epl.bibliocommons.com/events/6907d0c93cbc052f0082de7b",
+      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
+      "start_date": "2026-05-01T01:00:00+00:00",
+      "end_date": "2026-05-01T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Calder",
+        "street": "131 Avenue NW",
+        "number": "12710",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5L 2Z6",
+        "details": "Program Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "15",
+        "registered": "3"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adult",
+        "English"
+      ],
+      "book": {
+        "title": "Transcription by Kate Atkinson"
+      },
+      "state": "AB",
+      "state_full": "Alberta",
+      "city": "Edmonton"
     },
     {
       "id": "69934da94dacf581ff7bb6f3",
@@ -39410,6 +39339,43 @@
       "city": "Springfield"
     },
     {
+      "id": "69b945cfb6c4ac1fedc6497a",
+      "title": "Glades Road Book Club: Once Upon a Time",
+      "library": "Palm Beach County Library System",
+      "library_slug": "pbclibrary",
+      "description": "Once Upon A Time: The Captivating Life of Carolyn Bessette-Kennedy by Elizabeth Beller",
+      "link": "https://pbclibrary.bibliocommons.com/events/69b945cfb6c4ac1fedc6497a",
+      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
+      "start_date": "2026-05-19T18:00:00+00:00",
+      "end_date": "2026-05-19T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Glades Road Branch",
+        "street": "95th Avenue South",
+        "number": "20701",
+        "city": "Boca Raton",
+        "state": "FL",
+        "zip": "33434",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Discussion",
+        "Rediscover Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "FL",
+      "state_full": "Florida",
+      "city": "Boca Raton"
+    },
+    {
       "id": "696164862c65973d0016eb70",
       "title": "Book Club",
       "library": "Muskegon Area District Library",
@@ -41478,6 +41444,43 @@
       "state": "Kentucky",
       "state_full": "Kentucky",
       "city": "Erlanger"
+    },
+    {
+      "id": "69c9310a567ba1dd31feee93",
+      "title": "Tween Reading Club (9–12 yrs)",
+      "library": "Richmond Hill Public Library",
+      "library_slug": "rhpl",
+      "description": "Ages: 9–12 yearsAre you an avid reader? A bookworm? Register for our book club, pick up this month's title, and join your fellow book lovers in our newest reading club! We'll read a different book each month and gather at the library to talk about what we liked, didn't like, and more. We'll also do book related activities. In May, we'll read The Giver by Lois Lowry.",
+      "link": "https://rhpl.bibliocommons.com/events/69c9310a567ba1dd31feee93",
+      "image": "http://rhpl.bibliocommons.com/events/uploads/images/full/50ad568402163f3f303178b62a1fc3a4/TweenReadingClub.png",
+      "start_date": "2026-05-27T20:30:00+00:00",
+      "end_date": "2026-05-27T21:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Central Branch",
+        "street": "Atkinson Street",
+        "number": "1",
+        "city": "Richmond Hill",
+        "state": "ON",
+        "zip": "L4C 0H5",
+        "details": "Location: Room C, 2nd Floor."
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "20",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Books & Reading",
+        "Kids",
+        "English"
+      ],
+      "book": null,
+      "state": "ON",
+      "state_full": "Ontario",
+      "city": "Richmond Hill"
     },
     {
       "id": "697131bd91e4576f847de754",
@@ -44377,7 +44380,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Books & Movies",
