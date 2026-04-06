@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T05:09:21.022928Z",
-  "total_events": 1387,
+  "generated_at": "2026-04-06T05:20:40.794662Z",
+  "total_events": 1389,
   "total_libraries": 66,
   "events": [
     {
@@ -362,7 +362,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "11"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -618,9 +618,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "12",
-        "registered": "12"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -695,7 +695,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "8"
       },
       "categories": [
         "Book Discussions",
@@ -726,7 +726,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "9"
+        "registered": "6"
       },
       "categories": [
         "Arts and Culture",
@@ -842,7 +842,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "7"
+        "registered": "6"
       },
       "categories": [
         "Book Club",
@@ -918,7 +918,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -1335,7 +1335,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "17"
+        "registered": "18"
       },
       "categories": [
         "Book Groups",
@@ -1448,7 +1448,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -2293,7 +2293,7 @@
         "required": true,
         "full": false,
         "capacity": "23",
-        "registered": "13"
+        "registered": "14"
       },
       "categories": [
         "Book Clubs",
@@ -2934,7 +2934,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -3495,9 +3495,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "200",
-        "registered": "202"
+        "registered": "198"
       },
       "categories": [
         "Out & About",
@@ -4544,7 +4544,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Arts & Crafts",
@@ -6077,7 +6077,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Discussion",
@@ -6108,7 +6108,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Books & Authors",
@@ -6138,7 +6138,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Books & Authors",
@@ -7401,7 +7401,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "All Abilities",
@@ -7804,7 +7804,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Anime Club",
@@ -8973,7 +8973,7 @@
       "title": "Inclusive Book Club with AAC (Online Event)",
       "library": "Alameda County Library",
       "library_slug": "aclibrary",
-      "description": "Hello Book Club Families, Book of the Week: The Phantom TollboothIn The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About Our Book Club: Each week, an AAC user hosts our sessions, and a librarian reads our story. After each reading, we enjoy an activity or game connected to the book, celebrating representation, creativity, and the many wonderful ways people communicate. We celebrate all forms of communication, AAC, speech, gestures, and expressions, and follow a Floortime-inspired approach that centers on meeting readers where they are and building joyful shared experiences. When applicable, a visual schedule will be emailed 24 hours before each session to help our readers follow along. Special thanks to Norton Juster and Penguin Random House for allowing us to share The Phantom Tollbooth as part of our Inclusive Book Club, supporting communication access, creativity, and representation.",
+      "description": "Hello Book Club Families, Book of the Week: The Phantom Tollbooth In The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About our Inclusive Book Club: Each week, an AAC user hosts the session and a librarian reads the book aloud. After the reading, we enjoy an activity or game connected to the story. We celebrate all forms of communication, including AAC, speech, gestures, and expressions. Our goal is to create a supportive and joyful space where everyone can participate in their own way. When available, we send a visual schedule 24 hours before the session to help participants follow along. Special thanks to Norton Juster and Penguin Random House for permission to share The Phantom Tollbooth as part of this program.",
       "link": "https://aclibrary.bibliocommons.com/events/69ca993d2866a5b48845477f",
       "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/4a3e696c562e5ba67be2c63f8b3e28cf/BookClubs-BibliowebEventHeaderTemplates2024_5.jpg",
       "start_date": "2026-04-10T00:00:00+00:00",
@@ -9123,7 +9123,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Books & Authors",
@@ -9790,7 +9790,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Books & Reading",
@@ -10099,7 +10099,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Crafts & Hobbies",
@@ -12468,7 +12468,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "6"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -12818,6 +12818,46 @@
       "state": "OH",
       "state_full": "Ohio",
       "city": "Canton"
+    },
+    {
+      "id": "68fb99d3886bb73600b76340",
+      "title": "Far Horizons Book Club",
+      "library": "Charlotte Mecklenburg Library",
+      "library_slug": "cmlibrary",
+      "description": "Join us on the second Monday of each month to discuss a selected work of nonfiction. This month we will chat about Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away by David Gelles. New members welcome!",
+      "link": "https://cmlibrary.bibliocommons.com/events/68fb99d3886bb73600b76340",
+      "image": "http://cmlibrary.bibliocommons.com/events/uploads/images/full/403b4ce272c839bfb1c028dc454deedb/Dirtbag.jpg",
+      "start_date": "2026-04-13T22:00:00+00:00",
+      "end_date": "2026-04-13T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Matthews",
+        "street": "Matthews Station St.",
+        "number": "230",
+        "city": "Matthews",
+        "state": "NC",
+        "zip": "28105",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "15",
+        "registered": "5"
+      },
+      "categories": [
+        "Book Club",
+        "Books/Literature",
+        "Adults",
+        "Older Adults",
+        "English"
+      ],
+      "book": {
+        "title": "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away"
+      },
+      "state": "NC",
+      "state_full": "North Carolina",
+      "city": "Matthews"
     },
     {
       "id": "68f7d0272edc686d00f579d4",
@@ -16184,6 +16224,43 @@
       "city": ""
     },
     {
+      "id": "69447f6876261f28005fe319",
+      "title": "Scrabble",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Wednesday at 1-3pm. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69447f6876261f28005fe319",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-04-15T01:00:00+00:00",
+      "end_date": "2026-04-15T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court, Farrington Avenue",
+        "number": "13",
+        "city": "Christchurch",
+        "state": "",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": "Christchurch"
+    },
+    {
       "id": "69b1bdf1db89981d9df952d3",
       "title": "Book Clubs of EPL: How to Pronounce Knife",
       "library": "Edmonton Public Library",
@@ -18948,7 +19025,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "1"
       },
       "categories": [
         "Book Clubs",
@@ -19469,7 +19546,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -19939,7 +20016,7 @@
       "title": "Inclusive Book Club with AAC (Online Event)",
       "library": "Alameda County Library",
       "library_slug": "aclibrary",
-      "description": "Hello Book Club Families, Book of the Week: The Phantom TollboothIn The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About Our Book Club: Each week, an AAC user hosts our sessions, and a librarian reads our story. After each reading, we enjoy an activity or game connected to the book, celebrating representation, creativity, and the many wonderful ways people communicate. We celebrate all forms of communication, AAC, speech, gestures, and expressions, and follow a Floortime-inspired approach that centers on meeting readers where they are and building joyful shared experiences. When applicable, a visual schedule will be emailed 24 hours before each session to help our readers follow along. Special thanks to Norton Juster and Penguin Random House for allowing us to share The Phantom Tollbooth as part of our Inclusive Book Club, supporting communication access, creativity, and representation.",
+      "description": "Hello Book Club Families, Book of the Week: The Phantom Tollbooth In The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About our Inclusive Book Club: Each week, an AAC user hosts the session and a librarian reads the book aloud. After the reading, we enjoy an activity or game connected to the story. We celebrate all forms of communication, including AAC, speech, gestures, and expressions. Our goal is to create a supportive and joyful space where everyone can participate in their own way. When available, we send a visual schedule 24 hours before the session to help participants follow along. Special thanks to Norton Juster and Penguin Random House for permission to share The Phantom Tollbooth as part of this program.",
       "link": "https://aclibrary.bibliocommons.com/events/69ca993d2866a5b488454780",
       "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/4a3e696c562e5ba67be2c63f8b3e28cf/BookClubs-BibliowebEventHeaderTemplates2024_5.jpg",
       "start_date": "2026-04-17T00:00:00+00:00",
@@ -20260,9 +20337,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -21175,9 +21252,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "13"
       },
       "categories": [
         "Makerspace and Making",
@@ -23403,7 +23480,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "17"
+        "registered": "18"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -25792,7 +25869,7 @@
       "title": "Inclusive Book Club with AAC (Online Event)",
       "library": "Alameda County Library",
       "library_slug": "aclibrary",
-      "description": "Hello Book Club Families, Book of the Week: The Phantom TollboothIn The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About Our Book Club: Each week, an AAC user hosts our sessions, and a librarian reads our story. After each reading, we enjoy an activity or game connected to the book, celebrating representation, creativity, and the many wonderful ways people communicate. We celebrate all forms of communication, AAC, speech, gestures, and expressions, and follow a Floortime-inspired approach that centers on meeting readers where they are and building joyful shared experiences. When applicable, a visual schedule will be emailed 24 hours before each session to help our readers follow along. Special thanks to Norton Juster and Penguin Random House for allowing us to share The Phantom Tollbooth as part of our Inclusive Book Club, supporting communication access, creativity, and representation.",
+      "description": "Hello Book Club Families, Book of the Week: The Phantom Tollbooth In The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About our Inclusive Book Club: Each week, an AAC user hosts the session and a librarian reads the book aloud. After the reading, we enjoy an activity or game connected to the story. We celebrate all forms of communication, including AAC, speech, gestures, and expressions. Our goal is to create a supportive and joyful space where everyone can participate in their own way. When available, we send a visual schedule 24 hours before the session to help participants follow along. Special thanks to Norton Juster and Penguin Random House for permission to share The Phantom Tollbooth as part of this program.",
       "link": "https://aclibrary.bibliocommons.com/events/69ca993d2866a5b488454781",
       "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/4a3e696c562e5ba67be2c63f8b3e28cf/BookClubs-BibliowebEventHeaderTemplates2024_5.jpg",
       "start_date": "2026-04-24T00:00:00+00:00",
@@ -26123,9 +26200,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -28447,7 +28524,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book Clubs",
@@ -30031,7 +30108,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "7"
       },
       "categories": [
         "Book Discussions & Movies",
@@ -30130,7 +30207,7 @@
       "title": "Inclusive Book Club with AAC (Online Event)",
       "library": "Alameda County Library",
       "library_slug": "aclibrary",
-      "description": "Hello Book Club Families, Book of the Week: The Phantom TollboothIn The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About Our Book Club: Each week, an AAC user hosts our sessions, and a librarian reads our story. After each reading, we enjoy an activity or game connected to the book, celebrating representation, creativity, and the many wonderful ways people communicate. We celebrate all forms of communication, AAC, speech, gestures, and expressions, and follow a Floortime-inspired approach that centers on meeting readers where they are and building joyful shared experiences. When applicable, a visual schedule will be emailed 24 hours before each session to help our readers follow along. Special thanks to Norton Juster and Penguin Random House for allowing us to share The Phantom Tollbooth as part of our Inclusive Book Club, supporting communication access, creativity, and representation.",
+      "description": "Hello Book Club Families, Book of the Week: The Phantom Tollbooth In The Phantom Tollbooth, Milo travels through a world where words, numbers, ideas, and imagination come alive. Along the way, he discovers that meaning can be found in unexpected places and that curiosity helps us better understand ourselves and others. This story invites us to explore language, expression, problem-solving, and the many different ways people make sense of the world About our Inclusive Book Club: Each week, an AAC user hosts the session and a librarian reads the book aloud. After the reading, we enjoy an activity or game connected to the story. We celebrate all forms of communication, including AAC, speech, gestures, and expressions. Our goal is to create a supportive and joyful space where everyone can participate in their own way. When available, we send a visual schedule 24 hours before the session to help participants follow along. Special thanks to Norton Juster and Penguin Random House for permission to share The Phantom Tollbooth as part of this program.",
       "link": "https://aclibrary.bibliocommons.com/events/69ca993d2866a5b488454782",
       "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/4a3e696c562e5ba67be2c63f8b3e28cf/BookClubs-BibliowebEventHeaderTemplates2024_5.jpg",
       "start_date": "2026-05-01T00:00:00+00:00",
@@ -30319,9 +30396,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -30359,9 +30436,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -30588,7 +30665,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Makerspace and Making",
@@ -31694,7 +31771,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "3"
       },
       "categories": [
         "Book Discussions",
@@ -33170,9 +33247,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -33210,9 +33287,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -35753,7 +35830,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "21"
+        "registered": "22"
       },
       "categories": [
         "Lifelong Learning",
@@ -36674,9 +36751,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -36751,9 +36828,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -50905,7 +50982,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Books & Movies",
