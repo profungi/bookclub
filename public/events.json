@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:56:53.210785Z",
-  "total_events": 1370,
+  "generated_at": "2026-06-01T08:31:18.507896Z",
+  "total_events": 1364,
   "total_libraries": 65,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Button Book Club",
       "library": "Cincinnati & Hamilton County Public Library",
       "library_slug": "cincinnatilibrary",
-      "description": "Do you love to read but hate deadlines? Or are you just too busy to attend traditional book club meetings? If so, our Button Book Club is perfect for you! Each month there will be a new book to read and a brand new pin to collect! How It Works Pick Your Book! Each month will feature a new Easy/Picture, Beginning Reader, Middle Grade, and Teen book. Simply pick which level you want to read and check out the book! Share Your Thoughts! Come back anytime during the month and write/draw your favorite part of the book. Get Your Pin! Each book will have it's own special, collectible pin. Participate every month to collect them all! Plus, get a free lanyard with your first pin to show them off! May Books: Easy/Picture: Soy Sauce by Laura Lee Beginning Readers: Mercy Watson to the Rescue by Kate DiCamillo Middle Grade: Clairboyance by Kristiana Kahakauwila Teen: The Singular Life of Aria Patel by Samira Ahmed",
+      "description": "Do you love to read but hate deadlines? Or are you just too busy to attend traditional book club meetings? If so, our Button Book Club is perfect for you! Each month there will be a new book to read and a brand new pin to collect! How It Works Pick Your Book! Each month will feature a new Easy/Picture, Beginning Reader, Middle Grade, and Teen book. Simply pick which level you want to read and check out the book! Share Your Thoughts! Come back anytime during the month and write/draw your favorite part of the book. Get Your Pin! Each book will have it's own special, collectible pin. Participate every month to collect them all! Plus, get a free lanyard with your first pin to show them off! June Books: Easy/Picture: Fairy Walk by Gaia Cornwall Beginning Readers: Danger in the Dragon's Den by Megan Reyes Middle Grade: Sona and the Golden Beasts by Rajani LaRocca Teen: The House of Saphir by Marissa Meyer",
       "link": "https://cincinnatilibrary.bibliocommons.com/events/6939dc3876261f28005e7060",
       "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
       "start_date": "2026-01-02T05:00:00+00:00",
@@ -37,7 +37,7 @@
         "English"
       ],
       "book": {
-        "title": "Soy Sauce"
+        "title": "Fairy Walk"
       },
       "state": "Ohio",
       "state_full": "Ohio",
@@ -80,82 +80,6 @@
       "city": "Cleves"
     },
     {
-      "id": "69b2e5d98089f23c676198ab",
-      "title": "Teen Passive Book Club: Sports",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "This month's teen passive book club theme is sports! Our featured title is Chlorine Sky by Mahogany L. Browne: Picked on at home, criticized for talking trash while beating boys at basketball, and always seen as less than her best friend, a girl struggles to like and accept herself. Grab a copy (or any alternate title) in the teen area & an activity packet!",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/69b2e5d98089f23c676198ab",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-05-01T04:00:00+00:00",
-      "end_date": "2026-06-01T03:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Harrison Branch Library",
-        "street": "New Haven Road",
-        "number": "10398",
-        "city": "Harrison",
-        "state": "Ohio",
-        "zip": "45030",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Harrison"
-    },
-    {
-      "id": "69ea72098ddc1caf5f1edc0a",
-      "title": "Button Book Club",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Button Book Club is a passive book club, where participants read a book inspired by the monthly theme, fill in a brief worksheet (2 questions) and collect button. In May the topic is Creates! Arts, Culture and Literature. With a curated selection of books on everything from books by R.L. Stein and Cincinnati based authors, to biographies about artist we have a bit of everything. Something else spark your interest? We can't wait to hear what it is. Recommended for all ages. Please see staff if you have any questions.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/69ea72098ddc1caf5f1edc0a",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/4963fb1a9facf3bd84f22c1f8668126d/America250_Biblioeventheader-01.jpg",
-      "start_date": "2026-05-01T04:00:00+00:00",
-      "end_date": "2026-06-01T03:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Clifton Branch Library",
-        "street": "Brookline Ave.",
-        "number": "3400",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45220",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "America 250-Ohio",
-        "Book Clubs and Reading",
-        "All Ages",
-        "English"
-      ],
-      "book": {
-        "title": "Club is a passive book club, where participants read a book inspired",
-        "author": "the monthly theme, fill in a brief worksheet (2 questions) and collect button."
-      },
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
       "id": "69c699baad384e40edb72634",
       "title": "𓄿SHADOWBOX𓄿: the YA Fiction Trope Box",
       "library": "Charlotte Mecklenburg Library",
@@ -192,662 +116,6 @@
       "state": "NC",
       "state_full": "North Carolina",
       "city": "Charlotte"
-    },
-    {
-      "id": "6a05122c8e677a28001be13b",
-      "title": "Teen Banned Book Reading Event",
-      "library": "Alameda County Library",
-      "library_slug": "aclibrary",
-      "description": "Fight censorship and read banned books this summer! How it works: choose a free banned book & annotation kit to bring homeread it over the summer, at your own pacejoin the library in July to bedazzle your book cover Requirements: for members aged 12-18one book kit per member, while supplies lastteen must be present to pick up the book kit Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests! An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) days in advance. For assistance, please contact your library or accessibility@aclibrary.org.",
-      "link": "https://aclibrary.bibliocommons.com/events/6a05122c8e677a28001be13b",
-      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/113935cdfdbb2ef9c875e26d9ee6c49f/CopyofBH01BiblioEventHeadersTemplates(2).png",
-      "start_date": "2026-05-30T07:00:00+00:00",
-      "end_date": "2026-05-31T06:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Union City",
-        "street": "Alvarado-Niles Road",
-        "number": "34007",
-        "city": "Union City",
-        "state": "CA",
-        "zip": "94587",
-        "details": "Upstairs Teen Space"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Union City"
-    },
-    {
-      "id": "6998d87bcbf1533ca537dd8d",
-      "title": "Snack Chat: Harry Potter and the Chamber of Secrets",
-      "library": "Palm Beach County Library System",
-      "library_slug": "pbclibrary",
-      "description": "Journey through Hogwarts in our monthly Harry Potter Snack Chat book club. We’ll chat about magical moments, friendship, and favorite chapters while enjoying snacks. Ages 8-17. This month's book is \"Harry Potter and the Chamber of Secrets\" by J.K. Rowling. Available as an eBook and audiobook in the cloudLibrary app.",
-      "link": "https://pbclibrary.bibliocommons.com/events/6998d87bcbf1533ca537dd8d",
-      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
-      "start_date": "2026-05-31T18:00:00+00:00",
-      "end_date": "2026-05-31T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Acreage Branch",
-        "street": "Orange Blvd",
-        "number": "15801",
-        "city": "Loxahatchee",
-        "state": "FL",
-        "zip": "33470",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "12",
-        "registered": "6"
-      },
-      "categories": [
-        "Sponsored by the Friends",
-        "Book Discussion",
-        "Rediscover Reading",
-        "Children",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "FL",
-      "state_full": "Florida",
-      "city": "Loxahatchee"
-    },
-    {
-      "id": "69dd80b0129f127438385da7",
-      "title": "Dungeons and Dragons Club",
-      "library": "King County Library System",
-      "library_slug": "kcls",
-      "description": "Join us for Dungeons and Dragons at the Duvall Library! Our volunteer Dungeon Master will introduce participants to D&D and set up campaign play. No prior experience required.All materials will be provided (books, maps, miniatures, dice, paper, etc.). Recommended for teens, tweens, and young adults ages 12-24. Snacks provided by the Friends of the Duvall LibraryReasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
-      "link": "https://kcls.bibliocommons.com/events/69dd80b0129f127438385da7",
-      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/b0cc0894c74efc599092c721b7feb9f7/picforDungeonsandDragonsbiblioeventsJanuary2024.png",
-      "start_date": "2026-05-31T18:30:00+00:00",
-      "end_date": "2026-05-31T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Duvall",
-        "street": "Main Street NE",
-        "number": "15508",
-        "city": "Duvall",
-        "state": "WA",
-        "zip": "98019",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "45",
-        "registered": ""
-      },
-      "categories": [
-        "Games and Gaming",
-        "Adults (Ages 18 to 24)",
-        "Teens (Ages 13 to 17)",
-        "English"
-      ],
-      "book": null,
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Duvall"
-    },
-    {
-      "id": "69b9a0c12866a5b48842b3dd",
-      "title": "Fan Art Book Club",
-      "library": "Palm Beach County Library System",
-      "library_slug": "pbclibrary",
-      "description": "Do you have a book you loved so much you just had to make art about it? Come to Fan Art Book Club! You can either bring in art you've done or make the fan art right in the program! Everyone will chat about their books and art and ask questions. Snacks will be provided. Ages 10 -17.",
-      "link": "https://pbclibrary.bibliocommons.com/events/69b9a0c12866a5b48842b3dd",
-      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/bef7c82f56d93574fc586f2d408ad830/Arts&Crafts.png",
-      "start_date": "2026-05-31T18:30:00+00:00",
-      "end_date": "2026-05-31T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lantana Road Branch",
-        "street": "Lantana Road",
-        "number": "4020",
-        "city": "Lake Worth",
-        "state": "FL",
-        "zip": "33462",
-        "details": "Storytime Room"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "2"
-      },
-      "categories": [
-        "Sponsored by the Friends",
-        "Arts & Crafts",
-        "Book Discussion",
-        "Read a Recipe",
-        "Rediscover Reading",
-        "Children",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "FL",
-      "state_full": "Florida",
-      "city": "Lake Worth"
-    },
-    {
-      "id": "69dd33a424bd39b0b5e7436f",
-      "title": "Teen Anime and Manga Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Stop by the branch to watch some anime and meet other anime and manga lovers! We’ll hang out, eat snacks and talk about what we’ve been reading and watching. For teens 13 to 19.Club de anime y manga para adolescentes¡Pasa por la sucursal de Gage Park para ver algo de anime y conocer a otros amantes del anime y el manga! Pasaremos el rato, comeremos bocadillos y hablaremos sobre lo que hemos estado leyendo y viendo.Para adolescentes de 13 a 19 años.How to Attend Register by the start of the event. Chicago Public Library cannot collect personal information online from kids 0 to 13. A parent or guardian’s email address must be used to register. As a reminder, school email addresses may block external emails such as those from CPL.AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/69dd33a424bd39b0b5e7436f",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/6bc2826ee312b04c7dc8958ce9ca6a9a/012364_ArtMusicandPerformances_Banner_Biblio.jpg",
-      "start_date": "2026-05-31T19:00:00+00:00",
-      "end_date": "2026-05-31T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Gage Park",
-        "street": "W. 55th Street",
-        "number": "2807",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60632",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "0"
-      },
-      "categories": [
-        "Art, Music and Performances",
-        "Book Clubs",
-        "Teens: 13 to 19 years",
-        "Tweens: 10 to 13 years",
-        "English",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "694edf896724c63d00e8b3ba",
-      "title": "Used Book Sale - Friends of the Cupertino Library",
-      "library": "Santa Clara County Library",
-      "library_slug": "sccl",
-      "description": "The Friends of the Cupertino Library are having a Used Book Sale! Saturday, May 30, 2026 from 9 AM - 3 PM Sunday, May 31, 2026 from Noon - 3 PM (Bag Sale Day)Cupertino Community Hall 10350 Torre Ave Cupertino, CA 95014 Used Book Sale inventory includes: Fiction, Non-Fiction, Paperbacks, Cookbooks, Children's Books, Select Books, Foreign Languages & Technical Books Visit: https://www.friendsofcupertino... Want to help? Donate your used books to the Friends of the Cupertino Public Library. Join the Friends of the Cupertino Library. Membership forms are available at the front desk. Ongoing Lobby book sale during open library hours. At the Cupertino Library, the Friends Book Sales support: Chinese Book Club, Study Sessions for SAT Tests, Tween Book Club, Adult Book Club, Summer Reading Programs for Children, Best Seller Collections, County Bookmobile, Go Go Biblio.",
-      "link": "https://sccl.bibliocommons.com/events/694edf896724c63d00e8b3ba",
-      "image": "http://sccl.bibliocommons.com/events/uploads/images/full/76806adb157fd004860e14cabb9ab02d/Used%20Book%20Sales.jpg",
-      "start_date": "2026-05-31T19:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Cupertino Library",
-        "street": "Torre Avenue",
-        "number": "10800",
-        "city": "Cupertino",
-        "state": "CA",
-        "zip": "95014",
-        "details": "Cupertino Community Hall\n\n10350 Torre Ave\nCupertino, CA 95014"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Used Book Sales",
-        "Subject Varies: Other Great Events",
-        "Adults",
-        "Kids: Babies",
-        "Kids: Family Events",
-        "Kids: Grades 5-8",
-        "Kids: Grades K-8",
-        "Kids: Preschoolers",
-        "Kids: Toddlers",
-        "Older Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Cupertino"
-    },
-    {
-      "id": "69cf18f181b67dfe32b0cc11",
-      "title": "One Book, One Coast: Watch Party",
-      "library": "Alameda County Library",
-      "library_slug": "aclibrary",
-      "description": "Join us at the Dublin Library to watch a livestream of the final One Book, One Coast event, where actor, author, and activist George Takei will be in conversation with the Los Angeles County Library to discuss his book, They Called Us Enemy.Drop in program. If you would like an email reminder, register using the link provided. How to Participate: While supplies last, pick up a free copy of They Called Us Enemy from any Alameda County Library location. If you are unable to get a free copy of the book to keep: checkout a copy from any Alameda County Library location, orcheckout and download a digital copy from either Libby or Hoopla What is One Book, One Coast: One Book, One Coast, is the largest book club on the West Coast, uniting more than 130 library systems across California, Washington, and Oregon for one shared community read. For more events related to One Book, One Coast, please check our event calendar. Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests. An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) business days in advance. For assistance, please contact your library or accessibility@aclibrary.org",
-      "link": "https://aclibrary.bibliocommons.com/events/69cf18f181b67dfe32b0cc11",
-      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/2f4c4775005eda17a0e03dc9806ab3f7/OneBook,OneCoastBiblioEvent(760x460).png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Dublin",
-        "street": "Civic Plaza",
-        "number": "200",
-        "city": "Dublin",
-        "state": "CA",
-        "zip": "94568",
-        "details": "Virginia Bennett Room"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "45",
-        "registered": "5"
-      },
-      "categories": [
-        "Special Events",
-        "Everyone",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Dublin"
-    },
-    {
-      "id": "69ceca7cb48451fc3c0cee58",
-      "title": "Livestream Registration: Author Talk with George Takei",
-      "library": "Alameda County Library",
-      "library_slug": "aclibrary",
-      "description": "One Book, One Coast, the largest book club on the West Coast, unites more than 130 library systems across California, Washington, and Oregon for one shared community read. In 2026, we’ll be reading They Called Us Enemy by George Takei, a powerful graphic memoir that explores patriotism, family, identity, and what it truly means to be American. George Takei will be interviewed live in Southern California on May 31, 2026 at 2:00 pm. You can register to watch the interview live online. The event also will be recorded. A link to the recording will be shared on the One Book, One Coast webpage after the event, so you can watch it later.Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests.An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) business days in advance. For assistance, please contact your library or accessibility@aclibrary.org",
-      "link": "https://aclibrary.bibliocommons.com/events/69ceca7cb48451fc3c0cee58",
-      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/f16a2082170858ca2cd1bc22fd7d0b05/OneBook,OneCoastBiblioEvent(760x460)(1).png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Our Community Reads",
-        "Special Events",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69cd981b1e64afd01e663a1a",
-      "title": "One Book, One Coast: Watch Party",
-      "library": "Alameda County Library",
-      "library_slug": "aclibrary",
-      "description": "Join us to watch a livestream of the One Book, One Coast author talk. Actor, author, and activist George Takei will be in conversation with the Los Angeles County Library to discuss his book, They Called Us Enemy. Following the livestream, we will hold a discussion with Judy Tokubo, retired teacher. She will talk about her research into the World War II internment camps, including Gila River Camp in southern Arizona, where her parents met.Judy is current vice president of the Newark Library League, our library 501c3 non-profit, and former president of the Newark Optimist Club.Registration is recommended but not required. If you'd like an email reminder, please register for the event. For more programs related to One Book, One Coast, check our event calendar. Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests. An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) business days in advance. For assistance, please contact your library or accessibility@aclibrary.org",
-      "link": "https://aclibrary.bibliocommons.com/events/69cd981b1e64afd01e663a1a",
-      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/2f4c4775005eda17a0e03dc9806ab3f7/OneBook,OneCoastBiblioEvent(760x460).png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Newark",
-        "street": "Newark Blvd.",
-        "number": "37055",
-        "city": "Newark",
-        "state": "CA",
-        "zip": "94560",
-        "details": "Teen Lounge"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "200",
-        "registered": "2"
-      },
-      "categories": [
-        "Special Events",
-        "Everyone",
-        "English"
-      ],
-      "book": {
-        "title": "They Called Us Enemy"
-      },
-      "state": "CA",
-      "state_full": "California",
-      "city": "Newark"
-    },
-    {
-      "id": "69c4184481b67dfe32aee94e",
-      "title": "Book Clubs of EPL: Talking to Strangers",
-      "library": "Edmonton Public Library",
-      "library_slug": "epl",
-      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. This month we will be reading Talking to Strangers by Malcolm Gladwell.Malcolm Gladwell, host of the podcast 'Revisionist History' and best-selling author of 'The Tipping Point', 'Outliers', and 'What the Dog Saw', offers a powerful examination of our interactions with strangers and why they often go wrong.Please login to your account with your library card and then register to reserve a copy of the book.",
-      "link": "https://epl.bibliocommons.com/events/69c4184481b67dfe32aee94e",
-      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lois Hole (Callingwood)",
-        "street": "69 Avenue",
-        "number": "17650",
-        "city": "Edmonton",
-        "state": "AB",
-        "zip": "T5T 3X9",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "4"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adult",
-        "English"
-      ],
-      "book": {
-        "title": "Talking to Strangers"
-      },
-      "state": "AB",
-      "state_full": "Alberta",
-      "city": "Edmonton"
-    },
-    {
-      "id": "6a024800e8af4a2f0071cb4f",
-      "title": "One Book, One Coast: George Takei Watch Party",
-      "library": "King County Library System",
-      "library_slug": "kcls",
-      "description": "This is a watch party of a livestreamed event. George Takei will not be present. The livestreamed event will be from 2:00pm - 3:00pm. Stay afterwards for a group discussion, if you like. LA County Librarian and Director, Dr. Skye Patrick and Long Beach Public Library Director, Cathy de Leon will appear in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast. The largest book club on the West Coast wraps up with a special event with George Takei, author of “They Called Us Enemy.” The discussion will explore the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in “Star Trek,” Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. Thanks to our partner LA County Libraries. Light snacks will be provided courtesy of the Friends of the Auburn Library.No registration required.Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
-      "link": "https://kcls.bibliocommons.com/events/6a024800e8af4a2f0071cb4f",
-      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/cc46cec060f6f6785f21fc7adc89d7aa/OneBookOneCoastEventCoverresized.png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Auburn",
-        "street": "Auburn Way S",
-        "number": "1102",
-        "city": "Auburn",
-        "state": "WA",
-        "zip": "98002",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Author Talks",
-        "Adults (Ages 18 and older)",
-        "Adults (Ages 18 to 24)",
-        "Adults (Ages 55 and older)",
-        "English"
-      ],
-      "book": null,
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Auburn"
-    },
-    {
-      "id": "69f5735924bd39b0b5e93022",
-      "title": "One Book, One Coast: George Takei Watch Party",
-      "library": "King County Library System",
-      "library_slug": "kcls",
-      "description": "This is a watch party of a livestreamed event. George Takei will not be present. LA County Librarian and Director, Dr. Skye Patrick and Long Beach Public Library Director, Cathy de Leon will appear in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast. The largest book club on the West Coast wraps up with a special event with George Takei, author of “They Called Us Enemy.” The discussion will explore the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in “Star Trek,” Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. Thanks to our partner LA County Libraries. Snacks courtesy of the Friends of the Woodmont Library.Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
-      "link": "https://kcls.bibliocommons.com/events/69f5735924bd39b0b5e93022",
-      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/8e1b50579226c72ba17205613f3812d4/KCLSBiblioeventTemplates.png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Woodmont",
-        "street": "Pacific Highway S",
-        "number": "26809",
-        "city": "Des Moines",
-        "state": "WA",
-        "zip": "98198",
-        "details": "Meeting Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Author Talks",
-        "Adults (Ages 18 and older)",
-        "Adults (Ages 18 to 24)",
-        "Adults (Ages 55 and older)",
-        "English"
-      ],
-      "book": null,
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Des Moines"
-    },
-    {
-      "id": "69e0052124bd39b0b5e77c9e",
-      "title": "One Book, One Coast: George Takei",
-      "library": "Kitsap Regional Library",
-      "library_slug": "krl",
-      "description": "Registration is required. Register here. This free livestream event is produced by LA County Libraries.LA County Librarian and Director, Dr. Skye Patrick and Long Beach Public Library Director, Cathy de Leon will appear in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast. The largest book club on the West Coast wraps up with a special event with George Takei, author of “They Called Us Enemy.” The discussion will explore the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in “Star Trek,” Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. Thanks to our partner LA County Libraries.",
-      "link": "https://krl.bibliocommons.com/events/69e0052124bd39b0b5e77c9e",
-      "image": "",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Authors",
-        "Arts & Entertainment",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69fd1b29e8af4a2f0070fbd2",
-      "title": "One Book, One Coast: George Takei Watch Party",
-      "library": "Kitsap Regional Library",
-      "library_slug": "krl",
-      "description": "Come to the Port Orchard Library to watch the livestream in our meeting room.Registration is required. Register here. This free livestream event is produced by LA County Libraries. LA County Librarian and Director, Dr. Skye Patrick and Long Beach Public Library Director, Cathy de Leon will appear in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast. The largest book club on the West Coast wraps up with a special event with George Takei, author of “They Called Us Enemy.” The discussion will explore the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in “Star Trek,” Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. Thanks to our partner LA County Libraries.",
-      "link": "https://krl.bibliocommons.com/events/69fd1b29e8af4a2f0070fbd2",
-      "image": "",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Port Orchard",
-        "street": "Sidney Ave.",
-        "number": "87",
-        "city": "Port Orchard",
-        "state": "WA",
-        "zip": "98366",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Authors",
-        "Arts & Entertainment",
-        "Asian American, Native Hawaiian & Pacific Islander Culture and Contributions",
-        "Adults",
-        "Older Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Port Orchard"
-    },
-    {
-      "id": "69d00f0fb48451fc3c0d2db0",
-      "title": "One Book, One Coast: They Called Us Enemy",
-      "library": "Oakland Public Library",
-      "library_slug": "oaklandlibrary",
-      "description": "One Book, One Coast (OBOC) is a multi-state community reading initiative that invites readers to engage with a shared text, the inaugural selection is a graphic memoir titled \"They Called Us Enemy\" print version link by Geroge Takei that recounts his childhood experience of incarceration alongside more than 120,000 people of Japanese descent, most of whom were U.S. citizens, following Executive Order 9066 in 1942. Register to view the livestream from anywhere, after registering at this link: https://library-lacounty-gov.z...",
-      "link": "https://oaklandlibrary.bibliocommons.com/events/69d00f0fb48451fc3c0d2db0",
-      "image": "http://oaklandlibrary.bibliocommons.com/events/uploads/images/full/d59695d2610cf1f417a24b9b2c5f6306/OneBookOneCoastWeb(760x230px)(2).png",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Asian American and Pacific Islander Heritage Month",
-        "Book Club",
-        "Adults",
-        "Families",
-        "Teens",
-        "English"
-      ],
-      "book": {
-        "title": "\"They Called Us Enemy\" print version link"
-      },
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69c5abd1a1baffc88edeea02",
-      "title": "Watch Party: One Book, One Coast with George Takei",
-      "library": "Sno-Isle Libraries",
-      "library_slug": "sno-isle",
-      "description": "Join us at the Monroe Library as we watch LA County Librarian and Director, Dr. Skye Patrick, and Long Beach Public Library Director, Cathy de Leon, in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast! The largest book club on the West Coast wraps up with a special visit from George Takei, author of They Called Us Enemy. We'll be talking to George about the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in Star Trek, Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. This is a hybrid event. To attend this program online register here. Contact us with questions. Programs & Events FAQs To request a sign language interpreter, complete this online form or contact your local library at least two weeks prior to the library event. Interpreters will be provided based on availability.",
-      "link": "https://sno-isle.bibliocommons.com/events/69c5abd1a1baffc88edeea02",
-      "image": "",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Monroe Library",
-        "street": "Village Way",
-        "number": "1070",
-        "city": "Monroe",
-        "state": "WA",
-        "zip": "98272-2035",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Author Events",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Monroe"
-    },
-    {
-      "id": "69c588fff29b90618efc82c2",
-      "title": "One Book, One Coast with George Takei",
-      "library": "Sno-Isle Libraries",
-      "library_slug": "sno-isle",
-      "description": "Join LA County Librarian and Director, Dr. Skye Patrick, and Long Beach Public Library Director, Cathy de Leon, in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast! The largest book club on the West Coast wraps up with a special visit from George Takei, author of They Called Us Enemy. We'll be talking to George about the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in Star Trek, Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations. Contact us with questions Programs & Events FAQs",
-      "link": "https://sno-isle.bibliocommons.com/events/69c588fff29b90618efc82c2",
-      "image": "",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Author Events",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69bacf8081b67dfe32ad69a3",
-      "title": "Virtual Author Talk with George Takei",
-      "library": "Tacoma Public Library",
-      "library_slug": "tacoma",
-      "description": "Join LA County Librarian and Director, Dr. Skye Patrick, and Long Beach Public Library Director, Cathy de Leon, in conversation with actor, author, and activist George Takei in celebration of One Book, One Coast! The largest book club on the West Coast wraps up with a special visit from George Takei, author of They Called Us Enemy. We'll be talking to George about the experiences that led to the creation of his memoir, what it means to be a good neighbor and citizen in the face of overwhelming challenges, and how shared books and stories build stronger communities. George Takei is a renowned civil rights activist, social media icon, Grammy-nominated recording artist, New York Times bestselling author, and pioneering actor whose career has spanned over six decades. Best known for his role as Hikaru Sulu in Star Trek, Takei has appeared in more than 40 feature films and hundreds of television episodes. He has leveraged his public profile to champion social justice, LGBTQ+ rights, and marriage equality. Takei’s advocacy is deeply personal. As a child during World War II, he and his family were among the 125,000 Japanese Americans unjustly imprisoned in U.S. incarceration camps—a formative experience that shaped his lifelong commitment to civil rights and public service. Currently, Takei serves as chair emeritus and is a member of the Board of Trustees of the Japanese American National Museum. He was appointed to the Japan-United States Friendship Commission by President Bill Clinton and, in 2004, was honored by the Emperor of Japan with the Order of the Rising Sun, Gold Rays with Rosette, for his significant contributions to U.S.-Japan relations.Register for the livestream via Zoom. They Called Us Enemy",
-      "link": "https://tacoma.bibliocommons.com/events/69bacf8081b67dfe32ad69a3",
-      "image": "http://tacoma.bibliocommons.com/events/uploads/images/full/b4850dbffb7c3c4491d8c5e5846e18d1/obocvirtual_web.jpg",
-      "start_date": "2026-05-31T21:00:00+00:00",
-      "end_date": "2026-05-31T23:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "One Book, One Coast",
-        "Books & Authors",
-        "Online",
-        "Special Events & Performances",
-        "Year of Belonging",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
     },
     {
       "id": "69baa98fdb57df044296b436",
@@ -1210,7 +478,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Summer Reading",
@@ -1247,7 +515,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "9"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -1287,10 +555,10 @@
         "registered": ""
       },
       "categories": [
-        "Art and Entertainment",
+        "Arts and Culture",
         "Games and Gaming",
-        "Adults (Ages 18 and older)",
-        "Adults (Ages 55 and older)",
+        "Adults (Ages 24 to 49)",
+        "Older Adults (Ages 50+)",
         "English"
       ],
       "book": null,
@@ -1547,9 +815,9 @@
       },
       "categories": [
         "Book Groups",
-        "Adults (Ages 18 and older)",
-        "Adults (Ages 18 to 24)",
-        "Adults (Ages 55 and older)",
+        "Adults (Ages 24 to 49)",
+        "New Adults (Ages 19 to 23)",
+        "Older Adults (Ages 50+)",
         "English"
       ],
       "book": null,
@@ -1581,7 +849,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -1698,44 +966,6 @@
       "city": ""
     },
     {
-      "id": "691f7b3f61706d280023ddfe",
-      "title": "Classics Book Club",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Classic books transport us to distant times and places, but their stories are universal. Join us to read and discuss ancient and modern classics from around the world. January The Epic of GilgameshPrint · eBook February Oresteia by AeschylusPrint · Audiobook March Meditations by Marcus AureliusPrint · eBook · Audiobook April Twelfth Night by William ShakespearePrint · eBook · Audiobook May Beloved by Toni MorrisonPrint · eBook · Audiobook June The Bell Jar by Sylvia PlathPrint · eBook · Audiobook July An Artist of the Floating World by Kazuo IshiguroPrint · eBook · Audiobook August Selected Poems by RumiPrint · eBook · Audiobook September Selected Stories by Jorge Luis BorgesPrint · eBook October Song of Myself by Walt WhitmanPrint · eBook · Audiobook November Narrative of the Life of Frederick Douglass by Frederick DouglassPrint · eBook · Audiobook December Eugene Onegin by Alexander PushkinPrint · eBook",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/691f7b3f61706d280023ddfe",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-06-01T22:00:00+00:00",
-      "end_date": "2026-06-01T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Downtown Main Library",
-        "street": "Vine St.",
-        "number": "800",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45202",
-        "details": "South Building, 3rd Floor, Room D"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "50",
-        "registered": "3"
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Print"
-      },
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
       "id": "69246cccb864f0290025e804",
       "title": "Black Comics Club",
       "library": "Cincinnati & Hamilton County Public Library",
@@ -1773,6 +1003,44 @@
       "city": "Cincinnati"
     },
     {
+      "id": "691f7b3f61706d280023ddfe",
+      "title": "Classics Book Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Classic books transport us to distant times and places, but their stories are universal. Join us to read and discuss ancient and modern classics from around the world. January The Epic of GilgameshPrint · eBook February Oresteia by AeschylusPrint · Audiobook March Meditations by Marcus AureliusPrint · eBook · Audiobook April Twelfth Night by William ShakespearePrint · eBook · Audiobook May Beloved by Toni MorrisonPrint · eBook · Audiobook June The Bell Jar by Sylvia PlathPrint · eBook · Audiobook July An Artist of the Floating World by Kazuo IshiguroPrint · eBook · Audiobook August Selected Poems by RumiPrint · eBook · Audiobook September Selected Stories by Jorge Luis BorgesPrint · eBook October Song of Myself by Walt WhitmanPrint · eBook · Audiobook November Narrative of the Life of Frederick Douglass by Frederick DouglassPrint · eBook · Audiobook December Eugene Onegin by Alexander PushkinPrint · eBook",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/691f7b3f61706d280023ddfe",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-06-01T22:00:00+00:00",
+      "end_date": "2026-06-01T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Downtown Main Library",
+        "street": "Vine St.",
+        "number": "800",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45202",
+        "details": "South Building, 1st Floor, Room C"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "50",
+        "registered": "4"
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "Print"
+      },
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
+    },
+    {
       "id": "692dd66a0886c55300571226",
       "title": "Bring Your Own Book Club",
       "library": "Charlotte Mecklenburg Library",
@@ -1796,7 +1064,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -2185,10 +1453,10 @@
       },
       "categories": [
         "Reading Buddies Online",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -2227,9 +1495,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -2370,8 +1638,8 @@
       },
       "categories": [
         "Book Groups",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": null,
@@ -2476,7 +1744,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -3067,7 +2335,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "9"
       },
       "categories": [
         "Summer Reading",
@@ -3436,7 +2704,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "12"
+        "registered": "13"
       },
       "categories": [
         "Book Clubs",
@@ -4222,9 +3490,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -4263,10 +3531,10 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -4454,10 +3722,10 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -4496,9 +3764,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -5671,6 +4939,42 @@
       "city": "San Carlos"
     },
     {
+      "id": "69fb4971c7d3cd58005760bd",
+      "title": "Clifton Reading Buddies",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Come and read with Library staff! These 15 minute sessions, that include one-to-one reading help and literacy games, are designed to help children and tweens hone their reading skills so that they can move from “learning to read to reading to learn” and enjoy reading. Children can earn “Clifton Cash” to be redeemed for prizes! Recommended for ages 6 through 12.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/69fb4971c7d3cd58005760bd",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-06-03T18:00:00+00:00",
+      "end_date": "2026-06-03T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Clifton Branch Library",
+        "street": "Brookline Ave.",
+        "number": "3400",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45220",
+        "details": "1st Floor Solarium"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Children",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
+    },
+    {
       "id": "69d3ec84ad384e40edb928f5",
       "title": "Virtual Author Talk: Mary Savig",
       "library": "Santa Clara County Library",
@@ -5686,7 +4990,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "7"
+        "registered": "10"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -6304,6 +5608,42 @@
       "city": "Linwood"
     },
     {
+      "id": "693b207b76261f28005e9dea",
+      "title": "Pages and Pints Book Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Join us at Fibonnaci Brewing Company, located at 1445 Compton Rd, for a book discussion on the first Wednesday of each month at 6 pm. Please stop in to the branch or give us a call for selected titles. No registration required.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/693b207b76261f28005e9dea",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-06-03T22:00:00+00:00",
+      "end_date": "2026-06-03T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Fibonacci Brewing Company",
+        "street": "Compton Road",
+        "number": "1445",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45231",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
+    },
+    {
       "id": "691b7b139b87934100962d6c",
       "title": "Men's BYOB (Bring Your Own Book) Book Club",
       "library": "Charlotte Mecklenburg Library",
@@ -6319,7 +5659,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -6572,7 +5912,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "17"
+        "registered": "18"
       },
       "categories": [
         "Pride",
@@ -6613,9 +5953,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -6654,9 +5994,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": null,
@@ -6824,7 +6164,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -6936,9 +6276,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": null,
@@ -7010,10 +6350,10 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -7141,7 +6481,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Books & Authors",
@@ -7159,7 +6499,7 @@
       "title": "First Wednesday Book Club",
       "library": "San Mateo County Libraries",
       "library_slug": "smcl",
-      "description": "Join us at the Belmont Library on the first Wednesday of every month at 6:00 PM to discuss the month's chosen book. This is a monthly ongoing discussion of works of all forms and genres; welcome to the most casual or avid readers alike! Check out our upcoming titles and skim past selections by heading here.",
+      "description": "Join us at the Belmont Library on the first Wednesday of every month at 6:00 PM to discuss the month's chosen book. This is a monthly ongoing discussion of works of all forms and genres; welcome to the most casual or avid readers alike!This month, we will be discussing Bridge of Clay by Markus Zusak. Check out our upcoming titles and skim past selections by heading here.",
       "link": "https://smcl.bibliocommons.com/events/68941c48d234473d0029bfc0",
       "image": "",
       "start_date": "2026-06-04T01:00:00+00:00",
@@ -7186,7 +6526,9 @@
         "Adults (19+)",
         "English"
       ],
-      "book": null,
+      "book": {
+        "title": "Bridge of Clay"
+      },
       "state": "CA",
       "state_full": "California",
       "city": "Belmont"
@@ -7211,10 +6553,10 @@
       },
       "categories": [
         "Reading Buddies Online",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -8044,7 +7386,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Discussion",
@@ -8585,9 +7927,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -8622,7 +7964,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Book Clubs",
@@ -8734,10 +8076,10 @@
       },
       "categories": [
         "Reading Buddies Online",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -8776,9 +8118,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -9196,7 +8538,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Summer Reading Program",
@@ -10397,7 +9739,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Discussion",
@@ -11018,6 +10360,43 @@
       "state": "Christchurch",
       "state_full": "Christchurch",
       "city": "Bishopdale"
+    },
+    {
+      "id": "693603f894297d36009ec161",
+      "title": "Not Just Cards - Social Games Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
+      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec161",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-06-08T02:00:00+00:00",
+      "end_date": "2026-06-08T04:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Spreydon Library",
+        "street": "Barrington Street",
+        "number": "266",
+        "city": "Spreydon",
+        "state": "Christchurch",
+        "zip": "8024",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Spreydon"
     },
     {
       "id": "69c542fead384e40edb6e360",
@@ -12296,10 +11675,10 @@
       },
       "categories": [
         "Reading Buddies Online",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -12338,8 +11717,8 @@
       },
       "categories": [
         "Book Groups",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": null,
@@ -12375,9 +11754,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -12995,7 +12374,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Adult Events",
@@ -13398,7 +12777,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -14189,9 +13568,9 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Tweens (Ages 9 to 12)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -14230,10 +13609,10 @@
       },
       "categories": [
         "Reading Buddies In-Person",
-        "Tutoring and Education",
+        "Tutoring and Homework Help",
         "Kids (Ages 6 to 8)",
-        "Teens (Ages 13 to 17)",
-        "Tweens (Ages 9 to 12)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
         "English"
       ],
       "book": {
@@ -14243,6 +13622,35 @@
       "state": "WA",
       "state_full": "Washington",
       "city": "Shoreline"
+    },
+    {
+      "id": "69fe2b20e13d3b4603b3b8da",
+      "title": "Online Queer Teen and Young Adult Book Club",
+      "library": "King County Library System",
+      "library_slug": "kcls",
+      "description": "Explore LGBTQIA+ literature in a safe and nurturing environment online. Read a book that falls within the theme for the month and then share what you read with others! Ages 13-22 Email onlinegroups@lamberthouse.org for the Zoom link.Themes: June- Free Read July- Summer Vacation August: Free Read September: Road Trip/Travel October- Free Read November- Thriller/Horror December- Free Read In partnership with Lambert House. Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
+      "link": "https://kcls.bibliocommons.com/events/69fe2b20e13d3b4603b3b8da",
+      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/a437b0e449d9087b68e98671d2b43fb3/Logo16x9LambertHouse.png",
+      "start_date": "2026-06-09T23:00:00+00:00",
+      "end_date": "2026-06-10T00:30:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "30",
+        "registered": ""
+      },
+      "categories": [
+        "Book Groups",
+        "New Adults (Ages 19 to 23)",
+        "Teens (Ages 13 to 18)",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "6908fa89683f18f7608c6fad",
@@ -14721,6 +14129,48 @@
       "state": "CO",
       "state_full": "Colorado",
       "city": "Edgewater"
+    },
+    {
+      "id": "6949af3b2c65973d0013ebe9",
+      "title": "Reading Buddies at the Covington Library",
+      "library": "King County Library System",
+      "library_slug": "kcls",
+      "description": "Volunteers help students practice reading out loud. Two students are paired by reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12. Reading Buddies share eBooks on an iPad. Books selection changes every two weeks. Look for volunteers wearing the green Reading Buddies t-shirt. Add your name to the sign-up sheet for a 30-minute spot at your reading level. Study Zone Study Zone programs provide volunteer-led academic support for grades K-12. Programs include Tutors, Math Club, Reading Buddies and Kids & Teens Talk Time. Available online and in libraries. Online Study Zone programs are supervised by library staff. Visit Study Zone for the Terms of Use Agreement and steps KCLS is taking to maintain a safe and positive online space. Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
+      "link": "https://kcls.bibliocommons.com/events/6949af3b2c65973d0013ebe9",
+      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/a3902ce9fd06f73d4342bc59dd409fb0/2025StudyZoneLLG2.jpg",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": "2026-06-10T01:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Covington",
+        "street": "164th Avenue SE",
+        "number": "27100",
+        "city": "Covington",
+        "state": "WA",
+        "zip": "98042",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Reading Buddies In-Person",
+        "Tutoring and Homework Help",
+        "Kids (Ages 6 to 8)",
+        "Teens (Ages 13 to 18)",
+        "Tweens (Ages 9 to 11)",
+        "English"
+      ],
+      "book": {
+        "title": "out loud. Two students are paired",
+        "author": "reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12."
+      },
+      "state": "WA",
+      "state_full": "Washington",
+      "city": "Covington"
     },
     {
       "id": "68b8c078ce3cf62f00edd9ce",
@@ -15920,7 +15370,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "19"
+        "registered": "21"
       },
       "categories": [
         "Summer at CPL",
@@ -16375,6 +15825,42 @@
       "city": "Chicago"
     },
     {
+      "id": "69fe1045dcc3559e3b3b7ddb",
+      "title": "Crime Book Club: The Talented Mr. Ripley",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join Archer Height's new monthly Crime Book Club for a discussion of The Talented Mr. Ripley by Patricia Highsmith. The book club will read and discuss mystery, thriller, and true crime stories. Suave Tom Ripley is a young striver seeking to leave behind his past as an orphan bullied for being a \"sissy.\" Newly arrived in the heady world of Manhattan, Ripley meets a wealthy industrialist who hires him to bring his playboy son, Dickie Greenleaf, back from gallivanting in Italy. Soon Ripley's fascination with Dickie's debonair lifestyle turns obsessive as he finds himself enraged by Dickie's ambivalent affections for Marge, a charming American dilettante, and Ripley begins a deadly game. The Talented Mr. Ripley serves as an unforgettable introduction to this smooth confidence man, whose talent for self-invention is as unnerving—and unnervingly revealing of the American psyche—as ever. Copies of the book are available for checkout at the Archer Heights circulation desk or at various Chicago Public Library locations. Titles may also be available to borrow as eBooks or eAudiobooks on the Hoopla and Libby apps. Ask a librarian for more information.After reading and discussing the book, join us on Sunday, June 14 to watch the 1999 film version of The Talented Mr. Ripley starring Matt Damon, Gwyneth Paltrow, and Jude Law. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.The Talented Mr. Ripley",
+      "link": "https://chipublib.bibliocommons.com/events/69fe1045dcc3559e3b3b7ddb",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-06-10T23:30:00+00:00",
+      "end_date": "2026-06-11T00:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Archer Heights",
+        "street": "S. Archer Avenue",
+        "number": "5055",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60632",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "10",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6a04e4f8f6bd012f0067bd3f",
       "title": "Romantasy Book Club",
       "library": "Denton Public Library",
@@ -16548,7 +16034,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Discussion",
@@ -17833,9 +17319,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "19"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -18118,7 +17604,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -19696,7 +19182,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -20574,7 +20060,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "9"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -21315,7 +20801,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -21779,7 +21265,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -22767,7 +22253,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "26"
+        "registered": "27"
       },
       "categories": [
         "Book Discussions & Movies",
@@ -22957,7 +22443,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -23178,9 +22664,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "12",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Club",
@@ -23644,7 +23130,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -25658,7 +25144,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "7"
       },
       "categories": [
         "Book Club",
@@ -26747,6 +26233,41 @@
       "city": "Omaha"
     },
     {
+      "id": "69d4264ab6c4ac1fedca959f",
+      "title": "Virtual Author Talk: Sana Javeri Kadri and Asha Loupy",
+      "library": "Santa Clara County Library",
+      "library_slug": "sccl",
+      "description": "Join us for a conversation with Sana Javeri Kadri and Asha Loupy about The Diaspora Spice Co. Cookbook, a celebration of simple, seasonal cooking inspired by the vibrant spices grown on family farms across India and Sri Lanka. The cookbook highlights the work of 150 regenerative farms and features profiles, photography, and 85 recipes that showcase the depth and character of South Asian spices. Sana and Asha share how cooking alongside the people who grow these spices opens up new dimensions of flavor and connection. Adapted for a global pantry, the recipes offer the warmth of true South Asian home cooking, along with helpful notes on beginner-friendly dishes, freezer-friendly options, dinner party menus, and pantry-building staples. ---The Santa Clara County Library District is proud to present a free virtual author‑talk series featuring bestselling, award‑winning, and acclaimed writers from around the world, offering live Q&A sessions two to three times a month. Event links are sent about 24 hours in advance (or upon late registration), recordings are available for a limited time, and a full list of upcoming programs can be found here. ---For accessibility accommodations (ex. ASL), please fill out the online form at sccld.org/accessibility 7+ days prior to the event. If you need assistance with the form, speak with a staff member at your local library, call (408) 540-3945, or email us at ask@lib.sccgov.org.",
+      "link": "https://sccl.bibliocommons.com/events/69d4264ab6c4ac1fedca959f",
+      "image": "http://sccl.bibliocommons.com/events/uploads/images/full/b2101ca1e434bf83d2a9788fee9910e8/6.png",
+      "start_date": "2026-06-23T18:00:00+00:00",
+      "end_date": "2026-06-23T19:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "300",
+        "registered": "1"
+      },
+      "categories": [
+        "Author Visits & Book Clubs",
+        "Arts & Culture",
+        "Entertainment & Recreation",
+        "Home & Garden",
+        "Subject Varies: Other Great Events",
+        "Adults",
+        "Older Adults",
+        "English"
+      ],
+      "book": {
+        "title": "The Diaspora Spice Co. Cookbook"
+      },
+      "state": "",
+      "state_full": "",
+      "city": ""
+    },
+    {
       "id": "68f2bc6b831f063d005274a3",
       "title": "Sonoran Sleuths Mystery Book Club",
       "library": "Pima County Public Library",
@@ -26806,7 +26327,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "11"
       },
       "categories": [
         "Crafts & DIY",
@@ -27178,7 +26699,7 @@
         "required": true,
         "full": false,
         "capacity": "200",
-        "registered": "166"
+        "registered": "176"
       },
       "categories": [
         "Author Events",
@@ -28361,7 +27882,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -29889,7 +29410,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -30343,6 +29864,44 @@
       "state": "FL",
       "state_full": "Florida",
       "city": "Loxahatchee"
+    },
+    {
+      "id": "69c4195f2866a5b488445b2a",
+      "title": "Book Clubs of EPL: The Last Kingdom",
+      "library": "Edmonton Public Library",
+      "library_slug": "epl",
+      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. This month we will be reading The Last Kingdom by Bernard CornwellIn this first novel in a series about Alfred the Great and his descendants, Uhtred must choose between the people of his birth, in Northumbria, and the Viking people with whom he lived from the age of ten until adulthood. His allegiance becomes clear during the violence of war.Please login to your account with your library card and then register to reserve a copy of the book.",
+      "link": "https://epl.bibliocommons.com/events/69c4195f2866a5b488445b2a",
+      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
+      "start_date": "2026-06-28T21:00:00+00:00",
+      "end_date": "2026-06-28T22:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Lois Hole (Callingwood)",
+        "street": "69 Avenue",
+        "number": "17650",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5T 3X9",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "15",
+        "registered": "2"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adult",
+        "English"
+      ],
+      "book": {
+        "title": "The Last Kingdom"
+      },
+      "state": "AB",
+      "state_full": "Alberta",
+      "city": "Edmonton"
     },
     {
       "id": "69d5858ec1cf6f9a7583de33",
@@ -33066,7 +32625,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Groups",
@@ -38149,7 +37708,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -40030,6 +39589,80 @@
       "city": "Tacoma"
     },
     {
+      "id": "6a009dda3f8e7924031ef118",
+      "title": "Non-fiction Book Club",
+      "library": "Palm Beach County Library System",
+      "library_slug": "pbclibrary",
+      "description": "Discuss histories, biographies, true crime, and other non-fiction genre titles in the Non-fiction Book Club. July's book is Dead Air by William Hazelgrove.",
+      "link": "https://pbclibrary.bibliocommons.com/events/6a009dda3f8e7924031ef118",
+      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
+      "start_date": "2026-07-24T18:00:00+00:00",
+      "end_date": "2026-07-24T19:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Hagen Ranch Road Branch",
+        "street": "Hagen Ranch Road",
+        "number": "14350",
+        "city": "Delray Beach",
+        "state": "FL",
+        "zip": "33446",
+        "details": "Conference Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "20",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Discussion",
+        "Rediscover Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "FL",
+      "state_full": "Florida",
+      "city": "Delray Beach"
+    },
+    {
+      "id": "6a034d0d4134893003f172eb",
+      "title": "It's Your Favorite Book Club!",
+      "library": "Palm Beach County Library System",
+      "library_slug": "pbclibrary",
+      "description": "Come and share with each other who is your favorite author and book in a friendly, open atmosphere with other book lovers.",
+      "link": "https://pbclibrary.bibliocommons.com/events/6a034d0d4134893003f172eb",
+      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/f44dcbb6873b79987f845d5a025654e0/rediscoveringReading.jpg",
+      "start_date": "2026-07-24T18:00:00+00:00",
+      "end_date": "2026-07-24T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Gardens Branch",
+        "street": "Campus Drive",
+        "number": "11303",
+        "city": "Palm Beach Gardens",
+        "state": "FL",
+        "zip": "33410",
+        "details": "Large Conference Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Rediscover Reading",
+        "Adults",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "FL",
+      "state_full": "Florida",
+      "city": "Palm Beach Gardens"
+    },
+    {
       "id": "69fcec3343b41b3d0064e3e5",
       "title": "Silent Book Club",
       "library": "Burlington County Library System",
@@ -41332,6 +40965,34 @@
       "state": "WI",
       "state_full": "Wisconsin",
       "city": "Kenosha"
+    },
+    {
+      "id": "68f8377d3cbc052f00810458",
+      "title": "Other Worlds: Online Speculative Fiction Book Club",
+      "library": "Tacoma Public Library",
+      "library_slug": "tacoma",
+      "description": "TPL'S ONLINE SPECULATIVE FICTION BOOK GROUP! Regularly meets the last Wednesday of each month via Zoom to discuss intriguing, mind-expanding books from multiple genres. Register today and join us online. July 2026 Selection: Automatic Noodle by Annalee Newitz While San Francisco rebuilds from the chaos of war, a group of food service bots in an abandoned ghost kitchen take over their own delivery app account. They rebrand as a neighborhood lunch spot and start producing some of the tastiest hand-pulled noodles in the city. But there’s just one problem. Someone―or something―is review bombing the restaurant’s feedback page with fake “bad service” reports. Can the bots find the culprit before their ratings plummet and destroy everything they created?\"This is a story―about building community despite adversity, fighting for your rights and individuality, and creating art that you want to see in the world―that I didn't know I needed right now. And it was so much fun to read!” — Martha Wells, author of The Murderbot Diaries and Witch KingAutomatic NoodleSpeculative Fiction? What's that? Do you like science fiction? That's speculative fiction. Fantasy? OK, that's speculative fiction too. Horror, magical realism, alternate history, slipstream, steampunk, cyberpunk, dystopias, apocalyptic tales, and stories that are just plain weird? Yep. Those are all eligible for our speculative fiction menu!If reading outside the lines of everyday life interests you, we invite you to join our online community as we explore our reading horizons. Other Worlds might be the change of pace you're looking for.",
+      "link": "https://tacoma.bibliocommons.com/events/68f8377d3cbc052f00810458",
+      "image": "http://tacoma.bibliocommons.com/events/uploads/images/full/4453e7f38bea462e6cf1e3de4b6b47e3/AutomaticNoodle.jpg",
+      "start_date": "2026-07-30T01:30:00+00:00",
+      "end_date": "2026-07-30T02:30:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "30",
+        "registered": "7"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "6a0b42cdcaf93436005ca242",
@@ -42676,6 +42337,45 @@
       "state": "MI",
       "state_full": "Michigan",
       "city": "Grand Rapids"
+    },
+    {
+      "id": "66a81e05b9c88bd237564f20",
+      "title": "Club de Lectura en Español / Spanish Book Club",
+      "library": "Oakland Public Library",
+      "library_slug": "oaklandlibrary",
+      "description": "Nos reunimos cada segundo sábado al mes a las once de la mañana. Las reuniones son en español. We meet every 2nd Saturday at 11am. Meetings are conducted in Spanish. Libros: 8 de Agosto-Solo un poco aquí por Ospina Pizano 12 de Septiembre- El Abogado y la Señora por Liano 10 de Octubre- El Monte de las Furias por Trías 14 de Noviembre- Sendas Extraviadas por Valdez 12 de Diciembre- Noche Negra por Quintana Obtener información de accesibilidad.",
+      "link": "https://oaklandlibrary.bibliocommons.com/events/66a81e05b9c88bd237564f20",
+      "image": "http://oaklandlibrary.bibliocommons.com/events/uploads/images/full/a237cb08e6a53cdbca901a0166946040/91dX5lajEVL._AC_UY218_.jpg",
+      "start_date": "2026-08-08T18:00:00+00:00",
+      "end_date": "2026-08-08T19:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "César E. Chávez Branch",
+        "street": "East 12th Street, Suite 271",
+        "number": "3301",
+        "city": "Oakland",
+        "state": "California",
+        "zip": "94601",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "Seniors",
+        "Spanish"
+      ],
+      "book": {
+        "title": "Solo un poco aquí"
+      },
+      "state": "California",
+      "state_full": "California",
+      "city": "Oakland"
     },
     {
       "id": "69e92fa42866a5b4884a40b8",
@@ -46156,6 +45856,44 @@
       "city": "Frisco"
     },
     {
+      "id": "6a15e71a8360de907d8864c8",
+      "title": "The Page Turners",
+      "library": "Alameda County Library",
+      "library_slug": "aclibrary",
+      "description": "The Page Turners is an evening book discussion group for adults that meets at the Castro Valley Library on the second Tuesday of the month at 7 pm. Facilitated by librarian Chris Selig, the discussions focus on compelling, well-reviewed fiction and nonfiction books written for adults. For September we will discuss The Beauty of Your Face by Sahar Mustafah. Synopsis Afaf Rahman, the daughter of Palestinian immigrants, is the principal of Nurrideen School for Girls, a Muslim school in the Chicago suburbs. One morning, a shooter attacks the school. As Afaf listens to his terrifying progress, we are swept back through her memories: the bigotry she faced as a child, her mother's dreams of returning to Palestine, and the devastating disappearance of her older sister that tore her family apart. Still, there is the sweetness of the music from her father's oud and the hope and community Afaf finds. The Beauty of Your Face _____________________________ Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests. An ASL (American Sign Language) interpreter can be provided for this program if requested at least seven business days in advance. For assistance, please contact your library or accessibility@aclibrary.org.",
+      "link": "https://aclibrary.bibliocommons.com/events/6a15e71a8360de907d8864c8",
+      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/fc1b7baa6afd6628d26c1e991abf797b/PageTurnersBiblioEventsBanner.jpg",
+      "start_date": "2026-09-09T02:00:00+00:00",
+      "end_date": "2026-09-09T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Castro Valley",
+        "street": "Norbridge Ave",
+        "number": "3600",
+        "city": "Castro Valley",
+        "state": "CA",
+        "zip": "94546",
+        "details": "Learning Center"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "20",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "The Beauty of Your Face"
+      },
+      "state": "CA",
+      "state_full": "California",
+      "city": "Castro Valley"
+    },
+    {
       "id": "69ff871e43b41b3d00655526",
       "title": "Next Chapter Book Club",
       "library": "Glenview Public Library",
@@ -46300,6 +46038,45 @@
       "state": "LA",
       "state_full": "Louisiana",
       "city": "Slidell"
+    },
+    {
+      "id": "68c9cfd197cf5a912eaebaf5",
+      "title": "Cover To Cover Book Discussion Group",
+      "library": "Alameda County Library",
+      "library_slug": "aclibrary",
+      "description": "Do you... Enjoy reading across genres? Do you like sharing your thoughts on the book? Enjoy hearing others' perspectives? Then, please drop by the Cover To Cover Book Discussion Group on the second Thursday of the month for an informal and lively discussion. (note: October and February sessions will be on the 3rd Thursday) The books are pre-selected by the group, and the current reading list is as follows - October 16, 2025 \"Brave New World\" by Aldous HuxleyNovember 13, 2025 \"Vera Wong's Guide to Snooping (on a Dead Man)\" by Jesse Q. SutantoDecember 11, 2025 \"The Alchemist\" by Paolo CoelhoJanuary 8, 2026 \"Go as a River\" by Shelley ReadFebruary 19, 2026 \"No More Tears: the Dark Secrets of Johnson & Johnson\" by Gardiner HarrisMarch 12, 2026 \"The Handmaid's Tale\" by Margaret AtwoodApril 9, 2026 \"Horse\" by Geraldine BrooksMay 14, 2026 \"The Keeper of Lost Causes\" by Jussi Adler-OlsenJune 11, 2026 \"The Book Woman's Daughter\" by Kim Michele RichardsonJuly 9, 2026 \"Boat Baby: A Memoir\" by Vicky NguyenAugust 13, 2026 \"How to Read a Book\" by Monica WoodSeptember 10, 2026 \"The Briar Club\" by Kate Quinn The book titles are available at the library in print and digital formats. Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests!An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven business days in advance. For assistance, please contact your library or accessibility@aclibrary.org.",
+      "link": "https://aclibrary.bibliocommons.com/events/68c9cfd197cf5a912eaebaf5",
+      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/9d7d68d3c1abab0e5d843f4b7a0c587d/CovertoCoverbanner.png",
+      "start_date": "2026-09-10T20:00:00+00:00",
+      "end_date": "2026-09-10T21:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Newark",
+        "street": "Newark Blvd.",
+        "number": "37055",
+        "city": "Newark",
+        "state": "CA",
+        "zip": "94560",
+        "details": "Cedar & Cherry Rooms"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "s are pre-selected",
+        "author": "the group, and the current reading list is as follows -"
+      },
+      "state": "CA",
+      "state_full": "California",
+      "city": "Newark"
     },
     {
       "id": "6759fea0da3a5e3d00ca4d18",
