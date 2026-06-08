@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T07:03:38.348167Z",
-  "total_events": 1359,
+  "generated_at": "2026-06-08T07:28:26.849810Z",
+  "total_events": 1360,
   "total_libraries": 65,
   "events": [
     {
@@ -266,306 +266,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cincinnati"
-    },
-    {
-      "id": "69f1231824bd39b0b5e8d41b",
-      "title": "Club de Lectura en Español: Nadie me Verá Llorar / Cristina Rivera Garza",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Únase al club de lectura en Español este mes por una discusion de Nadie me verá llorar por Cristina Rivera Garza. Un programa de Illinois Humanities, el Club de Lectura en Español Enhorabuena se junta mensualmente para discutir libros en Español. Este grupo esta abierto a cualquier adulto interesade en lectura y en discutir lectura con otros adultos. Este programa esta planeado para ser en persona. Mande correo para registrarse para obtener detalles por cualquier cambio. Accesibilidad ¿Necesita interpretación de lenguaje de señas u otra asistencia de accesibilidad para este evento? Por favor llame al (312) 747-8184 o envíe un correo electrónico a access@chipublib.org para solicitar alojamiento. Las solicitudes deben hacerse al menos 14 días hábiles antes del evento.",
-      "link": "https://chipublib.bibliocommons.com/events/69f1231824bd39b0b5e8d41b",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-06-07T19:00:00+00:00",
-      "end_date": "2026-06-07T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Little Village",
-        "street": "S. Kedzie Avenue",
-        "number": "2311",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60623",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "30",
-        "registered": "0"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69fe4d59f56bd86e00ae73fb",
-      "title": "Silent Book Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Readers and introverts unite! Join us for one hour of independent reading of whatever you like. Hang out after to chat about what you're reading (or not, whichever you prefer). Light refreshments will be provided.*We will meet on the terrace (weather permitting).* AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/69fe4d59f56bd86e00ae73fb",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/f549858cd8172b3dffa3f55be5482698/SummeratCPL.png",
-      "start_date": "2026-06-07T19:00:00+00:00",
-      "end_date": "2026-06-07T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Independence",
-        "street": "N. Elston Avenue",
-        "number": "4024",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60618",
-        "details": "Community Meeting Room, 1st floor (weather permitting, on the terrace 2nd floor)"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Summer at CPL",
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69bc0df28d5e2d0933664bc2",
-      "title": "Mystery Central Book Club",
-      "library": "Omaha Public Library",
-      "library_slug": "omaha",
-      "description": "Join OPL on the first Sunday of the month for a lively discussion of this month's featured book. See what we're reading and place holds on upcoming titles here. Limited copies of the book are available at the branch. OPL Book Club discussions are led by OPL staff and are open to everyone. All Omaha Public Library locations are wheelchair accessible. Need sign language interpretation or other accessibility assistance for this event? Please email Nancy Novotny at NNovotny@omahalibrary.org to request accommodation. Requests must be made at least five business days before the activity or event.",
-      "link": "https://omaha.bibliocommons.com/events/69bc0df28d5e2d0933664bc2",
-      "image": "",
-      "start_date": "2026-06-07T19:30:00+00:00",
-      "end_date": "2026-06-07T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Central Library",
-        "street": "Dodge St",
-        "number": "7205",
-        "city": "Omaha",
-        "state": "NE",
-        "zip": "68114",
-        "details": "Community Room A"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Club discussions are led",
-        "author": "OPL staff and are open to everyone."
-      },
-      "state": "NE",
-      "state_full": "Nebraska",
-      "city": "Omaha"
-    },
-    {
-      "id": "693b16f12bee0c370064c8cd",
-      "title": "Bishopdale Monday Book Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Come and join our friendly group of readers and chat about your current reading and old favourites. With no set book to read, this is a relaxed and social group with a monthly meet up in the library. Held on the 2nd Monday of each month. Hope to see you there!",
-      "link": "https://christchurch.bibliocommons.com/events/693b16f12bee0c370064c8cd",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-06-07T22:00:00+00:00",
-      "end_date": "2026-06-07T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
-        "street": "Bishopdale Court",
-        "number": "13",
-        "city": "Bishopdale",
-        "state": "Christchurch",
-        "zip": "8053",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "New adults (ages 18-24)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Bishopdale"
-    },
-    {
-      "id": "6a21f22352c88111723d0e54",
-      "title": "Book and Film Chat",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Come join our friendly group to chat about your latest books or movies. With no set book to read, or film to watch, this is a relaxed group who meet monthly in the library. This session is postponed from 25/05/26. Every session after this will be held on the last Thursday of the month.",
-      "link": "https://christchurch.bibliocommons.com/events/6a21f22352c88111723d0e54",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-06-07T22:45:00+00:00",
-      "end_date": "2026-06-08T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Linwood Library",
-        "street": "1st Floor Eastgate Shopping Centre, Buckleys Road",
-        "number": "",
-        "city": "Linwood",
-        "state": "Christchurch",
-        "zip": "8062",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Linwood"
-    },
-    {
-      "id": "693603f894297d36009ec161",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/693603f894297d36009ec161",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-06-08T02:00:00+00:00",
-      "end_date": "2026-06-08T04:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Spreydon",
-        "state": "Christchurch",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Spreydon"
-    },
-    {
-      "id": "695427abc967cb41207f222a",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f222a",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-06-08T02:00:00+00:00",
-      "end_date": "2026-06-08T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
-    },
-    {
-      "id": "69641432c719ac98c336a496",
-      "title": "Aranui Library Book Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "A social group that meets for a casual chat about everyone's current reads.",
-      "link": "https://christchurch.bibliocommons.com/events/69641432c719ac98c336a496",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-06-08T03:00:00+00:00",
-      "end_date": "2026-06-08T04:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Aranui Library",
-        "street": "Aldershot Street",
-        "number": "109",
-        "city": "Aranui",
-        "state": "Christchurch",
-        "zip": "8061",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "New adults (ages 18-24)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Aranui"
     },
     {
       "id": "69c542fead384e40edb6e360",
@@ -1845,7 +1545,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -1917,7 +1617,7 @@
         "required": true,
         "full": false,
         "capacity": "14",
-        "registered": "13"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -2282,7 +1982,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -3433,7 +3133,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "3"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -3696,7 +3396,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -3849,7 +3549,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "8"
       },
       "categories": [
         "Book Discussion",
@@ -4642,7 +4342,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -6596,9 +6296,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "40",
-        "registered": "40"
+        "registered": "39"
       },
       "categories": [
         "Summer at Your Library",
@@ -6710,7 +6410,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "26"
+        "registered": "27"
       },
       "categories": [
         "Summer at CPL",
@@ -7859,7 +7559,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "13"
       },
       "categories": [
         "Book Discussion",
@@ -9397,7 +9097,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -10216,7 +9916,7 @@
         "required": true,
         "full": false,
         "capacity": "120",
-        "registered": "27"
+        "registered": "28"
       },
       "categories": [
         "Education & Life Skills",
@@ -10856,7 +10556,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -11180,7 +10880,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Books & Authors",
@@ -12369,6 +12069,79 @@
       "city": "Riverton"
     },
     {
+      "id": "6a037650025b99d84474d5a9",
+      "title": "Club de Libros en Español: La disciplina marcará tu destino",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us this month as we discuss: La disciplina marcará tu destino by Ryan Holiday. Discussion will be conducted in Spanish. Acompáñanos este mes mientras discutimos: La disciplina marcará tu destino de Ryan Holiday. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312)747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6a037650025b99d84474d5a9",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-06-13T15:00:00+00:00",
+      "end_date": "2026-06-13T16:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Scottsdale",
+        "street": "W. 79th Street",
+        "number": "4101",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60652",
+        "details": "Meeting Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "Spanish"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
+      "id": "697a8414834cbb3dea29ff9f",
+      "title": "Chicago History Book Club: SDS and The Weather Underground",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "The Students for a Democratic Society (SDS) was formed in 1960 to bring about social and economic justice by educating college students and urban community members in non-violent political activism. When opposition to the Vietnam War became heated, major splits over goals and the use of violent tactics emerged in the organization. At a national SDS convention in Chicago in 1969, a faction later known as the Weather Underground took over the leadership of SDS and shut it down. Pick from several book titles available for the discussion of these two groups. Books will be available at the first floor circulation desk. This program is in partnership with the Edgewater Historical Society. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/697a8414834cbb3dea29ff9f",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-06-13T15:00:00+00:00",
+      "end_date": "2026-06-13T16:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Edgewater",
+        "street": "N. Broadway",
+        "number": "6000",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60660",
+        "details": "Betty A. Barclay Community Room, 2nd floor"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "20",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Chicago 250",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6998843d6724c63d00f3fa4d",
       "title": "Graphic Novel Club Hangout",
       "library": "Dayton Metro Library",
@@ -12842,7 +12615,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Discussion",
@@ -13446,7 +13219,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -13573,6 +13346,42 @@
       "city": "Spreydon"
     },
     {
+      "id": "695427abc967cb41207f222b",
+      "title": "English Conversation Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
+      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f222b",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
+      "start_date": "2026-06-15T02:00:00+00:00",
+      "end_date": "2026-06-15T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Matatiki Hornby Centre",
+        "street": "Smarts Road",
+        "number": "25",
+        "city": "Hornby",
+        "state": "Christchurch",
+        "zip": "8042",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Culture and language",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Hornby"
+    },
+    {
       "id": "69c542fead384e40edb6e361",
       "title": "Online Book Club: Long Bright River",
       "library": "Greene County Public Library",
@@ -13608,6 +13417,43 @@
       "state": "OH",
       "state_full": "Ohio",
       "city": "Cedarville"
+    },
+    {
+      "id": "691bf4c8886bb73600bb5ef4",
+      "title": "Upper Riccarton Library Monday Book Discussion Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "For those who love reading and want to share in discussion with other friendly book lovers. We subscribe to the Book Discussion Scheme so there is a cost involved. Held every third Monday of the month. Places are limited so please phone or email to enquire about availability and cost. Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/691bf4c8886bb73600bb5ef4",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-06-15T06:00:00+00:00",
+      "end_date": "2026-06-15T07:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Upper Riccarton Library",
+        "street": "Main South Road",
+        "number": "71",
+        "city": "Sockburn",
+        "state": "Christchurch",
+        "zip": "8042",
+        "details": "Upper Riccarton Community Room."
+      },
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Sockburn"
     },
     {
       "id": "69ded117deee9abd8ee7db2b",
@@ -14122,6 +13968,44 @@
       "city": "Green Valley"
     },
     {
+      "id": "64210455043845370005f398",
+      "title": "Papanui Book Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Love sharing your favourite reads? Come and join other book lovers in our friendly, relaxed library environment. No bookings required. Held on the third Tuesday of the month at 10am. Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/64210455043845370005f398",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-06-15T22:00:00+00:00",
+      "end_date": "2026-06-15T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Papanui Library",
+        "street": "Langdons Road",
+        "number": "35",
+        "city": "Papanui",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Papanui"
+    },
+    {
       "id": "69d4282f4dacf581ff86f457",
       "title": "Readability Book Group for Adults with Disabilities",
       "library": "Evanston Public Library",
@@ -14333,6 +14217,44 @@
       "state": "CA",
       "state_full": "California",
       "city": "Milpitas"
+    },
+    {
+      "id": "694ae6721e64afd01e5086ba",
+      "title": "Matuku Takotako-Sumner Library Book Discussion Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "For those who love reading and want to share in discussion with other friendly book lovers. We subscribe to the Book Discussion Scheme so there is a cost involved. Held on the third Tuesday of the month at 11am. Bookings essential. Please phone or email to enquire about availability and cost. Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/694ae6721e64afd01e5086ba",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-06-15T23:00:00+00:00",
+      "end_date": "2026-06-16T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Matuku Takotako: Sumner Centre",
+        "street": "Wakefield Avenue",
+        "number": "14-16",
+        "city": "Sumner",
+        "state": "Christchurch",
+        "zip": "8081",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Sumner"
     },
     {
       "id": "69dec6c61e64afd01e6942f1",
@@ -14590,6 +14512,42 @@
       "state": "CO",
       "state_full": "Colorado",
       "city": "Deer Trail"
+    },
+    {
+      "id": "6a04edfc278f7c2f008cfeb7",
+      "title": "Scrabble Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Tuesday, 12.45 - 2.30pm No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/6a04edfc278f7c2f008cfeb7",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/50003a8a2c93a2a8210c55a561e2d2d1/Picture1.jpg",
+      "start_date": "2026-06-16T00:45:00+00:00",
+      "end_date": "2026-06-16T02:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Parklands Library",
+        "street": "Queenspark Drive",
+        "number": "46",
+        "city": "Parklands",
+        "state": "Christchurch",
+        "zip": "8083",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Parklands"
     },
     {
       "id": "69ebe7ec129f1274383aa8ef",
@@ -16885,7 +16843,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "1"
+        "registered": "0"
       },
       "categories": [
         "Book Club",
@@ -17586,7 +17544,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book clubs",
@@ -19377,7 +19335,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Discussion",
@@ -20067,7 +20025,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "5"
+        "registered": "7"
       },
       "categories": [
         "Pride",
@@ -20149,7 +20107,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Makerspace and Making",
@@ -22012,7 +21970,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -24736,7 +24694,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -25209,9 +25167,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "14"
       },
       "categories": [
         "Book Clubs",
@@ -25728,6 +25686,42 @@
         "Book Clubs",
         "Kids",
         "English"
+      ],
+      "book": null,
+      "state": "NE",
+      "state_full": "Nebraska",
+      "city": "Omaha"
+    },
+    {
+      "id": "68cdb999a0570c396d54e6dd",
+      "title": "Páginas y Pláticas",
+      "library": "Omaha Public Library",
+      "library_slug": "omaha",
+      "description": "¡Únete al club de lectura en español, Páginas y Pláticas! Nos reunimos el cuarto sábado de cada mes en la sucursal Willa Cather para hablar sobre el libro del mes y compartir buenas historias. ¡Mira lo que estamos leyendo y reserva los próximos títulos aquí! Copias limitadas del libro estarán disponibles en la sucursal. ¡Todos son bienvenidos! Todas las sucursales de la Biblioteca Pública de Omaha son accesibles para personas en silla de ruedas. ¿Necesita interpretación en lenguaje de señas u otro tipo de asistencia para accesibilidad en este evento? Por favor, envíe un correo electrónico a Nancy Novotny a NNovotny@omahalibrary.org para solicitar adaptaciones. Las solicitudes deben hacerse al menos cinco días hábiles antes de la actividad o evento.",
+      "link": "https://omaha.bibliocommons.com/events/68cdb999a0570c396d54e6dd",
+      "image": "",
+      "start_date": "2026-06-27T18:00:00+00:00",
+      "end_date": "2026-06-27T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Willa Cather Branch",
+        "street": "S. 44th St.",
+        "number": "1905",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68105",
+        "details": "Sala de Reuniones"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "Spanish"
       ],
       "book": null,
       "state": "NE",
@@ -26606,7 +26600,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Health / Healthy Living",
@@ -28532,7 +28526,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -29237,7 +29231,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Groups",
@@ -29787,7 +29781,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -30090,7 +30084,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "3"
       },
       "categories": [
         "Book Discussions",
@@ -34163,7 +34157,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -36388,7 +36382,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Crafts & DIY",
@@ -38896,7 +38890,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -39073,7 +39067,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Clubs",
@@ -41822,7 +41816,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Crafts & DIY",
@@ -44654,6 +44648,47 @@
       "city": ""
     },
     {
+      "id": "69fb7f1b00c14247035b110d",
+      "title": "Reading Adventures",
+      "library": "Aurora Public Library",
+      "library_slug": "aurora",
+      "description": "Join us for indoor reading adventures inspired by our favourite children’s books!Drop-in program, no registration required.",
+      "link": "https://aurora.bibliocommons.com/events/69fb7f1b00c14247035b110d",
+      "image": "http://aurora.bibliocommons.com/events/uploads/images/full/43021527d5aa4831f9200971b1bae59d/EventCard(890x445px).png",
+      "start_date": "2026-08-27T18:30:00+00:00",
+      "end_date": "2026-08-27T20:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Aurora Public Library",
+        "street": "Yonge Street",
+        "number": "15145",
+        "city": "Aurora",
+        "state": "Ontario",
+        "zip": "L4G 1M1",
+        "details": "Optimist Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Summer Reading Club",
+        "Summer Reading Club",
+        "All Ages",
+        "Kids",
+        "English"
+      ],
+      "book": {
+        "title": "adventures inspired",
+        "author": "our favourite children’s books!"
+      },
+      "state": "Ontario",
+      "state_full": "Ontario",
+      "city": "Aurora"
+    },
+    {
       "id": "6951749a94297d3600a20886",
       "title": "Book to Art Club: The Paradise Problem",
       "library": "Kenton County Public Library",
@@ -46405,7 +46440,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -48385,7 +48420,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Clubs & Gatherings",
