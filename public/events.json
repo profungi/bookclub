@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:15:55.091185Z",
-  "total_events": 1328,
+  "generated_at": "2026-07-05T06:37:32.934489Z",
+  "total_events": 1330,
   "total_libraries": 65,
   "events": [
     {
@@ -335,24 +335,24 @@
       "city": "Cincinnati"
     },
     {
-      "id": "6a35b7da4407827f8aa61203",
-      "title": "Puppet Show: The Three Little Fish & the Big Bad Shark",
-      "library": "Halifax Public Libraries",
-      "library_slug": "halifax",
-      "description": "Join us for a puppet show based based on Ken Geist's picture book, The Three Little Fish and the Big Bad Shark. In this under-the-sea spin on a classic tale, three little fish try to build homes in the sea to stay safe from a sneaky shark. Will their homes be strong enough to protect them? All Ages Limited free tickets will be given out 30 minutes before the puppet show begins.",
-      "link": "https://halifax.bibliocommons.com/events/6a35b7da4407827f8aa61203",
-      "image": "http://halifax.bibliocommons.com/events/uploads/images/full/ea36324465ca8616605ba418e1bd2574/SRC-Biblio-Event-Header-V1-760x230-MAY2026.png",
-      "start_date": "2026-07-04T13:30:00+00:00",
-      "end_date": "2026-07-04T14:00:00+00:00",
+      "id": "6a49288d541102b7fa8a6246",
+      "title": "TD Summer Reading Club",
+      "library": "Aurora Public Library",
+      "library_slug": "aurora",
+      "description": "Summer is officially here and the TD Summer Reading Club is back! Track your reading on Beanstack to collect beads for your SRC necklace and to win prizes and free books until September 12!Happy reading!",
+      "link": "https://aurora.bibliocommons.com/events/6a49288d541102b7fa8a6246",
+      "image": "http://aurora.bibliocommons.com/events/uploads/images/full/393220c1a314e61c36ea36a3490c1191/ReadingChallengeBanner.png",
+      "start_date": "2026-07-04T04:00:00+00:00",
+      "end_date": "2026-09-13T03:59:59+00:00",
       "is_virtual": false,
       "location": {
-        "name": "Keshen Goodman Public Library",
-        "street": "Lacewood Drive",
-        "number": "330",
-        "city": "Halifax",
-        "state": "NS",
-        "zip": "B3S 0A3",
-        "details": ""
+        "name": "Aurora Public Library",
+        "street": "Yonge Street",
+        "number": "15145",
+        "city": "Aurora",
+        "state": "Ontario",
+        "zip": "L4G 1M1",
+        "details": "Beanstack"
       },
       "registration": {
         "required": false,
@@ -361,129 +361,15 @@
         "registered": ""
       },
       "categories": [
+        "Reading Challenge",
         "Summer Reading Club",
-        "Puppet Shows",
         "Kids",
-        "Preschoolers",
-        "English"
-      ],
-      "book": null,
-      "state": "NS",
-      "state_full": "Nova Scotia",
-      "city": "Halifax"
-    },
-    {
-      "id": "69f8dd855a8c322f03c708ed",
-      "title": "Book Club: POP!",
-      "library": "SDG Library",
-      "library_slug": "sdglibrary",
-      "description": "The Iroquois Branch book club, POP! (Perusers of Pages), meets monthly for lively discussions about our latest read. Enjoy great conversation, share your thoughts, and connect with fellow book lovers.",
-      "link": "https://sdglibrary.bibliocommons.com/events/69f8dd855a8c322f03c708ed",
-      "image": "http://sdglibrary.bibliocommons.com/events/uploads/images/full/24ff65f1bfd383e7cdc615c8f607ac27/13.png",
-      "start_date": "2026-07-04T14:30:00+00:00",
-      "end_date": "2026-07-04T16:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Iroquois Branch",
-        "street": "Dundas Street",
-        "number": "1",
-        "city": "Iroquois",
-        "state": "Ontario",
-        "zip": "K0E 1K0",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Socials & Clubs",
-        "Adults",
-        "Seniors",
         "English"
       ],
       "book": null,
       "state": "Ontario",
       "state_full": "Ontario",
-      "city": "Iroquois"
-    },
-    {
-      "id": "69d7e0a7129f12743837882b",
-      "title": "Book Clubs of EPL: What Does It Feel Like",
-      "library": "Edmonton Public Library",
-      "library_slug": "epl",
-      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. This month we will be reading: What Does It Feel Like by Sophie Kinsella\"Eve is a successful novelist who wakes up one day in a hospital bed with no memory of how she got there. Her husband, never far from her side, explains that she has had an operation to remove the large, malignant tumor growing in her brain. As Eve learns to walk, talk, and write again -- and as she wrestles with her diagnosis, and how and when to explain it to her beloved children -- she begins to recall what's most important to her: long walks with her husband's hand clasped firmly around her own, family game nights, and always buying that dress when she sees it. Recounted in brief anecdotes, each one is an attempt to answer the type of impossible questions recognizable to anyone navigating the labyrinth of grief. This short, extraordinary novel is a celebration of life, shot through with warmth and humor -- it will both break your heart and put it back together again\"--",
-      "link": "https://epl.bibliocommons.com/events/69d7e0a7129f12743837882b",
-      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
-      "start_date": "2026-07-04T20:30:00+00:00",
-      "end_date": "2026-07-04T21:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Meadows",
-        "street": "17 St NW",
-        "number": "2702",
-        "city": "Edmonton",
-        "state": "AB",
-        "zip": "T6T 0X1",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "5"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adult",
-        "English"
-      ],
-      "book": null,
-      "state": "AB",
-      "state_full": "Alberta",
-      "city": "Edmonton"
-    },
-    {
-      "id": "695c61e294297d3600a37af5",
-      "title": "Polish Language Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Let’s catch up and chat about our favorite books, movies, podcasts, events, hobbies, you name it! Discover cool new ideas, brainstorm “what can we do next,” and meet awesome people with inspiring stories. This is also an excellent chance to maintain and practice your Polish language skills, we’ll be speaking only in Polish (no English allowed!). Feel free to bring family members or friends and don’t forget to bring your great sense of humor, which will be the cherry on top! 😊Explore our Polish collection.",
-      "link": "https://christchurch.bibliocommons.com/events/695c61e294297d3600a37af5",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/2dd03a90c4314b057f28a8b18a0cc7d3/polish-language-club.jpg",
-      "start_date": "2026-07-04T23:00:00+00:00",
-      "end_date": "2026-07-05T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Tūranga",
-        "street": "Cathedral Square",
-        "number": "60",
-        "city": "Central Christchurch",
-        "state": "Christchurch",
-        "zip": "8011",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Courses and learning",
-        "Adults (ages 18+)",
-        "New adults (ages 18-24)",
-        "Older adults (ages 60+)",
-        "Polish"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Central Christchurch"
+      "city": "Aurora"
     },
     {
       "id": "6a18c8afa99bdd027d432bbd",
@@ -2689,7 +2575,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Summer Reading Program",
@@ -8259,7 +8145,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -9104,6 +8990,42 @@
       "state": "TX",
       "state_full": "Texas",
       "city": "Humble"
+    },
+    {
+      "id": "6a4910837e16a03d00ea2882",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2882",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-07-09T20:00:00+00:00",
+      "end_date": "2026-07-09T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
     },
     {
       "id": "6a19c04fe13d3b4603b5c0dd",
@@ -10379,7 +10301,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Books & Authors",
@@ -11686,9 +11608,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "19"
       },
       "categories": [
         "America 250-Ohio",
@@ -17175,6 +17097,43 @@
       "city": "Encinitas"
     },
     {
+      "id": "69447f6876261f28005fe326",
+      "title": "Scrabble",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Wednesday at 1-3pm. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69447f6876261f28005fe326",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-07-15T01:00:00+00:00",
+      "end_date": "2026-07-15T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court",
+        "number": "13",
+        "city": "Bishopdale",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Bishopdale"
+    },
+    {
       "id": "69bb19fa5a2d780f42c40659",
       "title": "Book Clubs of EPL: Vera Wong's Unsolicited Advice for Murderers",
       "library": "Edmonton Public Library",
@@ -17198,7 +17157,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book Clubs",
@@ -24167,7 +24126,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Club",
@@ -26217,7 +26176,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "6"
       },
       "categories": [
         "Book Club",
@@ -26467,7 +26426,7 @@
         "required": true,
         "full": false,
         "capacity": "99",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Books & Authors",
@@ -26636,6 +26595,42 @@
       "state": "Ontario",
       "state_full": "Ontario",
       "city": "Aurora"
+    },
+    {
+      "id": "6a4910837e16a03d00ea2883",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2883",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-07-23T20:00:00+00:00",
+      "end_date": "2026-07-23T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
     },
     {
       "id": "6a19c04fe13d3b4603b5c0df",
@@ -30210,6 +30205,45 @@
       "city": "Glenview"
     },
     {
+      "id": "6a43f8b64407827f8aa86872",
+      "title": "Sparkle & Storytime",
+      "library": "Halifax Public Libraries",
+      "library_slug": "halifax",
+      "description": "Sparkle and Storytime! Join drag performers MissShapen and AnarKid for warm, inclusive story time where they share some of their favourite books and have a sparkling good time. They especially love books about diversity, community, and self-expression.Free tickets will be given out 30 minutes before the event.AnarKid is the youngest professional drag performer in Nova Scotia, and MissShapen is one of the oldest, and together they love to help show that drag is for everyone!Ages 3-8",
+      "link": "https://halifax.bibliocommons.com/events/6a43f8b64407827f8aa86872",
+      "image": "http://halifax.bibliocommons.com/events/uploads/images/full/ea36324465ca8616605ba418e1bd2574/SRC-Biblio-Event-Header-V1-760x230-MAY2026.png",
+      "start_date": "2026-07-29T17:00:00+00:00",
+      "end_date": "2026-07-29T17:45:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Alderney Gate Public Library",
+        "street": "Alderney Drive",
+        "number": "60",
+        "city": "Dartmouth",
+        "state": "NS",
+        "zip": "B2Y 4P8",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Summer Reading Club",
+        "2SLGBTQIA+",
+        "Culture & Communities",
+        "Kids",
+        "Preschoolers",
+        "English"
+      ],
+      "book": null,
+      "state": "NS",
+      "state_full": "Nova Scotia",
+      "city": "Dartmouth"
+    },
+    {
       "id": "6a2ace4690cc4e3a790d4f31",
       "title": "Volunteer Opportunity: Early Readers Book Club",
       "library": "Innisfil Public Library",
@@ -31168,7 +31202,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Discussions",
@@ -31473,6 +31507,43 @@
       "state": "AB",
       "state_full": "Alberta",
       "city": "Edmonton"
+    },
+    {
+      "id": "693ddf0b76261f28005eff2c",
+      "title": "Friends of Village Square Library Book Club",
+      "library": "San JosÃ© Public Library",
+      "library_slug": "sjpl",
+      "description": "Read our fiction or non-fiction book selection for the month and meet some new friends! Our monthly book club typically meets on the first Saturday of every month at the Village Square Branch Library. Each month read a new book, and then meet with us to have thoughtful discussions. Our selection for upcoming months are as follows:February 7, 2026 Hello Beautiful by Ann Napolitano https://sjpl.bibliocommons.com/v2/search?query=hello%20beautiful&searchType=smart March 7, 2026, See No Stranger by Valarie Kaur https://sjpl.bibliocommons.com/v2/search?query=see%20no%20stranger&searchType=smart April 4, 2026, The Invention of Nature by Andrea Wulf https://sjpl.bibliocommons.com/v2/search?query=the%20invention%20of%20nature%20&searchType=smart May 2, 2026, The Things we Cannot Say by Kelly Rimmer https://sjpl.bibliocommons.com/v2/search?query=kelly%20rimmer&searchType=smart June 6, 2026, A Dream Called Home by Reyna Grande https://sjpl.bibliocommons.com/v2/search?query=a%20dream%20called%20home&searchType=smart July 11, 2026, The Thursday Murder Club by Richard Osman https://sjpl.bibliocommons.com/v2/search?query=The%20Thursday%20Murder%20Club&searchType=smart August 1, 2026, Passing by Nella Larsen https://sjpl.bibliocommons.com/v2/search?query=passing&searchType=smart ADA Accommodation Requests",
+      "link": "https://sjpl.bibliocommons.com/events/693ddf0b76261f28005eff2c",
+      "image": "http://sjpl.bibliocommons.com/events/uploads/images/full/94e8a4c03343ef5224b8c08abf3c626e/book-love-1400.jpg",
+      "start_date": "2026-08-01T17:30:00+00:00",
+      "end_date": "2026-08-01T18:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Village Square",
+        "street": "Evergreen Village Square",
+        "number": "4001",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95135",
+        "details": "Group Study Room 2"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Books & Authors",
+        "Adults, ages 18+",
+        "Seniors, ages 65+",
+        "English"
+      ],
+      "book": null,
+      "state": "CA",
+      "state_full": "California",
+      "city": "San Jose"
     },
     {
       "id": "68c08f6fa6985aea02a06276",
@@ -32546,6 +32617,44 @@
       "city": "San Ramon"
     },
     {
+      "id": "6a3eb46f4407827f8aa79039",
+      "title": "Book Clubs of EPL: Midnight in Chernobyl : the untold story of the world's greatest nuclear disaster",
+      "library": "Edmonton Public Library",
+      "library_slug": "epl",
+      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read.The Book we will be reading this month will be \"Midnight in Chernobyl : the untold story of the world's greatest nuclear disaster\"Draws on twenty years of research, recently declassified files, and interviews with survivors in an account of the 1986 Chernobyl nuclear power plant disaster that also reveals how propaganda and secrets have created additional dangers",
+      "link": "https://epl.bibliocommons.com/events/6a3eb46f4407827f8aa79039",
+      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
+      "start_date": "2026-08-05T01:00:00+00:00",
+      "end_date": "2026-08-05T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Jasper Place",
+        "street": "156 Street",
+        "number": "9010",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T5R 5X7",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "14",
+        "registered": "1"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adult",
+        "English"
+      ],
+      "book": {
+        "title": "Midnight in Chernobyl"
+      },
+      "state": "AB",
+      "state_full": "Alberta",
+      "city": "Edmonton"
+    },
+    {
       "id": "6971916f491b809c6f145bb3",
       "title": "Plot Twists & Page Turners: A Piedmont Branch Book Club",
       "library": "Oakland Public Library",
@@ -33380,6 +33489,42 @@
       "state": "",
       "state_full": "",
       "city": ""
+    },
+    {
+      "id": "6a4910837e16a03d00ea2884",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2884",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-08-06T20:00:00+00:00",
+      "end_date": "2026-08-06T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
     },
     {
       "id": "69b42ba1b6c4ac1fedc57d61",
@@ -38050,6 +38195,42 @@
       "city": "Brentwood"
     },
     {
+      "id": "6a4910837e16a03d00ea2885",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2885",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-08-20T20:00:00+00:00",
+      "end_date": "2026-08-20T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
+    },
+    {
       "id": "69b42a3a67801235ed71c45f",
       "title": "Book Club | Plain Mystery Book Club",
       "library": "Stark Library",
@@ -39657,7 +39838,7 @@
       "title": "APL Evening Book Club",
       "library": "Aurora Public Library",
       "library_slug": "aurora",
-      "description": "If you enjoy discussing books, join us on the last Wednesday of the month (excluding December) from 7:00-8:30 p.m. in the MA Room on the 2nd floor. Registered participants will be emailed a Zoom link before the meeting.",
+      "description": "If you enjoy discussing books, join us on the last Wednesday of the month (excluding December) from 7:00-8:30 p.m. in the MA Room on the 2nd floor.This month's book is The Correspondent by Virginia Evans. Participants can email Nolan (ngoguen@aurorapl.ca) to reserve a copy.Registered participants will be emailed a Zoom link before the meeting.",
       "link": "https://aurora.bibliocommons.com/events/69166f06886bb73600bab003",
       "image": "http://aurora.bibliocommons.com/events/uploads/images/full/9ef89fee29cf0c682aac13f0b68bf9a8/APLEveningBookClub.png",
       "start_date": "2026-08-26T23:00:00+00:00",
@@ -41356,6 +41537,42 @@
       "city": "Frisco"
     },
     {
+      "id": "6a4910837e16a03d00ea2886",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2886",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-09-03T20:00:00+00:00",
+      "end_date": "2026-09-03T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
+    },
+    {
       "id": "6a2c1fe84407827f8aa47aee",
       "title": "Melinda Myers Webinar: Tree Planting and Care",
       "library": "Kenosha Public Library",
@@ -42160,6 +42377,42 @@
         "Adults",
         "Seniors",
         "Spanish"
+      ],
+      "book": null,
+      "state": "California",
+      "state_full": "California",
+      "city": "Oakland"
+    },
+    {
+      "id": "65c67d2c8f2b073a00d0c046",
+      "title": "Rockridge Book Club",
+      "library": "Oakland Public Library",
+      "library_slug": "oaklandlibrary",
+      "description": "Join the Rockridge Book Club the Second Saturday of every month at 3:30pm for a lively discussion about our current book selection. Please call 510-597-5017 for more information. September's book is The Bee Sting by Paul Murray. Get accessibility information.",
+      "link": "https://oaklandlibrary.bibliocommons.com/events/65c67d2c8f2b073a00d0c046",
+      "image": "http://oaklandlibrary.bibliocommons.com/events/uploads/images/full/5ba9fffbccff17fa20cb21f74b965f87/Rockridge.png",
+      "start_date": "2026-09-12T22:30:00+00:00",
+      "end_date": "2026-09-12T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Rockridge Branch",
+        "street": "College Avenue",
+        "number": "5366",
+        "city": "Oakland",
+        "state": "California",
+        "zip": "94618",
+        "details": "Upstairs Meeting Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "English"
       ],
       "book": null,
       "state": "California",
@@ -43088,6 +43341,42 @@
       "state": "Ontario",
       "state_full": "Ontario",
       "city": "Unionville"
+    },
+    {
+      "id": "6a4910837e16a03d00ea2887",
+      "title": "Silent Book Club",
+      "library": "Ocean City Free Public Library",
+      "library_slug": "oceancity",
+      "description": "Silent Book ClubReading Under The Tent July Dates: July 9th + 23rd August Dates: August 6th + 20th September Dates: September 3rd + 17th Hours: 4pm – 5pm",
+      "link": "https://oceancity.bibliocommons.com/events/6a4910837e16a03d00ea2887",
+      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/3eec88eb9f678af12d6719579788ab3a/General.png",
+      "start_date": "2026-09-17T20:00:00+00:00",
+      "end_date": "2026-09-17T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ocean City Free Public Library",
+        "street": "Simpson Ave",
+        "number": "1735",
+        "city": "Ocean City",
+        "state": "New Jersey",
+        "zip": "08226",
+        "details": "Under the tent: Between Simpson and have at 17th street"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "General",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "New Jersey",
+      "state_full": "New Jersey",
+      "city": "Ocean City"
     },
     {
       "id": "69012c6f886bb73600b80c67",
@@ -44440,7 +44729,7 @@
       "title": "APL Evening Book Club",
       "library": "Aurora Public Library",
       "library_slug": "aurora",
-      "description": "If you enjoy discussing books, join us on the last Wednesday of the month (excluding December) from 7:00-8:30 p.m. in the MA Room on the 2nd floor. Registered participants will be emailed a Zoom link before the meeting.",
+      "description": "If you enjoy discussing books, join us on the last Wednesday of the month (excluding December) from 7:00-8:30 p.m. in the MA Room on the 2nd floor.This month's book is The Light Between Oceans by M L Stedman. Participants can email Nolan (ngoguen@aurorapl.ca) to reserve a copy.Registered participants will be emailed a Zoom link before the meeting.",
       "link": "https://aurora.bibliocommons.com/events/69166f06886bb73600bab004",
       "image": "http://aurora.bibliocommons.com/events/uploads/images/full/9ef89fee29cf0c682aac13f0b68bf9a8/APLEveningBookClub.png",
       "start_date": "2026-09-30T23:00:00+00:00",
@@ -47986,34 +48275,6 @@
       "city": "Markham"
     },
     {
-      "id": "6950703b1e64afd01e511818",
-      "title": "OCFPL Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "OCFPL Book Club List 2026 1. Jan. 21st Orbital by Samantha Harvey**DATE HAS BEEN CHANGED to Monday, February 16th** 2. Feb. 16th If the Shoe Fits by Julie Murphy 3. Mar. 18th The Bear and the Nightingale by Katherine Arden 4. Apr. 15th The Secret Book Society by Madeline Martin 5. May 20th Kantika by Elizabeth Graver 6. June 17th The Spellshop by Sarah Beth Durst 7. July 15 Brave the Wild River by Melissa Sevigny 8. Aug. 18th How the Penguins Saved Veronica by Hazel Prior 9. Sept. 16th The Art Thief by Michael Finkel 10. Oct. 21st Home Is Where the Bodies Are by Jeneva Rose 11. Nov.12th The French Ingredient by Jane Bertch 12. Dec. 16th Before the Coffee Gets Cold by Toshikazu Kawaguchi",
-      "link": "https://oceancity.bibliocommons.com/events/6950703b1e64afd01e511818",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-11-18T23:30:00+00:00",
-      "end_date": "2026-11-19T00:30:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
       "id": "69f50d49b1e102b0f3d914d0",
       "title": "Storytime Explorers |Cuentureros",
       "library": "Sno-Isle Libraries",
@@ -48225,42 +48486,6 @@
       "city": "Chandler"
     },
     {
-      "id": "6941b1ae2c65973d0012f820",
-      "title": "OCFPL Whodonit Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "OCFPL Whodonit Book Club Calling All Mystery LoversNovember 24th: Every Fifteen Minutes by Lisa Scottoline 2026 Reading list No Registration required",
-      "link": "https://oceancity.bibliocommons.com/events/6941b1ae2c65973d0012f820",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-11-24T16:00:00+00:00",
-      "end_date": "2026-11-24T17:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Ocean City Free Public Library",
-        "street": "Simpson Ave",
-        "number": "1735",
-        "city": "Ocean City",
-        "state": "New Jersey",
-        "zip": "08226",
-        "details": "Room: N111"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "New Jersey",
-      "state_full": "New Jersey",
-      "city": "Ocean City"
-    },
-    {
       "id": "69166f06886bb73600bab006",
       "title": "APL Evening Book Club",
       "library": "Aurora Public Library",
@@ -48332,42 +48557,6 @@
       "state": "WA",
       "state_full": "Washington",
       "city": "Bremerton"
-    },
-    {
-      "id": "691dd8a5fbf38a28002470e5",
-      "title": "To Mordor and Back: The Lord of the Rings Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "Reading To Mordor and Back Have you ever wanted to read The Lord of the Rings? maybe it's time for a re-read-or simply a love for epic fantasy adventure. Join us either in person or online this year as we travel through Tolkien's legendary world together! The LOTR Book Club will be meeting every 4th Saturday (except in Dec it will be the 3rd Saturday ) at 2pm in room N111 and on zoom.at:https://us02web.zoom.us/meeting/register/Rs8LsrRNTPODyKOFI7jh9A Dates and reading schedule are below. Nov 28th - Rotk - Book Six - Chapters 1-4 Dec 19th- Rotk - Book Six - Chapters 5 - 9",
-      "link": "https://oceancity.bibliocommons.com/events/691dd8a5fbf38a28002470e5",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-11-28T19:00:00+00:00",
-      "end_date": "2026-11-28T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Ocean City Free Public Library",
-        "street": "Simpson Ave",
-        "number": "1735",
-        "city": "Ocean City",
-        "state": "New Jersey",
-        "zip": "08226",
-        "details": "Room: N111"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "New Jersey",
-      "state_full": "New Jersey",
-      "city": "Ocean City"
     },
     {
       "id": "68e007173e4d01006489ba01",
@@ -48661,42 +48850,6 @@
       "city": "East Lansing"
     },
     {
-      "id": "6941b3abc967cb41207d2264",
-      "title": "OCFPL Whodonit Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "OCFPL Whodonit Book Club Calling All Mystery LoversDecember 15th: The Perfect Marriage by Jeneva Rose 2026 Reading list No Registration required",
-      "link": "https://oceancity.bibliocommons.com/events/6941b3abc967cb41207d2264",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-12-15T16:00:00+00:00",
-      "end_date": "2026-12-15T17:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Ocean City Free Public Library",
-        "street": "Simpson Ave",
-        "number": "1735",
-        "city": "Ocean City",
-        "state": "New Jersey",
-        "zip": "08226",
-        "details": "Room: N111"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "New Jersey",
-      "state_full": "New Jersey",
-      "city": "Ocean City"
-    },
-    {
       "id": "6a46b7187e16a03d00e9b7cf",
       "title": "Romance Lover's Book Club: Winter Holidays",
       "library": "Chandler Public Library",
@@ -48732,34 +48885,6 @@
       "state": "AZ",
       "state_full": "Arizona",
       "city": "Chandler"
-    },
-    {
-      "id": "6950703b1e64afd01e511819",
-      "title": "OCFPL Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "OCFPL Book Club List 2026 1. Jan. 21st Orbital by Samantha Harvey**DATE HAS BEEN CHANGED to Monday, February 16th** 2. Feb. 16th If the Shoe Fits by Julie Murphy 3. Mar. 18th The Bear and the Nightingale by Katherine Arden 4. Apr. 15th The Secret Book Society by Madeline Martin 5. May 20th Kantika by Elizabeth Graver 6. June 17th The Spellshop by Sarah Beth Durst 7. July 15 Brave the Wild River by Melissa Sevigny 8. Aug. 18th How the Penguins Saved Veronica by Hazel Prior 9. Sept. 16th The Art Thief by Michael Finkel 10. Oct. 21st Home Is Where the Bodies Are by Jeneva Rose 11. Nov.12th The French Ingredient by Jane Bertch 12. Dec. 16th Before the Coffee Gets Cold by Toshikazu Kawaguchi",
-      "link": "https://oceancity.bibliocommons.com/events/6950703b1e64afd01e511819",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-12-16T23:30:00+00:00",
-      "end_date": "2026-12-17T00:30:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
     },
     {
       "id": "69f50d49b1e102b0f3d914d2",
@@ -48893,42 +49018,6 @@
       "state": "",
       "state_full": "",
       "city": ""
-    },
-    {
-      "id": "691dd8a5fbf38a28002470e6",
-      "title": "To Mordor and Back: The Lord of the Rings Book Club",
-      "library": "Ocean City Free Public Library",
-      "library_slug": "oceancity",
-      "description": "Reading To Mordor and Back Have you ever wanted to read The Lord of the Rings? maybe it's time for a re-read-or simply a love for epic fantasy adventure. Join us either in person or online this year as we travel through Tolkien's legendary world together! The LOTR Book Club will be meeting every 4th Saturday (except in Dec it will be the 3rd Saturday ) at 2pm in room N111 and on zoom.at:https://us02web.zoom.us/meeting/register/Rs8LsrRNTPODyKOFI7jh9A Dates and reading schedule are below. Dec 19th- Rotk - Book Six - Chapters 5 - 9",
-      "link": "https://oceancity.bibliocommons.com/events/691dd8a5fbf38a28002470e6",
-      "image": "http://oceancity.bibliocommons.com/events/uploads/images/full/b977f750f25ffcb70ac220b3f64aacc7/BookClubs.png",
-      "start_date": "2026-12-19T19:00:00+00:00",
-      "end_date": "2026-12-19T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Ocean City Free Public Library",
-        "street": "Simpson Ave",
-        "number": "1735",
-        "city": "Ocean City",
-        "state": "New Jersey",
-        "zip": "08226",
-        "details": "Room: N111"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "New Jersey",
-      "state_full": "New Jersey",
-      "city": "Ocean City"
     },
     {
       "id": "6972bcf7cbf6405d3564fa3d",
