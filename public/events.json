@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:37:32.934489Z",
-  "total_events": 1330,
+  "generated_at": "2026-07-06T07:08:32.292010Z",
+  "total_events": 1328,
   "total_libraries": 65,
   "events": [
     {
@@ -370,193 +370,6 @@
       "state": "Ontario",
       "state_full": "Ontario",
       "city": "Aurora"
-    },
-    {
-      "id": "6a18c8afa99bdd027d432bbd",
-      "title": "Theatre Club",
-      "library": "Aurora Public Library",
-      "library_slug": "aurora",
-      "description": "This month, we're talking CATS!The original 80's fever dream, the reimagined, Tony-winning restaging from this year, and the, shall we say, 'troubled' movie!Lights up on a brand-new scene! Read from our selected plays in preparation or join us to read aloud day of! Take a chance to familiarize yourself with some of the most popular, famous works from the stage – both in writing and performance.",
-      "link": "https://aurora.bibliocommons.com/events/6a18c8afa99bdd027d432bbd",
-      "image": "http://aurora.bibliocommons.com/events/uploads/images/full/ad7217a84e69b3bb2f3bd129488d63a1/TheatreClub.png",
-      "start_date": "2026-07-05T19:00:00+00:00",
-      "end_date": "2026-07-05T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Aurora Public Library",
-        "street": "Yonge Street",
-        "number": "15145",
-        "city": "Aurora",
-        "state": "Ontario",
-        "zip": "L4G 1M1",
-        "details": "Multi-Use Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Talks & Discussions",
-        "Adults",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ontario",
-      "state_full": "Ontario",
-      "city": "Aurora"
-    },
-    {
-      "id": "6a30513ddcc1022f0039ad8e",
-      "title": "Silent Book Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Readers and introverts unite! Join us for one hour of independent reading of whatever you like. Hang out after to chat about what you're reading (or not, whichever you prefer). Light refreshments will be provided.*We will meet on the terrace (weather permitting).* AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a30513ddcc1022f0039ad8e",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/f549858cd8172b3dffa3f55be5482698/SummeratCPL.png",
-      "start_date": "2026-07-05T19:00:00+00:00",
-      "end_date": "2026-07-05T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Independence",
-        "street": "N. Elston Avenue",
-        "number": "4024",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60618",
-        "details": "Community Meeting Room, 1s floor"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Summer at CPL",
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69bc0df28d5e2d0933664bc3",
-      "title": "Mystery Central Book Club",
-      "library": "Omaha Public Library",
-      "library_slug": "omaha",
-      "description": "Join OPL on the first Sunday of the month for a lively discussion of this month's featured book. See what we're reading and place holds on upcoming titles here. Limited copies of the book are available at the branch. OPL Book Club discussions are led by OPL staff and are open to everyone. All Omaha Public Library locations are wheelchair accessible. Need sign language interpretation or other accessibility assistance for this event? Please email Nancy Novotny at NNovotny@omahalibrary.org to request accommodation. Requests must be made at least five business days before the activity or event.",
-      "link": "https://omaha.bibliocommons.com/events/69bc0df28d5e2d0933664bc3",
-      "image": "",
-      "start_date": "2026-07-05T19:30:00+00:00",
-      "end_date": "2026-07-05T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Central Library",
-        "street": "Dodge St",
-        "number": "7205",
-        "city": "Omaha",
-        "state": "NE",
-        "zip": "68114",
-        "details": "Community Room A"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Club discussions are led",
-        "author": "OPL staff and are open to everyone."
-      },
-      "state": "NE",
-      "state_full": "Nebraska",
-      "city": "Omaha"
-    },
-    {
-      "id": "695427abc967cb41207f222e",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f222e",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-07-06T02:00:00+00:00",
-      "end_date": "2026-07-06T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
-    },
-    {
-      "id": "6a39d9198d1b82ca9f7bd4a5",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/6a39d9198d1b82ca9f7bd4a5",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-07-06T02:00:00+00:00",
-      "end_date": "2026-07-06T04:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Spreydon",
-        "state": "Christchurch",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Spreydon"
     },
     {
       "id": "69c54278b6c4ac1fedc8451a",
@@ -959,7 +772,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "9"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -1255,7 +1068,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "7"
       },
       "categories": [
         "Books/Literature",
@@ -1501,9 +1314,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "12",
-        "registered": "12"
+        "registered": "11"
       },
       "categories": [
         "Book Club",
@@ -1529,9 +1342,9 @@
       "location": {},
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "3",
-        "registered": "3"
+        "registered": "2"
       },
       "categories": [
         "WelcomeCLT",
@@ -1660,44 +1473,6 @@
       "state": "GA",
       "state_full": "Georgia",
       "city": "Milton"
-    },
-    {
-      "id": "6a0b6146e13d3b4603b4ac16",
-      "title": "Public Speaking for Teens",
-      "library": "Fulton County Library System",
-      "library_slug": "fulcolibrary",
-      "description": "Learn public speaking, communication skills and leadership skills today at our Gavel Club! Ages 10-17. Meets weekly every Monday at 6:30 p.m. Attendance is strictly limited to 15 students. First come, first served.",
-      "link": "https://fulcolibrary.bibliocommons.com/events/6a0b6146e13d3b4603b4ac16",
-      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/cb3299c56480314b902b361e38fbb4ea/GavelClubwebsite2026.png",
-      "start_date": "2026-07-06T22:30:00+00:00",
-      "end_date": "2026-07-06T23:45:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Northeast/Spruill Oaks Branch",
-        "street": "Spruill Road",
-        "number": "9560",
-        "city": "Johns Creek",
-        "state": "GA",
-        "zip": "30022",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Classes and Workshops",
-        "District 1",
-        "The Year of the Book",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "GA",
-      "state_full": "Georgia",
-      "city": "Johns Creek"
     },
     {
       "id": "6a0631b4f6bd012f0067f7f3",
@@ -3051,7 +2826,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "41"
+        "registered": "43"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -3356,7 +3131,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -6336,9 +6111,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "40",
-        "registered": "40"
+        "registered": "39"
       },
       "categories": [
         "Summer at Your Library",
@@ -7047,7 +6822,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Book clubs",
@@ -7275,7 +7050,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Discussion",
@@ -8744,9 +8519,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "14"
       },
       "categories": [
         "Book Clubs",
@@ -9464,7 +9239,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "11"
       },
       "categories": [
         "Book Club",
@@ -10066,6 +9841,42 @@
       "city": "Chicago"
     },
     {
+      "id": "6a2d94eb3e640a44001967a0",
+      "title": "Adult Book Discussion: Entangled Life by Merlin Sheldrake",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join Albany Park for a discussion of Entangled Life by Merlin Sheldrake.Living at the border between life and non-life, fungi use diverse cocktails of potent enzymes and acids to disassemble some of the most stubborn substances on the planet, turning rock into soil and wood into compost, allowing plants to grow. Fungi not only help create soil, they send out networks of tubes that enmesh roots and link plants together in the \"Wood Wide Web\".Merlin Sheldrake's revelatory introduction to this world will show us how fungi, and our relationships with them, are more astonishing than we could have imagined. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6a2d94eb3e640a44001967a0",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-07-09T23:30:00+00:00",
+      "end_date": "2026-07-10T00:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Albany Park",
+        "street": "W. Foster Avenue",
+        "number": "3401",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60625-4808",
+        "details": "Community Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "69ef7b12b6c4ac1fedcf252e",
       "title": "Graphic Novel Book Club",
       "library": "Hennepin County Library",
@@ -10337,7 +10148,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "63"
+        "registered": "64"
       },
       "categories": [
         "Book Clubs",
@@ -10912,7 +10723,7 @@
         "required": true,
         "full": false,
         "capacity": "43",
-        "registered": "9"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -11226,7 +11037,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Summer Reading Program",
@@ -11459,7 +11270,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Crafts & Hobbies",
@@ -11495,7 +11306,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -16213,7 +16024,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "14"
+        "registered": "13"
       },
       "categories": [
         "Books & Reading",
@@ -16592,7 +16403,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -17157,7 +16968,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -17289,6 +17100,43 @@
       "city": "Tucson"
     },
     {
+      "id": "69112bd8683f18f7608cf668",
+      "title": "Scrabble Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble Club. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69112bd8683f18f7608cf668",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-07-15T01:30:00+00:00",
+      "end_date": "2026-07-15T03:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Shirley Library",
+        "street": "Marshland Road",
+        "number": "36",
+        "city": "Shirley",
+        "state": "Christchurch",
+        "zip": "8061",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Shirley"
+    },
+    {
       "id": "69fce836caf93436005a6ca7",
       "title": "SciFi & Fantasy Book Club: Ancillary Justice",
       "library": "Marin County Free Library",
@@ -17341,9 +17189,9 @@
       "location": {},
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "20",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Books & Authors",
@@ -17468,6 +17316,45 @@
       "state": "CA",
       "state_full": "California",
       "city": "Cupertino"
+    },
+    {
+      "id": "693f67314be11d3d00d8234c",
+      "title": "Mandarin Conversation Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "The Mandarin conversation group is a drop in group where anyone is welcome to come and practice conversations in Mandarin, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in Mandarin and to meet new people in the community. Free and no bookings are needed.",
+      "link": "https://christchurch.bibliocommons.com/events/693f67314be11d3d00d8234c",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/57951949c2ae03b12911af8c02ab4a16/chinese-conversation-club-FE.jpg",
+      "start_date": "2026-07-15T05:30:00+00:00",
+      "end_date": "2026-07-15T06:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Fendalton Library",
+        "street": "Jeffreys Road",
+        "number": "4",
+        "city": "Fendalton",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Courses and learning",
+        "Culture and language",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English",
+        "Chinese"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Fendalton"
     },
     {
       "id": "69b9a9641e64afd01e62d54b",
@@ -17911,7 +17798,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "13"
+        "registered": "14"
       },
       "categories": [
         "Book Club",
@@ -18027,7 +17914,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -18396,7 +18283,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -19400,7 +19287,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "12"
+        "registered": "13"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -26103,7 +25990,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Groups",
@@ -27107,7 +26994,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -27544,7 +27431,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -28825,7 +28712,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Books & Authors",
@@ -29308,6 +29195,42 @@
       "state": "New Jersey",
       "state_full": "New Jersey",
       "city": "Ocean City"
+    },
+    {
+      "id": "69498c592c65973d0013e3a5",
+      "title": "A Novel Idea Book Club",
+      "library": "Omaha Public Library",
+      "library_slug": "omaha",
+      "description": "Join OPL on the fourth Tuesday of the month for a lively discussion of this month's featured book. See what we're reading and place holds on upcoming titles here. Limited copies of the book are available at W. Clarke Swanson Branch. OPL Book Club discussions are led by OPL staff and are open to everyone. All Omaha Public Library locations are wheelchair accessible. Need sign language interpretation or other accessibility assistance for this event? Please email Nancy Novotny at NNovotny@omahalibrary.org to request accommodation. Requests must be made at least five business days before the activity or event.",
+      "link": "https://omaha.bibliocommons.com/events/69498c592c65973d0013e3a5",
+      "image": "",
+      "start_date": "2026-07-28T18:00:00+00:00",
+      "end_date": "2026-07-28T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "W. Clarke Swanson Branch",
+        "street": "W. Dodge Rd.",
+        "number": "9101",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68114",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "NE",
+      "state_full": "Nebraska",
+      "city": "Omaha"
     },
     {
       "id": "6a2c1cae2ea730c17ab666d2",
@@ -31726,7 +31649,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -32601,7 +32524,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "3"
       },
       "categories": [
         "Book Discussions",
@@ -32640,7 +32563,7 @@
         "required": true,
         "full": false,
         "capacity": "14",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -36078,7 +36001,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "63"
+        "registered": "64"
       },
       "categories": [
         "Book Clubs",
@@ -37704,7 +37627,7 @@
         "required": true,
         "full": false,
         "capacity": "35",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -42226,7 +42149,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "63"
+        "registered": "64"
       },
       "categories": [
         "Book Clubs",
@@ -45438,7 +45361,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "63"
+        "registered": "64"
       },
       "categories": [
         "Book Clubs",
@@ -47882,7 +47805,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "63"
+        "registered": "64"
       },
       "categories": [
         "Book Clubs",
