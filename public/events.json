@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:52:41.174325Z",
+  "generated_at": "2026-08-03T06:17:51.054892Z",
   "total_events": 1376,
   "total_libraries": 65,
   "events": [
@@ -295,196 +295,6 @@
       "city": "Cleves"
     },
     {
-      "id": "6a20a4ef7d5bb2971b9a959c",
-      "title": "Club de Lectura en Español: Mandíbula  / Mónica Ojeda",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Únase al club de lectura en Español este mes por una discusion de Mandíbula por Mónica Ojeda Un programa de Illinois Humanities, el Club de Lectura en Español Enhorabuena se junta mensualmente para discutir libros en Español. Este grupo esta abierto a cualquier adulto interesade en lectura y en discutir lectura con otros adultos. Este programa esta planeado para ser en persona. Mande correo para registrarse para obtener detalles por cualquier cambio. Accesibilidad ¿Necesita interpretación de lenguaje de señas u otra asistencia de accesibilidad para este evento? Por favor llame al (312) 747-8184 o envíe un correo electrónico a access@chipublib.org para solicitar alojamiento. Las solicitudes deben hacerse al menos 14 días hábiles antes del evento.",
-      "link": "https://chipublib.bibliocommons.com/events/6a20a4ef7d5bb2971b9a959c",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-08-02T19:00:00+00:00",
-      "end_date": "2026-08-02T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Little Village",
-        "street": "S. Kedzie Avenue",
-        "number": "2311",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60623",
-        "details": "Email mateo.gonzalez@ilhumanities for details"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "30",
-        "registered": "0"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69bc0df28d5e2d0933664bc4",
-      "title": "Mystery Central Book Club",
-      "library": "Omaha Public Library",
-      "library_slug": "omaha",
-      "description": "Join OPL on the first Sunday of the month for a lively discussion of this month's featured book. See what we're reading and place holds on upcoming titles here. Limited copies of the book are available at the branch. OPL Book Club discussions are led by OPL staff and are open to everyone. All Omaha Public Library locations are wheelchair accessible. Need sign language interpretation or other accessibility assistance for this event? Please email Nancy Novotny at NNovotny@omahalibrary.org to request accommodation. Requests must be made at least five business days before the activity or event.",
-      "link": "https://omaha.bibliocommons.com/events/69bc0df28d5e2d0933664bc4",
-      "image": "",
-      "start_date": "2026-08-02T19:30:00+00:00",
-      "end_date": "2026-08-02T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Central Library",
-        "street": "Dodge St",
-        "number": "7205",
-        "city": "Omaha",
-        "state": "NE",
-        "zip": "68114",
-        "details": "Community Room A"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Club discussions are led",
-        "author": "OPL staff and are open to everyone."
-      },
-      "state": "NE",
-      "state_full": "Nebraska",
-      "city": "Omaha"
-    },
-    {
-      "id": "6a23153c7b73be6a1b1aa4da",
-      "title": "Bring Your Own Book Club",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Entering grades 3-8. This is a space for young readers to come relax, read, talk about awesome books, and create. Bring your own book or choose from the library cart. Quiet reading time will be followed by a group discussion and then a fun activity. Materials provided. All readers are welcome.",
-      "link": "https://hclib.bibliocommons.com/events/6a23153c7b73be6a1b1aa4da",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/2f0b70b877fa6cc31a9063aca1beb849/Program_DIscoverSummer_760x230.jpg",
-      "start_date": "2026-08-02T20:15:00+00:00",
-      "end_date": "2026-08-02T21:15:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Hopkins",
-        "street": "11th Ave. N.",
-        "number": "22",
-        "city": "Hopkins,",
-        "state": "MN",
-        "zip": "55343",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Summer Learning",
-        "Book Clubs",
-        "Kids",
-        "Preteens",
-        "Teens",
-        "English"
-      ],
-      "book": {
-        "title": "s, and create. Bring your own book or choose from the library cart. Quiet reading time will be followed",
-        "author": "a group discussion and then a fun activity. Materials provided. All readers are welcome."
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Hopkins,"
-    },
-    {
-      "id": "695427abc967cb41207f2232",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f2232",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-08-03T02:00:00+00:00",
-      "end_date": "2026-08-03T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
-    },
-    {
-      "id": "6a39d9198d1b82ca9f7bd4a9",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/6a39d9198d1b82ca9f7bd4a9",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-08-03T02:00:00+00:00",
-      "end_date": "2026-08-03T04:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Spreydon",
-        "state": "Christchurch",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Spreydon"
-    },
-    {
       "id": "6a440e90ed35742f00ff71ae",
       "title": "Online Book Club: Lady in the Lake",
       "library": "Greene County Public Library",
@@ -737,7 +547,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "7"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -1239,7 +1049,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Club",
@@ -2634,7 +2444,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "29"
+        "registered": "31"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -2939,7 +2749,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "15"
+        "registered": "16"
       },
       "categories": [
         "Book Clubs",
@@ -5201,7 +5011,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "12"
+        "registered": "14"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -6495,7 +6305,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "18"
+        "registered": "21"
       },
       "categories": [
         "Book Clubs",
@@ -6604,7 +6414,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "9"
+        "registered": "8"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -6672,7 +6482,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -7933,7 +7743,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Discussion",
@@ -9606,7 +9416,7 @@
         "required": true,
         "full": false,
         "capacity": "43",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -10332,7 +10142,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "One Book, One Read",
@@ -11439,6 +11249,42 @@
       "city": "Oakland"
     },
     {
+      "id": "69829ca7d34a4e7592849057",
+      "title": "English Conversation Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Group sessions to practise conversations in English. This is not a class, but an opportunity to talk with others in English and meet new people. Great for ESOL learners.Free, no bookings required. You might also like: Road to IELTS Road to IELTS (International English Language Testing System) is your best possible online preparation and practice resource for IELTS. This comprehensive and up-to-date service has over 300 interactive activities, hints and tips on question types as well as downloadable practice tests. And now you can practice Computer-Delivered IELTS too! Academic and General Training modules are available.",
+      "link": "https://christchurch.bibliocommons.com/events/69829ca7d34a4e7592849057",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/9a215b7ef1004aa8ff0e510df2ea1d01/culture-language-flags.jpg",
+      "start_date": "2026-08-09T02:00:00+00:00",
+      "end_date": "2026-08-09T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Papanui Library",
+        "street": "Langdons Road",
+        "number": "35",
+        "city": "Papanui",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Culture and language",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Papanui"
+    },
+    {
       "id": "69e93d35cdd2f7e31fe2f4bc",
       "title": "Food For Thought: A Culinary Book Club",
       "library": "Edmonton Public Library",
@@ -11670,6 +11516,45 @@
       "state": "MN",
       "state_full": "Minnesota",
       "city": "Hopkins,"
+    },
+    {
+      "id": "693b16f12bee0c370064c8cf",
+      "title": "Bishopdale Monday Book Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come and join our friendly group of readers and chat about your current reading and old favourites. With no set book to read, this is a relaxed and social group with a monthly meet up in the library. Held on the 2nd Monday of each month. Hope to see you there!",
+      "link": "https://christchurch.bibliocommons.com/events/693b16f12bee0c370064c8cf",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-08-09T22:00:00+00:00",
+      "end_date": "2026-08-09T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court",
+        "number": "13",
+        "city": "Bishopdale",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "New adults (ages 18-24)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Bishopdale"
     },
     {
       "id": "6a440e90ed35742f00ff71af",
@@ -12172,6 +12057,35 @@
       "state": "Minnesota",
       "state_full": "Minnesota",
       "city": "Shoreview"
+    },
+    {
+      "id": "6a31affa7550c8bf9f5dd811",
+      "title": "AniMondays: Anime and Manga Club",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Are you a fan of anime, manga or both? If so, please join Woodson Regional Library staff as we discuss titles from the past and present. How to AttendThis event takes place on Zoom. Register at least 24 hours before the event. Only one registration per household is needed. You’ll receive an email with a link to the secure Zoom meeting about 24 hours before the meeting. Automatic transcription is included in all CPL events using Zoom. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event. Attending CPL Online EventsQuestions about attending online events? Check out our Events FAQs.",
+      "link": "https://chipublib.bibliocommons.com/events/6a31affa7550c8bf9f5dd811",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/f549858cd8172b3dffa3f55be5482698/SummeratCPL.png",
+      "start_date": "2026-08-10T20:00:00+00:00",
+      "end_date": "2026-08-10T21:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "25",
+        "registered": "0"
+      },
+      "categories": [
+        "Summer at CPL",
+        "Book Clubs",
+        "Teens: 13 to 19 years",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "69cd8f588089f23c67661160",
@@ -14046,7 +13960,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "14"
       },
       "categories": [
         "Crafts & DIY",
@@ -14216,6 +14130,45 @@
       "state": "MN",
       "state_full": "Minnesota",
       "city": "Edina,"
+    },
+    {
+      "id": "6a07a0048360de907d8761e4",
+      "title": "Washburn Book Club",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Welcome back the Washburn Book Club and join our discussion of new and interesting fiction and nonfiction titles. A limited number of lending copies may be picked up at the information desk prior to each discussion. Upcoming titles include:August 11: Florida by Lauren GroffSeptember 8: The Quiet American by Graham GreeneOctober 13: The Night Watchman by Louise ErdrichNovember 10: The Adventures of Huckleberry Finn by Mark TwainDecember 8: James by Percival Everett",
+      "link": "https://hclib.bibliocommons.com/events/6a07a0048360de907d8761e4",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
+      "start_date": "2026-08-11T21:00:00+00:00",
+      "end_date": "2026-08-11T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Washburn",
+        "street": "Lyndale Ave. S.",
+        "number": "5244",
+        "city": "Minneapolis,",
+        "state": "MN",
+        "zip": "55419",
+        "details": "Lower level meeting room - accessible by stairs or elevator"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "Seniors",
+        "English"
+      ],
+      "book": {
+        "title": "Florida"
+      },
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Minneapolis,"
     },
     {
       "id": "692f56f07eb3e43000271748",
@@ -14580,7 +14533,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Discussion",
@@ -14736,7 +14689,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -14773,7 +14726,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "13"
+        "registered": "12"
       },
       "categories": [
         "Books & Reading",
@@ -16190,7 +16143,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -19655,7 +19608,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Pride",
@@ -19886,8 +19839,8 @@
       },
       "registration": {
         "required": true,
-        "full": true,
-        "capacity": "10",
+        "full": false,
+        "capacity": "15",
         "registered": "10"
       },
       "categories": [
@@ -20774,7 +20727,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Clubs",
@@ -23598,7 +23551,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Clubs",
@@ -24582,7 +24535,7 @@
         "required": true,
         "full": false,
         "capacity": "35",
-        "registered": "0"
+        "registered": "2"
       },
       "categories": [
         "Enrichment",
@@ -25628,7 +25581,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Books & Reading",
@@ -27066,6 +27019,42 @@
       "city": ""
     },
     {
+      "id": "68cc3c4d4d5cf93f102a73d5",
+      "title": "Let's Get Lit-erary Book Club",
+      "library": "Omaha Public Library",
+      "library_slug": "omaha",
+      "description": "Join OPL on the fourth Monday for a lively discussion of this month's featured book. See what we're reading and place holds on upcoming titles here. Limited copies of the book are available at Bess Johnson Elkhorn Branch. OPL Book Club discussions are led by OPL staff and are open to everyone. All Omaha Public Library locations are wheelchair accessible. Need sign language interpretation or other accessibility assistance for this event? Please email Nancy Novotny at NNovotny@omahalibrary.org to request accommodation. Requests must be made at least five business days before the activity or event.",
+      "link": "https://omaha.bibliocommons.com/events/68cc3c4d4d5cf93f102a73d5",
+      "image": "",
+      "start_date": "2026-08-24T23:30:00+00:00",
+      "end_date": "2026-08-25T00:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Bess Johnson Elkhorn Branch",
+        "street": "Reading Plz.",
+        "number": "2100",
+        "city": "Elkhorn",
+        "state": "NE",
+        "zip": "68022",
+        "details": "Meeting room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "NE",
+      "state_full": "Nebraska",
+      "city": "Elkhorn"
+    },
+    {
       "id": "6a5fb68ac7e02e3d006aacc6",
       "title": "星期一下午: 水浒传 (儿童读书会)",
       "library": "San JosÃ© Public Library",
@@ -27238,9 +27227,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "15",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Clubs",
@@ -27489,7 +27478,7 @@
         "required": true,
         "full": false,
         "capacity": "300",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -29237,7 +29226,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -30099,7 +30088,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Book Clubs",
@@ -32782,7 +32771,7 @@
         "required": true,
         "full": false,
         "capacity": "40",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -33051,7 +33040,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "5"
       },
       "categories": [
@@ -38310,7 +38299,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "1"
       },
       "categories": [
@@ -41097,7 +41086,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "2"
       },
       "categories": [
@@ -44032,7 +44021,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "1"
       },
       "categories": [
@@ -45249,7 +45238,7 @@
       "title": "Meet Sno-Isle Reads Together Author Shelby Van Pelt",
       "library": "Sno-Isle Libraries",
       "library_slug": "sno-isle",
-      "description": "Join us for a conversation with Shelby Van Pelt, author of the 2026 Sno-Isle Reads Together selection Remarkably Bright Creatures. Born and raised in Washington, Shelby Van Pelt currently lives with her husband and two kids in the Chicago suburbs where she misses the mountains. Remarkably Bright Creatures is her debut novel, and it became an instant New York Times bestseller. Shelby will by joined in conversation by Matthew Sullivan, author of Midnight at the Bright Ideas Bookstore.Book sales and signing following the program. Sales provided by The Book Rack.This event is part of Sno-Isle Reads Together. The 2026 selection is Remarkably Bright Creatures by Shelby Van Pelt. Discover additional Sno-Isle Reads Together events, including three opportunities to meet the author. Sno-Isle Reads Together is funded by the Sno-Isle Libraries Foundation. Contact us with questions Programs & Events FAQs To request a sign language interpreter, complete this online form or contact your local library at least two weeks prior to the library event. Interpreters will be provided based on availability.",
+      "description": "Join us for a conversation with Shelby Van Pelt, author of the 2026 Sno-Isle Reads Together selection Remarkably Bright Creatures. Born and raised in Washington, Shelby Van Pelt currently lives with her husband and two kids in the Chicago suburbs where she misses the mountains. Remarkably Bright Creatures is her debut novel, and it became an instant New York Times bestseller. Shelby will by joined in conversation by Matthew Sullivan, author of Midnight at the Bright Ideas Bookstore.Book sales and signing following the program. Sales provided by The Book Rack. This event is part of Sno-Isle Reads Together. The 2026 selection is Remarkably Bright Creatures by Shelby Van Pelt. Discover additional Sno-Isle Reads Together events, including three opportunities to meet the author. Sno-Isle Reads Together is funded by the Sno-Isle Libraries Foundation.Contact us with questions Programs & Events FAQs To request a sign language interpreter, complete this online form or contact your local library at least two weeks prior to the library event. Interpreters will be provided based on availability.",
       "link": "https://sno-isle.bibliocommons.com/events/6996118b7d180d0d48340699",
       "image": "",
       "start_date": "2026-10-23T01:00:00+00:00",
@@ -46461,7 +46450,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "1"
       },
       "categories": [
@@ -47771,7 +47760,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "0"
       },
       "categories": [
@@ -49467,7 +49456,7 @@
       "registration": {
         "required": true,
         "full": false,
-        "capacity": "10",
+        "capacity": "15",
         "registered": "0"
       },
       "categories": [
