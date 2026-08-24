@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T03:46:02.980083Z",
-  "total_events": 1377,
+  "generated_at": "2026-08-24T03:51:02.646412Z",
+  "total_events": 1376,
   "total_libraries": 64,
   "events": [
     {
@@ -78,68 +78,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cleves"
-    },
-    {
-      "id": "69dd1476e2a2952aed0e7278",
-      "title": "TD Summer Reading Club",
-      "library": "Oshawa Public Libraries",
-      "library_slug": "oshlib",
-      "description": "Create an account on the READsquared app or at oshlib.readsquared.com. Register online or at any branch and receive a free tracker and stickers. Group registrations are available for summer camps and daycares. Register between June 13 and June 20 for your chance to win one of eight exciting prizes! Track your reading and complete at least one activity each week: Give a book report – 30 points and a prize from the Treasure chest! (report your reading minutes as often as you like, but prizes and points are awarded once per week.) Complete a TDSRC Weekly Activity – 30 points Attend a program – 30 points Read a book from a SRC book list – 20 points Solve an online jigsaw puzzle – 10 points Answer a trivia question – 10 points Repeat. Keep reading, tracking, and completing missions. Have fun! Earn 1,000 points for a chance to win a special prize!",
-      "link": "https://oshlib.bibliocommons.com/events/69dd1476e2a2952aed0e7278",
-      "image": "http://oshlib.bibliocommons.com/events/uploads/images/full/d59be380b87b1bbb22edd24a4c85a809/TDSRC-2026-1780.jpg",
-      "start_date": "2026-06-13T04:00:00+00:00",
-      "end_date": "2026-08-23T03:59:59+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Children's Programs",
-        "Summer Reading",
-        "Kids 0-5",
-        "Kids 5+",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69dd02d3c1cf6f9a75850754",
-      "title": "Adult Summer Reading Challenge",
-      "library": "Oshawa Public Libraries",
-      "library_slug": "oshlib",
-      "description": "Complete reading challenges on the Colour-by-Numbers tracker available at any Library branch. Each number represents a different reading challenge and item to colour. Read, colour, and watch your tracker come to life one challenge at a time. Complete at least five challenges, drop off your completed tracker at any branch and be entered into a prize draw. Register in person at any branch to receive summer reading swag. Let us know what you’re reading this summer by tagging us @OshawaLibraries. Create an account on the READsquared app or visit oshlib.readsquared.com Track your reading and complete challenges Repeat. Keep reading, tracking, and completing reading challenges. Have fun!",
-      "link": "https://oshlib.bibliocommons.com/events/69dd02d3c1cf6f9a75850754",
-      "image": "http://oshlib.bibliocommons.com/events/uploads/images/full/e004840b8a2baa54608bca227a66d0ea/Adult-SRC-2026-1780.jpg",
-      "start_date": "2026-06-13T04:00:00+00:00",
-      "end_date": "2026-08-23T03:59:59+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Summer Reading",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "swag. Let us know what you’re reading this summer",
-        "author": "tagging us @OshawaLibraries."
-      },
-      "state": "",
-      "state_full": "",
-      "city": ""
     },
     {
       "id": "6a26d5b33e640a440018c56c",
@@ -293,340 +231,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cleves"
-    },
-    {
-      "id": "6a0ca5c1c7d3cd58005a3812",
-      "title": "Dungeon Crawler Carl Book Club",
-      "library": "Palm Beach County Library System",
-      "library_slug": "pbclibrary",
-      "description": "Welcome, Crawlers. Venture into our Dungeon Crawler Carl book club as we explore the first book in this best-selling, action-packed series. New readers and veteran crawlers are welcome - just don't spoil it for the newbies! Now, let's get out there and read, read, READ!",
-      "link": "https://pbclibrary.bibliocommons.com/events/6a0ca5c1c7d3cd58005a3812",
-      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
-      "start_date": "2026-08-23T18:00:00+00:00",
-      "end_date": "2026-08-23T19:15:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Acreage Branch",
-        "street": "Orange Blvd",
-        "number": "15801",
-        "city": "Loxahatchee",
-        "state": "FL",
-        "zip": "33470",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "6"
-      },
-      "categories": [
-        "Sponsored by the Friends",
-        "Book Discussion",
-        "Rediscover Reading",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "FL",
-      "state_full": "Florida",
-      "city": "Loxahatchee"
-    },
-    {
-      "id": "6a29ae84f56bd86e00b5dbbb",
-      "title": "Snack Chat: Harry Potter and the Order of the Phoenix",
-      "library": "Palm Beach County Library System",
-      "library_slug": "pbclibrary",
-      "description": "Journey through Hogwarts in our monthly Harry Potter Snack Chat book club. We’ll chat about magical moments, friendship, and favorite chapters while enjoying snacks. Ages 13-17. This month's book is \"Harry Potter and the Order of the Phoenix\" by J.K. Rowling. Available as an eBook and audiobook in the cloudLibrary app.",
-      "link": "https://pbclibrary.bibliocommons.com/events/6a29ae84f56bd86e00b5dbbb",
-      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
-      "start_date": "2026-08-23T18:00:00+00:00",
-      "end_date": "2026-08-23T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Acreage Branch",
-        "street": "Orange Blvd",
-        "number": "15801",
-        "city": "Loxahatchee",
-        "state": "FL",
-        "zip": "33470",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "12",
-        "registered": "2"
-      },
-      "categories": [
-        "Sponsored by the Friends",
-        "Book Discussion",
-        "Rediscover Reading",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "FL",
-      "state_full": "Florida",
-      "city": "Loxahatchee"
-    },
-    {
-      "id": "6a26f1bd90cc4e3a790c77d4",
-      "title": "Adult Book Discussion: Orbital by Samantha Harvey",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join us for a lively book discussion about Orbital by Samantha Harvey! A slender novel of epic power and the winner of the Booker Prize 2024, Orbital deftly snapshots one day in the lives of six women and men traveling through space. Selected for one of the last space station missions of its kind before the program is dismantled, these astronauts and cosmonauts—from America, Russia, Italy, Britain, and Japan—have left their lives behind to travel at a speed of over seventeen thousand miles an hour as the earth reels below. We glimpse moments of their earthly lives through brief communications with family, their photos and talismans; we watch them whip up dehydrated meals, float in gravity-free sleep, and exercise in regimented routines to prevent atrophying muscles; we witness them form bonds that will stand between them and utter solitude. Most of all, we are with them as they behold and record their silent blue planet. Their experiences of sixteen sunrises and sunsets and the bright, blinking constellations of the galaxy are at once breathtakingly awesome and surprisingly intimate. Next month's book selection is made available after this book discussion. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a26f1bd90cc4e3a790c77d4",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-08-23T18:30:00+00:00",
-      "end_date": "2026-08-23T19:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "North Pulaski",
-        "street": "W. North Avenue",
-        "number": "4300",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60639",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "3"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6a0392d40c0f2c4503f9ea78",
-      "title": "Silent Book Club",
-      "library": "San Mateo County Libraries",
-      "library_slug": "smcl",
-      "description": "Join our Silent Book Club at the Brisbane Library! Choose or bring a book to read, settle into our comfy blue couches, and read quietly alongside others in the library. We’ll get settled and do intros, read silently for about 45 minutes, and then share what we’re reading with others. 12:00 PM: Introductions, browse books, and quiet reading time12:45-1:00 PM: Share what you're reading! Light mingling optional.",
-      "link": "https://smcl.bibliocommons.com/events/6a0392d40c0f2c4503f9ea78",
-      "image": "",
-      "start_date": "2026-08-23T19:00:00+00:00",
-      "end_date": "2026-08-23T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Brisbane",
-        "street": "Visitacion Avenue",
-        "number": "163",
-        "city": "Brisbane",
-        "state": "CA",
-        "zip": "94005",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults (19+)",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Brisbane"
-    },
-    {
-      "id": "6a86110baafa6100295db400",
-      "title": "Book Discussion: The Dazzling Paget Sisters",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join us as we discuss The Dazzling Paget Sisters. After Celia Goodman née Paget died in 2002, her daughter, Ariane Bankes, inherited a battered trunk stuffed with letters and diaries that belonged to Celia and her identical twin sister Mamaine. This correspondence charted two remarkable lives spent amongst a dazzling cast of characters who were at the heart of their age.How to AttendThis event is available in person and online. Attend in person at the South Chicago Branch 9055 S. Houston. Attend online via ZoomOnly one registration per household is needed. You’ll receive an email with a link to the secure Zoom meeting about 24 hours before the meeting. Questions about attending online events? Check out our Events FAQs. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a86110baafa6100295db400",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/f549858cd8172b3dffa3f55be5482698/SummeratCPL.png",
-      "start_date": "2026-08-23T21:00:00+00:00",
-      "end_date": "2026-08-23T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "South Chicago",
-        "street": "S. Houston Avenue",
-        "number": "9055",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60617",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "0"
-      },
-      "categories": [
-        "Summer at CPL",
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": {
-        "title": "The Dazzling Paget Sisters"
-      },
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6a33667a90cc4e3a790ef956",
-      "title": "Golden Book Group and Fieldtrips: Mouth to Mouth",
-      "library": "Jefferson County Public Library",
-      "library_slug": "jeffcolibrary",
-      "description": "Book some time to connect with others over great reads! Engage in discussions spanning all genres and topics. Relax at Golden Library each month, then look out for two special fieldtrips at the Foothills Art Center at Astor House on August 23 and September 27 which is located at 1133 Arapahoe St, Golden, CO 80401. Soak in the exhibits on those days as they frame the book group conversation. Whether you're a long-time bookworm or looking to discover something new, this group is for you! This Month's Title: Mouth to Mouth",
-      "link": "https://jeffcolibrary.bibliocommons.com/events/6a33667a90cc4e3a790ef956",
-      "image": "http://jeffcolibrary.bibliocommons.com/events/uploads/images/full/0b45d6b4ad20e5cfe25b225bc20a3f51/16573_GN_GoldenBookGroup_FE_942x335.png",
-      "start_date": "2026-08-23T21:00:00+00:00",
-      "end_date": "2026-08-23T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Golden Library",
-        "street": "10th St.",
-        "number": "1019",
-        "city": "Golden",
-        "state": "CO",
-        "zip": "80401",
-        "details": "Held at:\nFoothills Art Center at Astor House\n1133 Arapahoe St.\nGolden, CO 80401"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Off-Site",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "CO",
-      "state_full": "Colorado",
-      "city": "Golden"
-    },
-    {
-      "id": "692df902a2f9562900e6c481",
-      "title": "Shirley Library Book Discussion Group",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "For those who love reading and want to share in discussion with other friendly book lovers. We subscribe to the Book Discussion Scheme so there is a cost involved. Held on the fourth Monday of the month at 10.30am. This book group is currently full and cannot take new members. Browse all book clubs and reading groups at your libraries.",
-      "link": "https://christchurch.bibliocommons.com/events/692df902a2f9562900e6c481",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-08-23T22:30:00+00:00",
-      "end_date": "2026-08-23T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Shirley Library",
-        "street": "Marshland Road",
-        "number": "36",
-        "city": "Shirley",
-        "state": "Christchurch",
-        "zip": "8061",
-        "details": "36 Marshland Road, 8061"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Shirley"
-    },
-    {
-      "id": "6a502d9afb418a280099dd5b",
-      "title": "Sunday Library Book Group",
-      "library": "San Diego County Library",
-      "library_slug": "sdcl",
-      "description": "Please come into the library to register and receive a copy of the book. This is a book club for adults. We meet on the fourth Sunday of each month. Space is limited.",
-      "link": "https://sdcl.bibliocommons.com/events/6a502d9afb418a280099dd5b",
-      "image": "http://sdcl.bibliocommons.com/events/uploads/images/full/15706881ee52106f7cdf31a7c337fa0d/EventsCalendarBanner-BookDiscussion.png",
-      "start_date": "2026-08-23T22:30:00+00:00",
-      "end_date": "2026-08-23T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Encinitas",
-        "street": "Cornish Drive",
-        "number": "540",
-        "city": "Encinitas",
-        "state": "CA",
-        "zip": "92024",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Adults",
-        "Older Adults 55+",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Encinitas"
-    },
-    {
-      "id": "695427abc967cb41207f2235",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f2235",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-08-24T02:00:00+00:00",
-      "end_date": "2026-08-24T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
     },
     {
       "id": "6a39d9198d1b82ca9f7bd4ac",
@@ -834,7 +438,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Summer at CPL",
@@ -907,7 +511,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "3"
+        "registered": "2"
       },
       "categories": [
         "Summer at CPL",
@@ -1279,7 +883,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Summer at CPL",
@@ -1459,7 +1063,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -2127,7 +1731,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "13"
+        "registered": "14"
       },
       "categories": [
         "Book Club",
@@ -3925,7 +3529,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -4000,7 +3604,7 @@
         "required": true,
         "full": true,
         "capacity": "14",
-        "registered": "15"
+        "registered": "17"
       },
       "categories": [
         "Book Clubs",
@@ -4072,7 +3676,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -7296,6 +6900,46 @@
       "city": "Shirley"
     },
     {
+      "id": "6a6bdc0cb44674e2601be56c",
+      "title": "Matatiki Sewing Club – Create Together!",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Got a sewing project in mind or just want to try something new? Come hang out at the Matatiki Sewing Club! It’s all about creative people getting together and making cool things. Whether you’re a sewing veteran or you’ve never touched a sewing machine, there’s a place for you here. We’ve got sewing machines and all the basics ready for you! Just bring your ideas and some fabric and see what happens. Work on your own thing, swap tips, do your mending or just enjoy the company of other makers. The Sewing Club happens during regular Open Hours, so the space is still available for other creative projects. Free. No bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/6a6bdc0cb44674e2601be56c",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/0789f7503a8da1286699f721061082a4/sewing-club.jpg",
+      "start_date": "2026-08-27T04:00:00+00:00",
+      "end_date": "2026-08-27T06:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Matatiki Hornby Centre",
+        "street": "Smarts Road",
+        "number": "25",
+        "city": "Hornby",
+        "state": "Christchurch",
+        "zip": "8042",
+        "details": "Auahatanga Creative Space"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Auahatanga - Creative Spaces",
+        "Auahatanga - Creative Times",
+        "Crafts and hobbies",
+        "Adults (ages 18+)",
+        "New adults (ages 18-24)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Hornby"
+    },
+    {
       "id": "6a1f0c9c52c88111723c824c",
       "title": "Mayor's Summer Reading Club",
       "library": "Fulton County Library System",
@@ -7592,6 +7236,42 @@
       "city": "Halifax"
     },
     {
+      "id": "6a3c1678414ef43d0097ef21",
+      "title": "Adult Book Discussion: The Proving Ground",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us for a discussion of The Proving Ground by Michael Connelly.About the book:Following his “resurrection walk” and need for a new direction, Mickey Haller turns to public interest litigation, filing a civil lawsuit against an artificial intelligence company whose chatbot told a sixteen-year-old boy that it was okay for him to kill his ex-girlfriend for her disloyalty. The case is fraught with danger because billions are at stake. This event especially welcomes patrons with print disabilities. An accessible digital audiobook or braille book format is available to those who qualify via the Chicago Public Library Assistive Resources and Talking Book Center. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6a3c1678414ef43d0097ef21",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-08-27T17:00:00+00:00",
+      "end_date": "2026-08-27T18:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Harold Washington Library Center",
+        "street": "S. State Street",
+        "number": "400",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60605",
+        "details": "7th floor meeting room, 7N5"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6a1de6bd703c3363002b8d27",
       "title": "Book Club: Toni Morrison's \"Beloved\"",
       "library": "Cincinnati & Hamilton County Public Library",
@@ -7667,6 +7347,45 @@
       "state": "OH",
       "state_full": "Ohio",
       "city": "Huber Heights"
+    },
+    {
+      "id": "6a20a4de3afbb4961bdc02ec",
+      "title": "Book Buddy for Adults",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Are you interested in reading English books? Do you need a friend to read with you and expand your reading by talking about characters, stories, and themes? Join our Book Buddy Program for adults, where we read together to prepare for our monthly ESL book club meetings. The book is ready at the Little Village Branch clerical desk. How to Attend This event is available in person at Little Village Branch, 2311 S Kedzie AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6a20a4de3afbb4961bdc02ec",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/dbadeceaa4dd0878803cc9b3a51b2a73/ContinuingEducationandCollege.png",
+      "start_date": "2026-08-27T17:15:00+00:00",
+      "end_date": "2026-08-27T18:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Little Village",
+        "street": "S. Kedzie Avenue",
+        "number": "2311",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60623",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "12",
+        "registered": "0"
+      },
+      "categories": [
+        "Continuing Education and College",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": {
+        "title": "English books? Do you need a friend to read with you and expand your reading",
+        "author": "talking about characters, stories, and themes? Join our Book Buddy Program for adults, where we read together to prepare for our monthly ESL book club meetings."
+      },
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
     },
     {
       "id": "6a21cf826803ceac1bb927fb",
@@ -8399,6 +8118,43 @@
       "city": "Miamisburg"
     },
     {
+      "id": "693f66c276261f28005f29b1",
+      "title": "Scrabble Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Friday at 10am -12 midday. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/693f66c276261f28005f29b1",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-08-27T22:00:00+00:00",
+      "end_date": "2026-08-28T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Linwood Library",
+        "street": "1st Floor Eastgate Shopping Centre, Buckleys Road",
+        "number": "",
+        "city": "Linwood",
+        "state": "Christchurch",
+        "zip": "8062",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Linwood"
+    },
+    {
       "id": "69651a6c992fc18a86dcf0c4",
       "title": "Mystery Book Club",
       "library": "Dayton Metro Library",
@@ -8942,7 +8698,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "5"
+        "registered": "7"
       },
       "categories": [
         "Sponsored by the Friends",
@@ -11515,7 +11271,7 @@
         "required": true,
         "full": false,
         "capacity": "40",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Technology Courses",
@@ -11603,7 +11359,7 @@
     },
     {
       "id": "6a80a6b41401fd00606c7c66",
-      "title": "September Nonfiction Book Club Reads, \"Crying in H Mart\"",
+      "title": "Nonfiction Book Club Reads, \"Crying in H Mart\"",
       "library": "Charlotte Mecklenburg Library",
       "library_slug": "cmlibrary",
       "description": "As a kickoff to our Nonfiction Book Club, join us for a special reading and discussion of Crying in H Mart by Michelle Zauner, a poignant memoir exploring family, identity, grief, and cultural heritage. In this relaxed and welcoming gathering, we'll spend time reading together in a peaceful atmosphere with soft music, giving everyone an opportunity to engage with the book at their own pace. Following our shared reading time, we'll enjoy a thoughtful discussion centered on the memoir's themes, personal reflections, and the power of storytelling. A physical copy of the book will be provided to all registered participants while supplies last. Come connect with fellow readers, share perspectives, and celebrate the stories that help us better understand ourselves and one another. About WelcomeCLT WelcomeCLT is a Charlotte Mecklenburg Library initiative that helps new residents, including international newcomers, connect with resources, information, and community as they make Charlotte their home. This year's theme, Stories We Share: The Courage to Connect, highlights the power of storytelling to foster understanding, belonging, and meaningful connections across cultures and experiences.",
@@ -11848,7 +11604,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -14673,7 +14429,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -15047,7 +14803,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Discussion",
@@ -16293,6 +16049,43 @@
       "city": "Brookville"
     },
     {
+      "id": "6a8b1c78b20478002994e4e7",
+      "title": "The Book Afterparty Book Club",
+      "library": "San Diego County Library",
+      "library_slug": "sdcl",
+      "description": "Welcome to the Book Afterparty Book Club...the conversation doesn't end when the book club does!The Book Afterparty Book Club is a monthly gathering where attendees revisit books discussed in the library's book clubs during the previous month. If you missed Cultural Connections, Fiction Addiction or Nonfiction Affliction, no worries. Just show up and talk about any of those books.You can also share what else you have been reading, exchange recommendations, and talk about anything happening in the world of books.No assigned reading required!",
+      "link": "https://sdcl.bibliocommons.com/events/6a8b1c78b20478002994e4e7",
+      "image": "http://sdcl.bibliocommons.com/events/uploads/images/full/15706881ee52106f7cdf31a7c337fa0d/EventsCalendarBanner-BookDiscussion.png",
+      "start_date": "2026-09-05T18:00:00+00:00",
+      "end_date": "2026-09-05T19:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "San Marcos",
+        "street": "Civic Center Drive",
+        "number": "2",
+        "city": "San Marcos",
+        "state": "CA",
+        "zip": "92069",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "Older Adults 55+",
+        "English"
+      ],
+      "book": null,
+      "state": "CA",
+      "state_full": "California",
+      "city": "San Marcos"
+    },
+    {
       "id": "68c08f6fa6985aea02a06278",
       "title": "Close Encounters of the Book Kind: When The Moon Hits Your Eye",
       "library": "St. Louis Public Library - City",
@@ -16882,7 +16675,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Adult Events",
@@ -17485,7 +17278,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -18895,7 +18688,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Current Events, Lectures, Discussions",
@@ -19586,6 +19379,42 @@
       "state": "CO",
       "state_full": "Colorado",
       "city": "Englewood"
+    },
+    {
+      "id": "6a8b62a22656cb0046726f03",
+      "title": "Romantasy Book Club",
+      "library": "Denton Public Library",
+      "library_slug": "denton",
+      "description": "Have you enjoyed the enchanting realms of A Court of Thorns and Roses or Fourth Wing, and find yourself yearning for more? From star-crossed lovers to epic quests, discuss tales of that ignite passion and the imagination. Connect with fellow romantasy fans and find your next spellbinding read. 9/9/26 - Curious Tides by Pascale Lacelle",
+      "link": "https://denton.bibliocommons.com/events/6a8b62a22656cb0046726f03",
+      "image": "http://denton.bibliocommons.com/events/uploads/images/full/cffa13352e492bf35cc1d535845fd4ee/RomantasyBookClub.png",
+      "start_date": "2026-09-09T23:30:00+00:00",
+      "end_date": "2026-09-10T01:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "North Branch Library",
+        "street": "N. Locust St.",
+        "number": "3020",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "76209",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Clubs and Discussion Groups",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "TX",
+      "state_full": "Texas",
+      "city": "Denton"
     },
     {
       "id": "68cdb894bcdffd0b6496cf20",
@@ -20909,9 +20738,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "15",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Clubs",
@@ -22385,7 +22214,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "2"
       },
       "categories": [
         "Sponsored by the Friends",
@@ -24381,9 +24210,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "20",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -25535,7 +25364,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "28"
+        "registered": "27"
       },
       "categories": [
         "Book Discussions & Movies",
@@ -26307,6 +26136,36 @@
       "city": "San Rafael"
     },
     {
+      "id": "69a6095f1e64afd01e5f4599",
+      "title": "聖馬刁縣圖書館中文讀書會 | Chinese Book Club",
+      "library": "San Mateo County Libraries",
+      "library_slug": "smcl",
+      "description": "歡迎參加我們的網上中文讀書會。我們每月第三個星期三下午四點都會一起討論一本書。只要您年滿十六歲，不管您住在哪裡，我們都歡迎您參加。歡迎自由閱讀中文版或英文版，但討論會主要以中文舉行。本活動將在Zoom上舉行，您在註冊後會收到會議連結與密碼。我們期待與您網上見！ Join our virtual monthly Chinese book club on Zoom! We meet online every third Wednesday of the month at 4 PM and the club is open to everyone 16 and older, regardless of where you live. Registration is required to attend. Please feel free to read the book in Chinese or English, but the discussion is primarily in Mandarin Chinese. We look forward to seeing you soon! For more information, please visit our book list page. 請到以下連結參考更多資訊 REGISTER HERE",
+      "link": "https://smcl.bibliocommons.com/events/69a6095f1e64afd01e5f4599",
+      "image": "",
+      "start_date": "2026-09-16T23:00:00+00:00",
+      "end_date": "2026-09-17T00:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Bilingual",
+        "Book Clubs",
+        "Adults (19+)",
+        "Chinese (Simp)",
+        "Chinese (Trad)"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
+    },
+    {
       "id": "69f50d49b1e102b0f3d914cc",
       "title": "Storytime Explorers |Cuentureros",
       "library": "Sno-Isle Libraries",
@@ -26599,6 +26458,44 @@
       "state": "AB",
       "state_full": "Alberta",
       "city": "Red Deer"
+    },
+    {
+      "id": "6a7222bef213992f00c97399",
+      "title": "Coal Creek Library Book Club at Freedom Street Social",
+      "library": "Jefferson County Public Library",
+      "library_slug": "jeffcolibrary",
+      "description": "Explore a new book each month with the Library at Freedom Street Social. Every third Wednesday, head to the mezzanine located at 15177 Candelas Pkwy, Arvada, Colo. 80007 for a relaxed evening of fun and light discussion. This program is a continuation of the Northwest Library Book Club. This Month's Title: What Rose Forgot",
+      "link": "https://jeffcolibrary.bibliocommons.com/events/6a7222bef213992f00c97399",
+      "image": "http://jeffcolibrary.bibliocommons.com/events/uploads/images/full/b9fbee8228a6a52f460e822a04769644/16851_CC_LibraryBookClubFreedomStreet_Aug-Nov_2026_BE.png",
+      "start_date": "2026-09-17T01:00:00+00:00",
+      "end_date": "2026-09-17T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Freedom Street Social",
+        "street": "Candelas Parkway",
+        "number": "15177",
+        "city": "Arvada",
+        "state": "CO",
+        "zip": "80007",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Off-Site",
+        "60+",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "CO",
+      "state_full": "Colorado",
+      "city": "Arvada"
     },
     {
       "id": "6a7a420ac7e02e3d006f5204",
@@ -27241,7 +27138,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -27990,7 +27887,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Discussion",
@@ -30410,9 +30307,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "20",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Events",
@@ -31108,7 +31005,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -39174,7 +39071,7 @@
         "required": true,
         "full": false,
         "capacity": "80",
-        "registered": "72"
+        "registered": "75"
       },
       "categories": [
         "Booktoberfest",
@@ -41499,6 +41396,45 @@
       "city": "Spotsylvania"
     },
     {
+      "id": "6a664889e9de6536001e63f9",
+      "title": "Snack Chat:  Harry Potter and the Deathly Hallows",
+      "library": "Palm Beach County Library System",
+      "library_slug": "pbclibrary",
+      "description": "Journey through Hogwarts in our monthly Harry Potter Snack Chat book club. We’ll chat about magical moments, friendship, and favorite chapters while enjoying snacks. Ages 12-17. This month's book is \"Harry Potter and the Deathly Hallows\" by J.K. Rowling. Available as an eBook and audiobook in the cloud Library app.",
+      "link": "https://pbclibrary.bibliocommons.com/events/6a664889e9de6536001e63f9",
+      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
+      "start_date": "2026-10-21T19:30:00+00:00",
+      "end_date": "2026-10-21T20:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Acreage Branch",
+        "street": "Orange Blvd",
+        "number": "15801",
+        "city": "Loxahatchee",
+        "state": "FL",
+        "zip": "33470",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "12",
+        "registered": "0"
+      },
+      "categories": [
+        "Sponsored by the Friends",
+        "Book Discussion",
+        "Harry Potter",
+        "Rediscover Reading",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "FL",
+      "state_full": "Florida",
+      "city": "Loxahatchee"
+    },
+    {
       "id": "6952dc6a2c65973d0014cf19",
       "title": "Shelf Indulgence Book Club",
       "library": "St. Tammany Parish Library",
@@ -42078,6 +42014,44 @@
       "state": "NS",
       "state_full": "Nova Scotia",
       "city": "Musquodoboit Harbour"
+    },
+    {
+      "id": "69dfeb3c8ddc1caf5f1d2973",
+      "title": "Book Clubbing : Book Discussion",
+      "library": "Palm Beach County Library System",
+      "library_slug": "pbclibrary",
+      "description": "Join your local librarians for an evening at the Jupiter Branch for a little “You-Time”. Make friends, discover new books, enjoy engaging discussions. In September we'll be reading: Please call the Branch for the upcoming title.",
+      "link": "https://pbclibrary.bibliocommons.com/events/69dfeb3c8ddc1caf5f1d2973",
+      "image": "http://pbclibrary.bibliocommons.com/events/uploads/images/full/ccf2444b08d6df71eefc8e9f125908f0/BookDiscussion.png",
+      "start_date": "2026-10-22T22:30:00+00:00",
+      "end_date": "2026-10-22T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Jupiter Branch",
+        "street": "Military Trail",
+        "number": "705",
+        "city": "Jupiter",
+        "state": "FL",
+        "zip": "33458",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "20",
+        "registered": "0"
+      },
+      "categories": [
+        "Sponsored by the Friends",
+        "Book Discussion",
+        "Rediscover Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "FL",
+      "state_full": "Florida",
+      "city": "Jupiter"
     },
     {
       "id": "6a12116f46d5f64f7dccaa72",
