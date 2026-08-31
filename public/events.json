@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:52:31.276407Z",
+  "generated_at": "2026-08-31T09:15:38.527712Z",
   "total_events": 1385,
   "total_libraries": 63,
   "events": [
@@ -231,230 +231,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Cleves"
-    },
-    {
-      "id": "6a3de2a80e851028002d4dde",
-      "title": "Quick Reads Book Club",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join our discussion of new and interesting titles, all 250 pages or less. Bring along your recommendations for future meetings. Copies of the book may be picked up at the service desk prior to meeting. June 28: How Can I Help You by Laura Sims July 26: Inciting Joy by Ross Gay August 23: Every Heart a Doorway by Seanen McGuire",
-      "link": "https://hclib.bibliocommons.com/events/6a3de2a80e851028002d4dde",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-08-30T18:00:00+00:00",
-      "end_date": "2026-08-30T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Hopkins",
-        "street": "11th Ave. N.",
-        "number": "22",
-        "city": "Hopkins,",
-        "state": "MN",
-        "zip": "55343",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "How Can I Help You"
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Hopkins,"
-    },
-    {
-      "id": "6a5e70cff213992f00c5aa8f",
-      "title": "Cookbook Club: Provecho by Edgar Castrejon",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join the RJ Daley-Bridgeport Library as we explore various cuisines through different cookbooks. Participants should choose one recipe to prepare and share at the meeting. Attendees will gather, discuss recipes, and enjoy offerings. This month's cookbook is Provecho by Edgar Castrejon.\"100 plant-based Mexican recipes to transform normally meat-heavy dishes into vegan celebrations of family and home\"Edgar Castrejón is a chef, recipe developer, food stylist, and photographer based in the San Francisco Bay Area. While in school studying plant science and nutrition, he launched his Instagram account, where these days his followers tune in for his creative, nourishing, plant-based recipes and beautiful food photography.AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a5e70cff213992f00c5aa8f",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-08-30T19:00:00+00:00",
-      "end_date": "2026-08-30T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Daley, Richard J.-Bridgeport",
-        "street": "S. Halsted Street",
-        "number": "3400",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60608",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": {
-        "title": "Provecho"
-      },
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6a5e70b37b79214226a9e652",
-      "title": "Silent Book Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Readers and introverts unite! Join us for one hour of independent reading of whatever you like. Hang out after to chat about what you're reading (or not, whichever you prefer). Light refreshments will be provided.*We will meet on the terrace (weather permitting).* AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a5e70b37b79214226a9e652",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/f549858cd8172b3dffa3f55be5482698/SummeratCPL.png",
-      "start_date": "2026-08-30T19:00:00+00:00",
-      "end_date": "2026-08-30T20:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Independence",
-        "street": "N. Elston Avenue",
-        "number": "4024",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60618",
-        "details": "Community Meeting Room, 1st floor"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Summer at CPL",
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69c41aa7b48451fc3c0b2da0",
-      "title": "Book Clubs of EPL: Finlay Donovan is Killing It",
-      "library": "Edmonton Public Library",
-      "library_slug": "epl",
-      "description": "Love reading? Love to talk about books you've read? Come join us for lively discussions on all types of fiction and non-fiction. We'll feature different titles and authors each month. Come and share your impressions, thoughts and interpretations of a book we have all read. This month we will be reading Finlay Donovan Is Killing It by Elle CosimanoWhen Finlay is overheard discussing the plot of her new suspense novel with her agent over lunch, she's mistaken for a contract killer, and inadvertently accepts an offer to dispose of a problem husband in order to make ends meet . . . Soon, Finlay discovers that crime in real life is a lot more difficult than its fictional counterpart, as she becomes tangled in a real-life murder investigation.Please login to your account with your library card and then register to reserve a copy of the book.",
-      "link": "https://epl.bibliocommons.com/events/69c41aa7b48451fc3c0b2da0",
-      "image": "http://epl.bibliocommons.com/events/uploads/images/full/95cd1a49f5f18d94290bfa673ac63ed1/2020-10-29%2021_31_44-BookClubs_Relaunch_PROOFS_OCT2020_V2.pdf%20-%20Adobe%20Acrobat%20Reader%20DC.png",
-      "start_date": "2026-08-30T21:00:00+00:00",
-      "end_date": "2026-08-30T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Lois Hole (Callingwood)",
-        "street": "69 Avenue",
-        "number": "17650",
-        "city": "Edmonton",
-        "state": "AB",
-        "zip": "T5T 3X9",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "12"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adult",
-        "English"
-      ],
-      "book": {
-        "title": "Finlay Donovan Is Killing It"
-      },
-      "state": "AB",
-      "state_full": "Alberta",
-      "city": "Edmonton"
-    },
-    {
-      "id": "695427abc967cb41207f2236",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "The conversation group is a drop in group where anyone is welcome to come and practice conversations in English, in a friendly and relaxed environment. This is not a class, but an opportunity to talk with others in English and to meet new people in the community. Especially good for ESOL learners. Free and no bookings are needed.",
-      "link": "https://christchurch.bibliocommons.com/events/695427abc967cb41207f2236",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/91ba262d3c1918139997ca7a0a57d1bf/english-conversation-group.jpg",
-      "start_date": "2026-08-31T02:00:00+00:00",
-      "end_date": "2026-08-31T03:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Matatiki Hornby Centre",
-        "street": "Smarts Road",
-        "number": "25",
-        "city": "Hornby",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Hornby"
-    },
-    {
-      "id": "6a39d9198d1b82ca9f7bd4ad",
-      "title": "Not Just Cards - Social Games Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Mondays at Spreydon Library - Join our group to play Scrabble, Upwords, Chess and Cards, Free, no bookings required",
-      "link": "https://christchurch.bibliocommons.com/events/6a39d9198d1b82ca9f7bd4ad",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
-      "start_date": "2026-08-31T02:00:00+00:00",
-      "end_date": "2026-08-31T04:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Spreydon Library",
-        "street": "Barrington Street",
-        "number": "266",
-        "city": "Spreydon",
-        "state": "Christchurch",
-        "zip": "8024",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Games and gaming",
-        "Adults (ages 18+)",
-        "Older adults (ages 60+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Spreydon"
     },
     {
       "id": "6a1f0c9c52c88111723c824f",
@@ -1738,9 +1514,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "18"
       },
       "categories": [
         "Book Clubs",
@@ -2139,7 +1915,7 @@
         "required": true,
         "full": false,
         "capacity": "40",
-        "registered": "10"
+        "registered": "12"
       },
       "categories": [
         "Technology Courses",
@@ -2357,7 +2133,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -2505,7 +2281,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "9"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -5484,7 +5260,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "4"
       },
       "categories": [
         "Book Discussion",
@@ -5521,7 +5297,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -6171,7 +5947,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "7"
+        "registered": "9"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -7687,7 +7463,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "13"
       },
       "categories": [
         "Book Club",
@@ -8241,7 +8017,7 @@
         "required": true,
         "full": false,
         "capacity": "80",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -8313,7 +8089,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -9411,6 +9187,44 @@
       "city": "Charlotte"
     },
     {
+      "id": "6a85cc472d60e40d5b5b5d32",
+      "title": "Dance Story Time with Tutu School Ballet",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us for a special dance-inspired story time presented by Tutu School Ballet. The program includes an introduction to ballet and dance, a read-aloud from Tutu School's monthly book club selection, dance participation and more! Tutu School is a collection of whimsical, boutique ballet schools for toddlers and children across the US, UK and Canada. The school, especially their Lincoln Park studio, is passionate about helping children nurture their imagination and develop confidence and joy through music and movement. Their mission has recently extended to the Ballet Book Club, a perfect blend of dance and literacy, aimed to help young minds and bodies enjoy the world of dance through storytelling. Each month, Tutu School hand selects a different dance book for our students to dance and read along to. For kids 3 to 8 and their caregivers. How to AttendRegister by 2 p.m. the day before the event. Chicago Public Library cannot collect personal information online from kids 0 to 13. A parent or guardian’s email address must be used to register. As a reminder, school email addresses may block external emails such as those from CPL. Due to space limitations, please include the total number of children and adults as attendees when you register. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6a85cc472d60e40d5b5b5d32",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/95f4fce091d5ad65072099ed3a18a6ed/StoryTime.png",
+      "start_date": "2026-09-05T19:00:00+00:00",
+      "end_date": "2026-09-05T20:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Lincoln Park",
+        "street": "W. Fullerton Avenue",
+        "number": "1150",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60614",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "30",
+        "registered": "30"
+      },
+      "categories": [
+        "Story Time",
+        "Kids: 6 to 13 years",
+        "Preschoolers: 3 to 5 years",
+        "Toddlers: 18 to 36 months",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6a12516d748daf857d599876",
       "title": "Picture Book Pals",
       "library": "Dayton Metro Library",
@@ -9544,7 +9358,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Books & Authors",
@@ -9555,6 +9369,45 @@
       "state": "CA",
       "state_full": "California",
       "city": "San Jose"
+    },
+    {
+      "id": "6a9191485e6fc10d055060c9",
+      "title": "Stitch and Knit Club",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Calling all knitters, crocheters, and embroidery enthusiasts! Come to the library to work on your latest creation at this drop-in club and meet other fiber artists. This is not a class, but all skill levels and questions are welcome. Please bring your own supplies and needles or hooks if continuing to work on a project. Limited supplies will be available if you'd like to start a new project. Books with patterns will be available for check out. No need to register!AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event. ¡Llamando a todos los aficionados al tejido, crochet y bordado! Ven a la biblioteca para trabajar en tu última creación y conocer a otras personas que tambien les encanta el crochet o tejer. Por favor, trae tus propios materiales, incluyendo tu propria aguja o gancho, si vas a continuar con un proyecto. Habra libros de patrones que podrás llevarte prestados. No hay necesidad de registrarse.",
+      "link": "https://chipublib.bibliocommons.com/events/6a9191485e6fc10d055060c9",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/bddb721a0da3c4827398fc08be3e1541/CraftsGamesandPlay.png",
+      "start_date": "2026-09-05T20:00:00+00:00",
+      "end_date": "2026-09-05T21:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Toman",
+        "street": "S. Pulaski Road",
+        "number": "2708",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60623",
+        "details": "Community Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Crafts, Games and Play",
+        "Adults: 18 and up",
+        "Seniors: 55 and up",
+        "Teens: 13 to 19 years",
+        "English",
+        "Spanish"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
     },
     {
       "id": "6a4704647e16a03d00e9da81",
@@ -9752,6 +9605,82 @@
       "state": "KS",
       "state_full": "Kansas",
       "city": "Lawrence"
+    },
+    {
+      "id": "695c61e294297d3600a37af7",
+      "title": "Polish Language Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Let’s catch up and chat about our favorite books, movies, podcasts, events, hobbies, you name it! Discover cool new ideas, brainstorm “what can we do next,” and meet awesome people with inspiring stories. This is also an excellent chance to maintain and practice your Polish language skills, we’ll be speaking only in Polish (no English allowed!). Feel free to bring family members or friends and don’t forget to bring your great sense of humor, which will be the cherry on top! 😊Explore our Polish collection.",
+      "link": "https://christchurch.bibliocommons.com/events/695c61e294297d3600a37af7",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/2dd03a90c4314b057f28a8b18a0cc7d3/polish-language-club.jpg",
+      "start_date": "2026-09-05T23:00:00+00:00",
+      "end_date": "2026-09-06T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Tūranga",
+        "street": "Cathedral Square",
+        "number": "60",
+        "city": "Central Christchurch",
+        "state": "Christchurch",
+        "zip": "8011",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Courses and learning",
+        "Adults (ages 18+)",
+        "New adults (ages 18-24)",
+        "Older adults (ages 60+)",
+        "Polish"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Central Christchurch"
+    },
+    {
+      "id": "69829ca7d34a4e759284905b",
+      "title": "English Conversation Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Group sessions to practise conversations in English. This is not a class, but an opportunity to talk with others in English and meet new people. Great for ESOL learners.Free, no bookings required. You might also like: Road to IELTS Road to IELTS (International English Language Testing System) is your best possible online preparation and practice resource for IELTS. This comprehensive and up-to-date service has over 300 interactive activities, hints and tips on question types as well as downloadable practice tests. And now you can practice Computer-Delivered IELTS too! Academic and General Training modules are available.",
+      "link": "https://christchurch.bibliocommons.com/events/69829ca7d34a4e759284905b",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/9a215b7ef1004aa8ff0e510df2ea1d01/culture-language-flags.jpg",
+      "start_date": "2026-09-06T02:00:00+00:00",
+      "end_date": "2026-09-06T03:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Papanui Library",
+        "street": "Langdons Road",
+        "number": "35",
+        "city": "Papanui",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Culture and language",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Papanui"
     },
     {
       "id": "6a4d3698541102b7fa8afe7c",
@@ -10832,7 +10761,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -11134,9 +11063,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "15",
-        "registered": "13"
+        "registered": "15"
       },
       "categories": [
         "Books on Tap",
@@ -11724,7 +11653,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -12207,7 +12136,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Clubs",
@@ -13459,7 +13388,7 @@
         "required": true,
         "full": false,
         "capacity": "8",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -13809,7 +13738,7 @@
         "required": true,
         "full": false,
         "capacity": "11",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -13884,7 +13813,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "3"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
@@ -15198,7 +15127,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -15905,7 +15834,7 @@
         "required": true,
         "full": true,
         "capacity": "10",
-        "registered": "14"
+        "registered": "13"
       },
       "categories": [
         "Book Clubs",
@@ -16326,7 +16255,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -18583,7 +18512,7 @@
         "required": true,
         "full": false,
         "capacity": "6",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -19084,6 +19013,36 @@
       "state": "MN",
       "state_full": "Minnesota",
       "city": "Saint Paul"
+    },
+    {
+      "id": "69da7435e2a2952aed0e1e18",
+      "title": "Golden Valley Book Club: The Promise",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Join our discussion of new and interesting titles. Hosted by Golden Valley Library. September 14: The Promise by Damon Galgut The link to the live online discussion will be emailed to registrants in advance (within 24 hours of the event). Learn more about participating in virtual library events.",
+      "link": "https://hclib.bibliocommons.com/events/69da7435e2a2952aed0e1e18",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
+      "start_date": "2026-09-14T23:30:00+00:00",
+      "end_date": "2026-09-15T01:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "3"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "The Promise"
+      },
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "6a5fb68ac7e02e3d006aacc9",
@@ -19881,7 +19840,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "35"
+        "registered": "36"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -20218,7 +20177,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Groups",
@@ -20642,7 +20601,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -22996,7 +22955,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "6"
+        "registered": "8"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -23792,7 +23751,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "12"
+        "registered": "13"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -24313,7 +24272,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -25853,47 +25812,6 @@
       "state": "",
       "state_full": "",
       "city": ""
-    },
-    {
-      "id": "6a67ccb3cca66c2f00a66a49",
-      "title": "Romantasy Book Club",
-      "library": "San Mateo County Libraries",
-      "library_slug": "smcl",
-      "description": "Have you ever wanted to immerse yourself in adventure? With swords swinging, magic being cast, and deals being struck? Or how about love that sweeps you off your feet? Rivals to lovers, friends who become closer, and people connecting in ways that almost seem magical? Then come join us at the Romance and Fantasy book club! A book club where we discover the stories of adventurers on quests, romances that can save worlds, and fantastical places that expand beyond our own. We are an adult book club that meets on the 3rd Saturday of each month at 1 PM at the Foster City Library. Our titles are decided by interest, and we always love suggestions! September Reads: Heartless Hunter by Kristen Ciccarelli and A Marvellous Light by Freya Marske Check out our past and upcoming books here!",
-      "link": "https://smcl.bibliocommons.com/events/6a67ccb3cca66c2f00a66a49",
-      "image": "",
-      "start_date": "2026-09-19T20:00:00+00:00",
-      "end_date": "2026-09-19T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Foster City",
-        "street": "East Hillsdale Boulevard",
-        "number": "1000",
-        "city": "Foster City",
-        "state": "CA",
-        "zip": "94404",
-        "details": "Discovery Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "10",
-        "registered": ""
-      },
-      "categories": [
-        "55+ Friendly",
-        "Book Clubs",
-        "Adults (19+)",
-        "Adults (55+)",
-        "English"
-      ],
-      "book": {
-        "title": "club where we discover the stories of adventurers on quests, romances that can save worlds, and fantastical places that expand beyond our own. We are an adult book club that meets on the 3rd Saturday of each month at 1 PM at the Foster City Library. Our titles are decided",
-        "author": "interest, and we always love suggestions!"
-      },
-      "state": "CA",
-      "state_full": "California",
-      "city": "Foster City"
     },
     {
       "id": "69fc3353f89ee1580051182e",
@@ -27549,9 +27467,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "12",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -27765,7 +27683,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -28043,6 +27961,42 @@
       "state": "CA",
       "state_full": "California",
       "city": "Milpitas"
+    },
+    {
+      "id": "696aab8eb0595799c096cda3",
+      "title": "Atherton Book Club",
+      "library": "San Mateo County Libraries",
+      "library_slug": "smcl",
+      "description": "Join us for the Atherton Book Club every fourth Wednesday of the month from 11:00 AM - 12:00 PM. We will be engaging in fun and lively discussions about books each month. We want to create a safe environment where everyone feels welcome and heard. All book club participants can nominate book selections, and we vote on the selection as a group. Please join us!",
+      "link": "https://smcl.bibliocommons.com/events/696aab8eb0595799c096cda3",
+      "image": "",
+      "start_date": "2026-09-23T18:00:00+00:00",
+      "end_date": "2026-09-23T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Atherton",
+        "street": "Dinkelspiel Station Lane",
+        "number": "2",
+        "city": "Atherton",
+        "state": "CA",
+        "zip": "94027",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "15",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults (19+)",
+        "English"
+      ],
+      "book": null,
+      "state": "CA",
+      "state_full": "California",
+      "city": "Atherton"
     },
     {
       "id": "6a26c8ec8ea300e2631bf7a6",
@@ -28469,7 +28423,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -28892,7 +28846,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "7"
       },
       "categories": [
         "Book Discussions & Movies",
@@ -29332,7 +29286,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Clubs",
@@ -30133,7 +30087,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -30211,7 +30165,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Hispanic Heritage Month",
@@ -31176,6 +31130,45 @@
       "city": "Tacoma"
     },
     {
+      "id": "6a790376e30fe48459683b31",
+      "title": "Author Talk - Theresa Shea",
+      "library": "Edmonton Public Library",
+      "library_slug": "epl",
+      "description": "Join Edmonton author Theresa Shea for an engaging conversation celebrating her new novel, Dog Days of Planet Earth. Shea is the bestselling author of The Unfinished Child (set in Edmonton and a popular EPL book club kit), and The Shade Tree, which won the Alberta Book Award and Guernica Prize. Her new book weaves together major environmental and political issues of the mid- to late-20th century that remain urgent today and asks what we’re willing to risk for our personal convictions in a world where powerful and unjust forces often oppose them. She will be joined by Jocelyn Brown, local author and MacEwan instructor, who will guide the discussion. Animal lovers, earth lovers, justice lovers, and story lovers alike won’t want to miss this engaging conversation.The format of the author talk will be a 30 minute reading and discussion of Theresa's Dog Days of Planet Earth. This will be followed by a 30 minute Q & A. To end the talk there will be 30 minutes for bookselling and signing Edmonton Public Library Author Talks feature a wide range of talented writers. Hear authors read from their works, share insights into their own creative processes, and engage in lively Q and A’s.",
+      "link": "https://epl.bibliocommons.com/events/6a790376e30fe48459683b31",
+      "image": "http://epl.bibliocommons.com/events/uploads/images/full/368c2d49bf3a4dea078782b5f93785b3/CCP_InitialPromo_FBHeader_828x315_Feb2017_v5.png",
+      "start_date": "2026-09-30T00:30:00+00:00",
+      "end_date": "2026-09-30T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Strathcona",
+        "street": "104 Street",
+        "number": "8331",
+        "city": "Edmonton",
+        "state": "AB",
+        "zip": "T6E 4E9",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "100",
+        "registered": "3"
+      },
+      "categories": [
+        "Guest Speaker",
+        "Writers and Readers",
+        "Adult",
+        "English"
+      ],
+      "book": {
+        "title": "Dog Days of Planet Earth"
+      },
+      "state": "AB",
+      "state_full": "Alberta",
+      "city": "Edmonton"
+    },
+    {
       "id": "6943423f6724c63d00e77a61",
       "title": "Martinez Library Book Club",
       "library": "Contra Costa County Library",
@@ -31465,7 +31458,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Club",
@@ -32944,7 +32937,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Adult Programs",
@@ -33177,7 +33170,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "9"
       },
       "categories": [
         "Book Clubs",
@@ -34697,7 +34690,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -35064,7 +35057,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "3"
       },
       "categories": [
         "Halloween",
@@ -38141,7 +38134,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "3"
       },
       "categories": [
         "Halloween",
@@ -38841,7 +38834,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -39559,7 +39552,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "8"
+        "registered": "10"
       },
       "categories": [
         "Book Clubs",
@@ -41008,7 +41001,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "3"
       },
       "categories": [
         "Halloween",
@@ -43042,7 +43035,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "3"
       },
       "categories": [
         "Halloween",
@@ -43482,7 +43475,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -44178,7 +44171,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -46032,7 +46025,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -46844,7 +46837,7 @@
         "required": true,
         "full": true,
         "capacity": "30",
-        "registered": "30"
+        "registered": "31"
       },
       "categories": [
         "Book Discussions & Movies",
@@ -48903,7 +48896,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -49055,7 +49048,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs",
@@ -50224,7 +50217,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Clubs",
