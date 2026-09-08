@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:50:49.127868Z",
+  "generated_at": "2026-09-08T07:46:20.339735Z",
   "total_events": 1379,
   "total_libraries": 63,
   "events": [
@@ -115,156 +115,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Harrison"
-    },
-    {
-      "id": "6a440d5c6db61d28009912e6",
-      "title": "Online Book Club: Hamnet",
-      "library": "Greene County Public Library",
-      "library_slug": "greenelibrary",
-      "description": "Join Erin for a blog conversation with a new book each month. This month: Hamnet. --- Don't want to commit to a definite book club date and time? No worries! Read at your own pace and join Erin's weekly blog conversation about a different book each month. September's selection is Hamnet by Maggie O'Farrell.",
-      "link": "https://greenelibrary.bibliocommons.com/events/6a440d5c6db61d28009912e6",
-      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/6581ac15c0bdfebac31ba83cf5b0d301/hamnet.jpg",
-      "start_date": "2026-09-07T04:00:00+00:00",
-      "end_date": "2026-09-08T03:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Cedarville Community Library",
-        "street": "South Miller Street",
-        "number": "20",
-        "city": "Cedarville",
-        "state": "OH",
-        "zip": "45314",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "On Demand",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "OH",
-      "state_full": "Ohio",
-      "city": "Cedarville"
-    },
-    {
-      "id": "6a04add6e8af4a2f00723b44",
-      "title": "Monthly Book Club @ Richard and Meg Weekley Community Center",
-      "library": "Harris County Public Library",
-      "library_slug": "hcpl",
-      "description": "September 2026 Book Discussion: TBADo you love reading? Do you wish you read more and need motivation? Then join our flourishing Book Club over at Richard and Meg Weekley Community Center, now in its third year! We choose a new book every month and gather to talk about it the following month. Physical copies of each book are provided from the Harris County Public Library collection and can be picked up at the front desk or at the meeting. If you are interested in joining the book club, pre-registration is encouraged but not required. To register, visit: https://anc.apm.activecommunit...",
-      "link": "https://hcpl.bibliocommons.com/events/6a04add6e8af4a2f00723b44",
-      "image": "http://hcpl.bibliocommons.com/events/uploads/images/full/e6cd3fd883954e249e32620f2725b4a0/Web-Events-BooksReading2.png",
-      "start_date": "2026-09-07T15:00:00+00:00",
-      "end_date": "2026-09-07T16:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Richard & Meg Weekley Community Center",
-        "street": "Greenhouse Road",
-        "number": "8440",
-        "city": "",
-        "state": "TX",
-        "zip": "77433",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Mobile Outreach Librarians",
-        "Books & Reading",
-        "Adults",
-        "Senior Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "TX",
-      "state_full": "Texas",
-      "city": ""
-    },
-    {
-      "id": "69112d45a64b7d0d61f7246a",
-      "title": "Book Discussion Group",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "If you love reading and want to talk about books with other book lovers, join the Book Discussion Scheme at Tūranga. Group members pay a sub for the year/part year. Held on the second Tuesday each month 6-7pm Places are limited so please phone or email to enquire about availability and cost.",
-      "link": "https://christchurch.bibliocommons.com/events/69112d45a64b7d0d61f7246a",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-09-08T06:00:00+00:00",
-      "end_date": "2026-09-08T07:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Tūranga",
-        "street": "Cathedral Square",
-        "number": "60",
-        "city": "Central Christchurch",
-        "state": "Christchurch",
-        "zip": "8011",
-        "details": "Tuhurutanga | Discovery"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Central Christchurch"
-    },
-    {
-      "id": "69260f1f65ec39c100122689",
-      "title": "Spanish Book Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Love sharing your favourite reads? Come and join other Spanish speaking book lovers in our friendly, relaxed library environment. Free, no bookings required. This club meets on the 2nd Tuesday of each month.",
-      "link": "https://christchurch.bibliocommons.com/events/69260f1f65ec39c100122689",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/ad364120ce005f324f537e53ac65c6cb/spanish-book-cllub.jpg",
-      "start_date": "2026-09-08T06:30:00+00:00",
-      "end_date": "2026-09-08T07:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Upper Riccarton Library",
-        "street": "Main South Road",
-        "number": "71",
-        "city": "Sockburn",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Sockburn"
     },
     {
       "id": "6a90918a36204e08fbb7a757",
@@ -845,7 +695,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "7"
+        "registered": "6"
       },
       "categories": [
         "Book Clubs and Reading",
@@ -1338,7 +1188,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "6"
+        "registered": "9"
       },
       "categories": [
         "Book Club",
@@ -1717,9 +1567,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "13"
       },
       "categories": [
         "Books on Tap",
@@ -2238,7 +2088,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "1"
+        "registered": "0"
       },
       "categories": [
         "Book Clubs and Reading",
@@ -2276,7 +2126,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "2"
+        "registered": "1"
       },
       "categories": [
         "Book Clubs",
@@ -2495,7 +2345,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "11"
+        "registered": "10"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -2563,7 +2413,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "7"
+        "registered": "6"
       },
       "categories": [
         "Pride",
@@ -3015,7 +2865,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "12"
+        "registered": "11"
       },
       "categories": [
         "Book Clubs",
@@ -3196,9 +3046,9 @@
       "location": {},
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "20",
-        "registered": "20"
+        "registered": "19"
       },
       "categories": [
         "Books & Authors",
@@ -5005,7 +4855,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "21"
+        "registered": "24"
       },
       "categories": [
         "Events",
@@ -5378,7 +5228,7 @@
         "required": true,
         "full": false,
         "capacity": "11",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -5453,7 +5303,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -7587,7 +7437,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -7956,7 +7806,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Club",
@@ -9523,7 +9373,7 @@
         "required": true,
         "full": false,
         "capacity": "225",
-        "registered": "220"
+        "registered": "222"
       },
       "categories": [
         "Omaha Reads",
@@ -11706,7 +11556,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Get Outside Book Club",
@@ -12465,6 +12315,44 @@
       "city": "Highlands"
     },
     {
+      "id": "675655e98fc0a32800102a45",
+      "title": "Papanui Book Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Love sharing your favourite reads? Come and join other book lovers in our friendly, relaxed library environment. No bookings required. Held on the third Tuesday of the month at 10am. Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/675655e98fc0a32800102a45",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-09-14T22:00:00+00:00",
+      "end_date": "2026-09-14T23:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Papanui Library",
+        "street": "Langdons Road",
+        "number": "35",
+        "city": "Papanui",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Papanui"
+    },
+    {
       "id": "698b418181b67dfe32a5772e",
       "title": "Far Horizons Book Club",
       "library": "Charlotte Mecklenburg Library",
@@ -12876,6 +12764,44 @@
       "state": "GA",
       "state_full": "Georgia",
       "city": "Johns Creek"
+    },
+    {
+      "id": "694ae6721e64afd01e5086bd",
+      "title": "Matuku Takotako-Sumner Library Book Discussion Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "For those who love reading and want to share in discussion with other friendly book lovers. We subscribe to the Book Discussion Scheme so there is a cost involved. Held on the third Tuesday of the month at 11am. Bookings essential. Please phone or email to enquire about availability and cost. Browse all book clubs and reading groups at your libraries.",
+      "link": "https://christchurch.bibliocommons.com/events/694ae6721e64afd01e5086bd",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
+      "start_date": "2026-09-14T23:00:00+00:00",
+      "end_date": "2026-09-15T00:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Matuku Takotako: Sumner Centre",
+        "street": "Wakefield Avenue",
+        "number": "14-16",
+        "city": "Sumner",
+        "state": "Christchurch",
+        "zip": "8081",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book clubs and reading groups",
+        "Books and reading",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Sumner"
     },
     {
       "id": "6a46950d48c98c3600a3eaa0",
@@ -14462,7 +14388,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -14534,7 +14460,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -16926,7 +16852,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "42"
+        "registered": "45"
       },
       "categories": [
         "Family Programs",
@@ -17506,6 +17432,47 @@
       "state": "OH",
       "state_full": "Ohio",
       "city": "Beavercreek"
+    },
+    {
+      "id": "6a4c404686636e3d005318f1",
+      "title": "Teen \"Bring Your Own Book\" Book Club",
+      "library": "Harris County Public Library",
+      "library_slug": "hcpl",
+      "description": "Join our Teen \"Bring Your Own Book\" Book Club for an engaging meeting and discover new favorite stories and authors! This month’s optional theme is Hispanic Heritage Month—bring a book by a Hispanic author or featuring Hispanic culture and let’s celebrate diverse voices together. Snacks, great conversation, and a love of books guaranteed!",
+      "link": "https://hcpl.bibliocommons.com/events/6a4c404686636e3d005318f1",
+      "image": "http://hcpl.bibliocommons.com/events/uploads/images/full/6e9521bf71f6531f1dace47a5324e2fd/Web-Events-HHM.png",
+      "start_date": "2026-09-16T21:30:00+00:00",
+      "end_date": "2026-09-16T22:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Stratford Branch Library",
+        "street": "Stratford Street",
+        "number": "509",
+        "city": "Highlands",
+        "state": "TX",
+        "zip": "77562",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Hispanic Heritage",
+        "Books & Reading",
+        "Teens",
+        "Tweens",
+        "English"
+      ],
+      "book": {
+        "title": "Book Club for an engaging meeting and discover new favorite stories and authors! This month’s optional theme is Hispanic Heritage Month—bring a book",
+        "author": "a Hispanic author or featuring Hispanic culture and let’s celebrate diverse voices together. Snacks, great conversation, and a love of books guaranteed!"
+      },
+      "state": "TX",
+      "state_full": "Texas",
+      "city": "Highlands"
     },
     {
       "id": "6a91f396b204780029965030",
@@ -18342,7 +18309,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -18698,7 +18665,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "0"
+        "registered": "2"
       },
       "categories": [
         "Book Discussion",
@@ -18917,7 +18884,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "6"
+        "registered": "5"
       },
       "categories": [
         "Book Club",
@@ -19184,7 +19151,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Club",
@@ -19680,6 +19647,43 @@
       "city": "Tucson"
     },
     {
+      "id": "6a4273b1523d340f7c5b6642",
+      "title": "Girls Who Code Club",
+      "library": "Greene County Public Library",
+      "library_slug": "greenelibrary",
+      "description": "Our @GirlsWhoCode Club for 3-5th graders is about more than just coding. Join 9-weeks of sessions on Thursdays. Reg req--- This session of Girls Who Code is designed for students who have some coding experience. Girls Who Code Clubs are spaces where everyone is invited to join our group of supportive peers and use Computer Science to change the world. When you join a Club, you will learn by reading excerpts from our books Learn to Code and Change the World and The Friendship Code, practice new skills by completing fun and simple online coding tutorials, and build community through interactive activities with the rest of your Club. Our 3-5th Grade Clubs help build the foundational skills and understanding of computer science concepts and sisterhood through a reading discussion and coding activities. In order to build the skills you need to make an impact, you will learn how to code from our fun online tutorials and activities that will help you build fun projects to share with friends and family.",
+      "link": "https://greenelibrary.bibliocommons.com/events/6a4273b1523d340f7c5b6642",
+      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/9b9c4bc703b99553a5473cd67923506d/Programheaders(6).png",
+      "start_date": "2026-09-17T21:30:00+00:00",
+      "end_date": "2026-09-17T22:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Winters-Bellbrook Community Library",
+        "street": "West Franklin Street",
+        "number": "57",
+        "city": "Bellbrook",
+        "state": "OH",
+        "zip": "45305",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "10",
+        "registered": "10"
+      },
+      "categories": [
+        "Class",
+        "In Person",
+        "Kids",
+        "English"
+      ],
+      "book": null,
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Bellbrook"
+    },
+    {
       "id": "6a74a051cca66c2f00a89c7c",
       "title": "Online Tween Book Club",
       "library": "Johnson County Library",
@@ -19993,7 +19997,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "11"
+        "registered": "12"
       },
       "categories": [
         "Book Club",
@@ -23598,7 +23602,7 @@
         "required": true,
         "full": false,
         "capacity": "18",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -23896,7 +23900,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -25516,7 +25520,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "4"
+        "registered": "5"
       },
       "categories": [
         "Book Discussions",
@@ -26689,7 +26693,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -29854,7 +29858,7 @@
         "required": true,
         "full": false,
         "capacity": "40",
-        "registered": "23"
+        "registered": "25"
       },
       "categories": [
         "Book Clubs",
@@ -30199,7 +30203,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -31118,7 +31122,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Clubs",
@@ -32053,7 +32057,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -32238,7 +32242,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -36407,7 +36411,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book Groups",
@@ -36557,7 +36561,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -38126,7 +38130,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "3"
+        "registered": "4"
       },
       "categories": [
         "Book clubs",
@@ -39891,7 +39895,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Club",
@@ -42238,7 +42242,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "14"
+        "registered": "15"
       },
       "categories": [
         "Book Clubs",
@@ -43165,7 +43169,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -45647,7 +45651,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book clubs",
@@ -48153,7 +48157,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
