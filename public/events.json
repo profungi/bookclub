@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:08:48.560222Z",
+  "generated_at": "2026-10-13T10:02:28.052849Z",
   "total_events": 1362,
   "total_libraries": 63,
   "events": [
@@ -38,1372 +38,6 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Harrison"
-    },
-    {
-      "id": "6a8f1a2969166f088b9505d0",
-      "title": "Online Book Club: The Housemaid",
-      "library": "Greene County Public Library",
-      "library_slug": "greenelibrary",
-      "description": "Join Erin for a blog conversation with a new book each month. This month: The Housemaid. --- Don't want to commit to a definite book club date and time? No worries! Read at your own pace and join Erin's weekly blog conversation about a different book each month. October's selection is The Housemaid by Freida McFadden.",
-      "link": "https://greenelibrary.bibliocommons.com/events/6a8f1a2969166f088b9505d0",
-      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/75205ffd6a4192f4d9ed514dd3481e13/thehousemaid.jpg",
-      "start_date": "2026-10-12T04:00:00+00:00",
-      "end_date": "2026-10-13T03:59:59+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Cedarville Community Library",
-        "street": "South Miller Street",
-        "number": "20",
-        "city": "Cedarville",
-        "state": "OH",
-        "zip": "45314",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "On Demand",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "OH",
-      "state_full": "Ohio",
-      "city": "Cedarville"
-    },
-    {
-      "id": "6a329b8190cc4e3a790ec149",
-      "title": "\"Cup of Joe and a Book\" Book Club",
-      "library": "Public Library of Youngstown and Mahoning County",
-      "library_slug": "plymc",
-      "description": "For this month we will read Pumpkin Spice Cafe by Laurie Gilmore. Be ready for great discussions all while enjoying a cup of \"joe\".",
-      "link": "https://plymc.bibliocommons.com/events/6a329b8190cc4e3a790ec149",
-      "image": "http://plymc.bibliocommons.com/events/uploads/images/full/e2b551f917e6b92cc3000a2ecd7e4443/Event_Type_Feature_LargeImage_1780x445_BooksandMedia.jpg",
-      "start_date": "2026-10-12T13:30:00+00:00",
-      "end_date": "2026-10-12T14:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Springfield",
-        "street": "Main St",
-        "number": "10418",
-        "city": "New Middletown",
-        "state": "OH",
-        "zip": "44442",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Books and Media",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Pumpkin Spice Cafe"
-      },
-      "state": "OH",
-      "state_full": "Ohio",
-      "city": "New Middletown"
-    },
-    {
-      "id": "6a3e8c3c5f884f9a10d9198e",
-      "title": "Cozy Readers Book Club",
-      "library": "Kent District Library",
-      "library_slug": "kdl",
-      "description": "Join a fun, informal discussion of great books. This month, we'll discuss Killers of A Certain Age by Deanna Raybourn.",
-      "link": "https://kdl.bibliocommons.com/events/6a3e8c3c5f884f9a10d9198e",
-      "image": "",
-      "start_date": "2026-10-12T14:00:00+00:00",
-      "end_date": "2026-10-12T15:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Kentwood (Richard L. Root) Branch",
-        "street": "Breton SE",
-        "number": "4950",
-        "city": "Kentwood",
-        "state": "Michigan",
-        "zip": "49508",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Discussion",
-        "Adults (18+)",
-        "Seniors (55+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Michigan",
-      "state_full": "Michigan",
-      "city": "Kentwood"
-    },
-    {
-      "id": "6a1eea728ea300e2631a644b",
-      "title": "Book Club | Chapter Chat",
-      "library": "Stark Library",
-      "library_slug": "starklibrary",
-      "description": "Book Title: Finding Me by Viola DavisDip into stories without the commitment! Chapter Chat lets you hear the first chapters, share your guesses, and decide if you’ll check it out or move on. Easy, fun, and pressure-free! FAQs Will the book be available for me to borrow? Yes! Click the link above, stop in your local branch, or call 330.452.0665 to reserve your copy. Where can I find books by my favorite author, explore similar authors, or find the next book in the series I'm reading? You can get recommendations from your librarian by filling out this form for your next read. You may also want to check out our blog, where librarians highlight other favorites from bestselling authors.",
-      "link": "https://starklibrary.bibliocommons.com/events/6a1eea728ea300e2631a644b",
-      "image": "http://starklibrary.bibliocommons.com/events/uploads/images/full/3369e3219342c78de1c53765e09aeb28/BookClub.jpg",
-      "start_date": "2026-10-12T15:00:00+00:00",
-      "end_date": "2026-10-12T16:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "DeHoff Memorial Branch",
-        "street": "Hartford Ave SE",
-        "number": "216",
-        "city": "Canton",
-        "state": "OH",
-        "zip": "44707",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "2"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "Older Adults",
-        "English"
-      ],
-      "book": {
-        "title": "s",
-        "author": "my favorite author, explore similar authors, or find the next book in the series I'm reading?"
-      },
-      "state": "OH",
-      "state_full": "Ohio",
-      "city": "Canton"
-    },
-    {
-      "id": "6a34332b43b41b3d006f6a71",
-      "title": "Lakeside Lit Book Club",
-      "library": "Kent District Library",
-      "library_slug": "kdl",
-      "description": "Join a fun, informal discussion of great books. This month, we'll discuss A Guardian and A Thief by Megha Majumdar.",
-      "link": "https://kdl.bibliocommons.com/events/6a34332b43b41b3d006f6a71",
-      "image": "",
-      "start_date": "2026-10-12T17:00:00+00:00",
-      "end_date": "2026-10-12T18:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "East Grand Rapids Branch",
-        "street": "Lakeside Drive SE",
-        "number": "746",
-        "city": "East Grand Rapids",
-        "state": "Michigan",
-        "zip": "49506",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Discussion",
-        "Adults (18+)",
-        "Seniors (55+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Michigan",
-      "state_full": "Michigan",
-      "city": "East Grand Rapids"
-    },
-    {
-      "id": "6abe9f0a901b02002cbf4b39",
-      "title": "Community Meeting: Catalina Book Club",
-      "library": "Pima County Public Library",
-      "library_slug": "pima",
-      "description": "Community meeting. This is not a library-sponsored event. Date and time may change without notice.",
-      "link": "https://pima.bibliocommons.com/events/6abe9f0a901b02002cbf4b39",
-      "image": "http://pima.bibliocommons.com/events/uploads/images/full/2e5c2d1a0d30edea93a73e60e496f6f0/CommunityMeeting.png",
-      "start_date": "2026-10-12T17:00:00+00:00",
-      "end_date": "2026-10-12T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Oro Valley Public Library",
-        "street": "W. Naranja Dr.",
-        "number": "1305",
-        "city": "Oro Valley",
-        "state": "AZ",
-        "zip": "85737",
-        "details": "Program Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Community Meeting",
-        "Adults (18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "AZ",
-      "state_full": "Arizona",
-      "city": "Oro Valley"
-    },
-    {
-      "id": "6a725e9ea5e5f025a9ce5558",
-      "title": "High Intermediate / Advanced ESL Book Club - The Joy Luck Club",
-      "library": "Pleasanton Public Library",
-      "library_slug": "pleasantonlibrary",
-      "description": "Our high intermediate / advanced ESL Book Club will read The Joy Luck Club by Amy Tan. This book club is best for high intermediate / advanced English learners. Students will read at home each week. Then we will meet as a group once a week to talk about the story, learn new vocabulary, and practice conversation. Book club will be led by Sheila Jurik. Dates: August 31; September 14, 21, 28 (No class September 7); October 5, 12, 19, 26; November 2, 9, 16, 30 (No class November 23); December 7, 14 Meeting Time: 10:15am - 11:45am Where: Back tables along the windows Led by: Sheila JurikRegistration is open now! Book club is limited to 9 participants. Books will be provided for registered participants to keep. Please consider your schedule and do not register if you will miss more than one meeting. The Joy Luck Club description:In 1949, four Chinese immigrant women in San Francisco form the Joy Luck Club to play mah jong, share memories, and support one another through loss and hope. As mothers and daughters confront family secrets, cultural expectations, and generational conflict, they discover how love can help heal misunderstanding and bridge the past with the future.",
-      "link": "https://pleasantonlibrary.bibliocommons.com/events/6a725e9ea5e5f025a9ce5558",
-      "image": "http://pleasantonlibrary.bibliocommons.com/events/uploads/images/full/caae821d0cfe80cb9bd159ce07cea524/JoyLuckClub.jpg",
-      "start_date": "2026-10-12T17:15:00+00:00",
-      "end_date": "2026-10-12T18:45:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Pleasanton Library",
-        "street": "Old Bernal Avenue",
-        "number": "400",
-        "city": "Pleasanton",
-        "state": "California",
-        "zip": "94566",
-        "details": "Back tables along the windows"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "9",
-        "registered": "11"
-      },
-      "categories": [
-        "Adult Literacy/ESL",
-        "Books & Reading",
-        "Adult Literacy",
-        "English"
-      ],
-      "book": {
-        "title": "club is best for high intermediate / advanced English learners. Students will read at home each week. Then we will meet as a group once a week to talk about the story, learn new vocabulary, and practice conversation. Book club will be led",
-        "author": "Sheila Jurik."
-      },
-      "state": "California",
-      "state_full": "California",
-      "city": "Pleasanton"
-    },
-    {
-      "id": "69499501293fe254002a7059",
-      "title": "Cookbook Club: The World Central Kitchen Cookbook",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join Jenny and the Dunning Cookbook Club for a discussion of a monthly cookbook pick and recipe review. Check out the book, test out as many recipes as you like, then we'll dish on what worked and what didn't! If you'd like to bring a recipe from the book, we can provide plates and utensils to make it a partym In their first cookbook, WCK shares recipes inspired by the many places they've cooked following disasters as well as inspiring narratives from the chefs and volunteers on the front lines. Photographs captured throughout the world highlight community and hope while stunning food photography showcases the mouthwatering recipes. Each chapter reflects a value of the organization. 'Urgency' focuses on food that can be eaten on the go, including the Lahmajoun Flatbread served after a devastating explosion rocked Beirut in 2020. In 'Hope,' readers will find soups, stews, and comforting meals such as Ukrainian Borsch served to families living through an unthinkable invasion and Chicken Chili Verde prepared for California firefighters. Famous WCK supporters have shared recipes too, like Breakfast Tacos from Michelle Obama and a Lemon Olive Oil Cake from Meghan, The Duchess of Sussex. Other contributors include Marcus Samuelsson, Ayesha Curry, Reem Assil, Brooke Williamson, Emeril Lagasse, Tyler Florence, Guy Fieri, Sanjeev Kapoor, and Eric Adjepong. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/69499501293fe254002a7059",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-10-12T18:00:00+00:00",
-      "end_date": "2026-10-12T19:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Dunning",
-        "street": "W. Cornelia Avenue",
-        "number": "7455",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60634",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "Seniors: 55 and up",
-        "English"
-      ],
-      "book": {
-        "title": ", WCK shares recipes inspired",
-        "author": "the many places they've cooked following disasters as well as inspiring narratives from the chefs and volunteers on the front lines. Photographs captured throughout the world highlight community and hope while stunning food photography showcases the mouthwatering recipes. Each chapter reflects a value of the organization. 'Urgency' focuses on food that can be eaten on the go, including the Lahmajoun Flatbread served after a devastating explosion rocked Beirut in 2020. In 'Hope,' readers will find soups, stews, and comforting meals such as Ukrainian Borsch served to families living through an unthinkable invasion and Chicken Chili Verde prepared for California firefighters. Famous WCK supporters have shared recipes too, like Breakfast Tacos from Michelle Obama and a Lemon Olive Oil Cake from Meghan, The Duchess of Sussex. Other contributors include Marcus Samuelsson, Ayesha Curry, Reem Assil, Brooke Williamson, Emeril Lagasse, Tyler Florence, Guy Fieri, Sanjeev Kapoor, and Eric Adjepong."
-      },
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69e2be22c1cf6f9a75861f19",
-      "title": "Golden Valley Book Club: Somebody's Daughter",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join our discussion of new and interesting titles. October 12: Somebody's Daughter by Ashley Ford",
-      "link": "https://hclib.bibliocommons.com/events/69e2be22c1cf6f9a75861f19",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-10-12T18:30:00+00:00",
-      "end_date": "2026-10-12T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Golden Valley",
-        "street": "Winnetka Ave. N.",
-        "number": "830",
-        "city": "Golden Valley,",
-        "state": "MN",
-        "zip": "55427",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "10",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Somebody's Daughter"
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Golden Valley,"
-    },
-    {
-      "id": "68ef9b1d3cbc052f007fe874",
-      "title": "Mystery Lovers Book Club",
-      "library": "Kenosha Public Library",
-      "library_slug": "mykpl",
-      "description": "Do you love a good mystery? Join us to discuss what mysteries you’ve been reading, learn about new authors, or just come listen. No specific books are designated to read.Suitable for Adults 19+, No Registration Required.",
-      "link": "https://mykpl.bibliocommons.com/events/68ef9b1d3cbc052f007fe874",
-      "image": "http://mykpl.bibliocommons.com/events/uploads/images/full/748d8c5f2b999070585f99106bab5d37/Mystery-Lovers-BC-Club-Page.png",
-      "start_date": "2026-10-12T19:00:00+00:00",
-      "end_date": "2026-10-12T20:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "KPL Southwest Neighborhood Library",
-        "street": "38th Ave",
-        "number": "7979",
-        "city": "Kenosha",
-        "state": "WI",
-        "zip": "53142",
-        "details": "Activity Room B"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "WI",
-      "state_full": "Wisconsin",
-      "city": "Kenosha"
-    },
-    {
-      "id": "6a7f6985be148200298766c0",
-      "title": "Tween/Teen Book Bites",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Enjoy snacks, color, and take a peek at an assortment of books you might want to give a try, the second Monday of every month. Recommended for grades 5 and up. Registration optional.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/6a7f6985be148200298766c0",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-10-12T20:00:00+00:00",
-      "end_date": "2026-10-12T21:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Madisonville Branch Library",
-        "street": "Whetsel Ave.",
-        "number": "4910",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45227",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "0"
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Youth Literacy",
-        "Children",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
-      "id": "6a85d2b72d60e40d5b5b5e59",
-      "title": "Caldecott Book Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Calling all young book lovers and artists! Readers between the ages of 6 to 12 are welcome to join Caldecott Book Club. Once a month, from September to January, we will meet to read two picture books published in 2026. We'll talk about written and illustrated storytelling - and then you get to vote on your favorite! For kids 6 to 12 yearsHow to AttendRegister by the day prior to the event. Chicago Public Library cannot collect personal information online from kids 0 to 13. A parent or guardian’s email address must be used to register. As a reminder, school email addresses may block external emails such as those from CPL. Due to space limitations, please include the total number of children and adults as attendees when you register. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6a85d2b72d60e40d5b5b5e59",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-10-12T21:00:00+00:00",
-      "end_date": "2026-10-12T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Sulzer Regional",
-        "street": "N. Lincoln Avenue",
-        "number": "4455",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60625",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "20",
-        "registered": "7"
-      },
-      "categories": [
-        "Book Clubs",
-        "Kids: 6 to 13 years",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6ab550df4852aa18b5b098a0",
-      "title": "Spoilers Ahead Book Club",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Read books before they are published and discuss with your fellow teens and librarians. A new book will be chosen from the posted eGalley's each month. A free Netgalley account is required to participate. Turn in a copy of your review for a chance to win a Pizza Party in the space.Call or email to find out this month's book choice if you did not attend the last meeting. For teens 14 to 18. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6ab550df4852aa18b5b098a0",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/5b12c3527c42b328a5bb590999bfa0d7/YOUmedia.png",
-      "start_date": "2026-10-12T21:00:00+00:00",
-      "end_date": "2026-10-12T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Harold Washington Library Center",
-        "street": "S. State Street",
-        "number": "400",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60605",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "YOUmedia",
-        "Book Clubs",
-        "Teens: 13 to 19 years",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6a91ee0e5e6fc10d05506e6e",
-      "title": "After School Reading Practice",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "When children are learning to read, it’s important to practice often and with others. Join us every Monday after school for an engaging hour of literacy - all levels of experience are welcome! Each week, we will rotate between popcorn reading in groups, word games and one-on-one assistance. Afterward, we’ll let our brains relax with a simple craft or sensory play time. For ages 6 to 13.AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.Cuando los niños están aprendiendo a leer, es importante practicar con frecuencia y en compañía de otros. Acompáñenos todos los lunes después de clases para disfrutar de una hora dinámica dedicada a la lectoescritura; ¡todos los niveles de experiencia son bienvenidos! Cada semana alternaremos entre actividades como la lectura compartida en grupo, juegos de palabras y asistencia personalizada. Para terminar, relajaremos la mente con una manualidad sencilla o juegos sensoriales.Para niños de 6 a 13 años.Accesibilidad¿Necesita interpretación en lengua de señas u otra asistencia de accesibilidad para este evento? Por favor, llame al (312) 747-8184 o envíe un correo electrónico a access@chipublib.org para solicitar adaptaciones. Las solicitudes deben realizarse con al menos 14 días hábiles de antelación al evento.",
-      "link": "https://chipublib.bibliocommons.com/events/6a91ee0e5e6fc10d05506e6e",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-10-12T21:00:00+00:00",
-      "end_date": "2026-10-12T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Gage Park",
-        "street": "W. 55th Street",
-        "number": "2807",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60632",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Kids: 6 to 13 years",
-        "Tweens: 10 to 13 years",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "6a1f4a8b52c88111723c983b",
-      "title": "Graphic Novel Book Club",
-      "library": "Fulton County Library System",
-      "library_slug": "fulcolibrary",
-      "description": "Join us for a brand-new book club on all things comics! Instead of reading the same book, participants will read books based on a shared theme. This month's theme is Scary Stories. Any graphic novels featuring monsters, skeletons, or that are generally scary will fit this month's theme.",
-      "link": "https://fulcolibrary.bibliocommons.com/events/6a1f4a8b52c88111723c983b",
-      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/9cc70ab1146dd6fa9aa1dbdc786c999a/GNOct..png",
-      "start_date": "2026-10-12T21:00:00+00:00",
-      "end_date": "2026-10-12T22:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Fairburn Branch",
-        "street": "Valley View Drive",
-        "number": "60",
-        "city": "Fairburn",
-        "state": "GA",
-        "zip": "30213",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Kids",
-        "Teens",
-        "English"
-      ],
-      "book": null,
-      "state": "GA",
-      "state_full": "Georgia",
-      "city": "Fairburn"
-    },
-    {
-      "id": "6ac3e9a229c3d600332dd385",
-      "title": "Readability Book Group for Adults with Disabilities",
-      "library": "Evanston Public Library",
-      "library_slug": "evanstonlibrary",
-      "description": "The Readability Book Group is a group for adults with disabilities that is run in partnership with Center for Independent Futures. We meet weekly on Mondays via Zoom. We read a new book (or books!) every 3 months. Our sessions run from January-March, April-June, July-September and October-December. Each meeting, we will recap what we have read so far, then the facilitator will read the next part of the book aloud. Afterwards, we will discuss what we just read. Our book for October-December will be: HOLLOW BONES by Jodi Picoult.Hollow Bones Registration can be done here on the library website or via Center for Independent Futures.",
-      "link": "https://evanstonlibrary.bibliocommons.com/events/6ac3e9a229c3d600332dd385",
-      "image": "",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T23:30:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "30",
-        "registered": "24"
-      },
-      "categories": [
-        "Clubs & Gatherings",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Group is a group for adults with disabilities that is run in partnership with Center for Independent Futures. We meet weekly on Mondays via Zoom. We read a new book (or books!) every 3 months. Our sessions run from January-March, April-June, July-September and October-December. Each meeting, we will recap what we have read so far, then the facilitator will read the next part of the book aloud. Afterwards, we will discuss what we just read. Our book for October-December will be: HOLLOW BONES",
-        "author": "Jodi Picoult."
-      },
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "68f7dbe2d272945e0068a152",
-      "title": "Ponce Library's International Explorers Book Club: The House of the Spirits",
-      "library": "Fulton County Library System",
-      "library_slug": "fulcolibrary",
-      "description": "Join us for a monthly book club discussion focused on books from around the world. October's selection is The House of the Spirits by Isabel Allende. From Kirkus, \"A strong, absorbing Chilean family chronicle, plushly upholstered--with mystical undercurrents (psychic phenomena) and a measure of leftward political commitment. (The author is a cousin of ex-Pres. Salvador Allende, an ill-fated socialist.).\"Remember to read fearlessly! To place a hold on a physical or digital click here.",
-      "link": "https://fulcolibrary.bibliocommons.com/events/68f7dbe2d272945e0068a152",
-      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/8c2c46990359a9caf0333ca0f34a916d/october-digital-event-screen-promo.png",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Joan P. Garner Library at Ponce De Leon",
-        "street": "Ponce de Leon Avenue NE",
-        "number": "980",
-        "city": "Atlanta",
-        "state": "GA",
-        "zip": "30306",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "3"
-      },
-      "categories": [
-        "Hispanic Heritage Month",
-        "Book Clubs",
-        "Books and Reading",
-        "District 4",
-        "The Year of the Book",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "To place a hold on a physical or digital click here."
-      },
-      "state": "GA",
-      "state_full": "Georgia",
-      "city": "Atlanta"
-    },
-    {
-      "id": "6aa98ca64b3b06003083ebf8",
-      "title": "Teen Book Club: The Next Chapter",
-      "library": "Fulton County Library System",
-      "library_slug": "fulcolibrary",
-      "description": "✨ NEW TEEN BOOK CLUB ALERT ✨Something new is happening at the library… THE NEXT CHAPTER A book club made by teens for teens who actually like talking about books (or just want a place to connect with others).Join us for a mystery filled book club discussion of: A Good Girl's Guide To Murder by Holly Jackson Everyone has a secret. Everyone has a story. But who's telling the truth? Come pick up your copy at the Sandy Springs Library and see what The Next Chapter is about.Next Meeting: Monday, October 12, 2026 @ 6:00PM No boring discussions. Just real conversations and good vibes.For Tens Ages 13–17. Registration is required by a parent or legal guardian. You don’t have to finish the book to come Bring a friend or come solo This is your sign to try something new!",
-      "link": "https://fulcolibrary.bibliocommons.com/events/6aa98ca64b3b06003083ebf8",
-      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/2dbdf99865aa612f34413fc6a53a764a/TeenBookClubB.png",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Sandy Springs Branch",
-        "street": "Mount Vernon Hwy.",
-        "number": "395",
-        "city": "Sandy Springs",
-        "state": "GA",
-        "zip": "30328",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "0"
-      },
-      "categories": [
-        "Book Clubs",
-        "Books and Reading",
-        "Teens",
-        "English"
-      ],
-      "book": {
-        "title": "A Good Girl's Guide To Murder"
-      },
-      "state": "GA",
-      "state_full": "Georgia",
-      "city": "Sandy Springs"
-    },
-    {
-      "id": "6a4405180e851028002e3a3d",
-      "title": "Be-tween the Pages Book Club",
-      "library": "Greene County Public Library",
-      "library_slug": "greenelibrary",
-      "description": "Discuss our book over snacks. After, you get to keep the book! Gr. 6-8; reg required. Sponsored by the Optimist Club.--- Join us on the second Monday of the month for a discussion of a new middle grade book. After, thanks to a donation from the Bellbrook Sugarcreek Optimist Club, you can keep your copy! This month's book is Restart by Gordon Korman.Chase's memory just went out the window. Chase doesn't remember falling off the roof. He doesn't remember hitting his head. He doesn't, in fact, remember anything. He wakes up in a hospital room and suddenly has to learn his whole life all over again . . . starting with his own name. He knows he's Chase. But who is Chase? When he gets back to school, he sees that different kids have very different reactions to his return. Some kids treat him like a hero. Some kids are clearly afraid of him. One girl in particular is so angry with him that she pours her frozen yogurt on his head the first chance she gets. Pretty soon, it's not only a question of who Chase is--it's a question of who he was . . . and who he's going to be.",
-      "link": "https://greenelibrary.bibliocommons.com/events/6a4405180e851028002e3a3d",
-      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/35affcbd219ae3b741141663bb80781f/Programheaders(59).png",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Winters-Bellbrook Community Library",
-        "street": "West Franklin Street",
-        "number": "57",
-        "city": "Bellbrook",
-        "state": "OH",
-        "zip": "45305",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "6",
-        "registered": "6"
-      },
-      "categories": [
-        "Book Club",
-        "In Person",
-        "Teens",
-        "English"
-      ],
-      "book": {
-        "title": "over snacks. After, you get to keep the book! Gr. 6-8; reg required. Sponsored",
-        "author": "the Optimist Club."
-      },
-      "state": "OH",
-      "state_full": "Ohio",
-      "city": "Bellbrook"
-    },
-    {
-      "id": "6a737324f213992f00c9c8e3",
-      "title": "Popular Pages Book Club | Yankee Clipper",
-      "library": "Grand Rapids Public Library",
-      "library_slug": "grpl",
-      "description": "Join us for our monthly book club!Enjoy popular fiction and nonfiction titles selected by GRPL librarians and participate in a discussion about each reading with members of the community and library staff. This book club is designed for adults and is a great way to meet new friends, explore real and imagined worlds, and discover new perspectives. September 14: One Hundred Years of Solitude by Gabriel García MárquezOctober 12: The Southern Book Club's Guide to Slaying Vampires by Grady HendrixNovember 16: Warrior Girl Unearthed by Angeline BoulleyPopular Pages Book Club | Yankee Clipper BranchMondays, September 14, October 12, November 16, 2026, 6:00 – 7:00 pmYankee Clipper Branch – 2025 Leonard St NE¡Únase a nosotros para nuestro club del libro mensual! Disfrute de títulos de ficción y no ficción seleccionados por los bibliotecarios de GRPL y participe en una discusión sobre cada lectura con miembros de la comunidad y el personal de la biblioteca. Este club del libro está diseñado para adultos y es una excelente manera de hacer nuevos amigos, explorar mundos reales e imaginarios, y descubrir nuevas perspectivas.14 de septiembre: One Hundred Years of Solitude de Gabriel García Márquez12 de octubre: The Southern Book Club's Guide to Slaying Vampires de Grady Hendrix16 de noviembre: Warrior Girl Unearthed de Angeline Boulley Club del libro Páginas Populares | Sucursal Yankee ClipperLos lunes: 14 de septiembre, 12 de octubre, 16 de noviembre de 2026, 6:00 – 7:00 pmSucursal Yankee Clipper – 2025 Leonard St NE",
-      "link": "https://grpl.bibliocommons.com/events/6a737324f213992f00c9c8e3",
-      "image": "http://grpl.bibliocommons.com/events/uploads/images/full/d5a7e94cc91eb8f4580df71366d29ce1/2026FallYankeePopularPages-1.jpg",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T23:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Yankee Clipper Branch",
-        "street": "Leonard St NE",
-        "number": "2025",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "zip": "49505",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "MI",
-      "state_full": "Michigan",
-      "city": "Grand Rapids"
-    },
-    {
-      "id": "69532c05293fe254002af527",
-      "title": "Kids Club",
-      "library": "Jefferson County Public Library",
-      "library_slug": "jeffcolibrary",
-      "description": "Explore a different activity every Monday afternoon. Have fun with books, STEAM, crafts, games and more! Perfect for kids in kindergarten through fifth grade.",
-      "link": "https://jeffcolibrary.bibliocommons.com/events/69532c05293fe254002af527",
-      "image": "http://jeffcolibrary.bibliocommons.com/events/uploads/images/full/303fe36b253b5fd48a5ece00a7593081/15739_SL_KidsClub_FE_942x335.png",
-      "start_date": "2026-10-12T22:00:00+00:00",
-      "end_date": "2026-10-12T22:45:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Standley Lake Library",
-        "street": "Kipling St.",
-        "number": "8485",
-        "city": "Arvada",
-        "state": "CO",
-        "zip": "80005",
-        "details": "Standley Lake meeting room."
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "DIY and Crafting",
-        "Entertainment",
-        "Learning",
-        "Science and Technology",
-        "School Age",
-        "English"
-      ],
-      "book": null,
-      "state": "CO",
-      "state_full": "Colorado",
-      "city": "Arvada"
-    },
-    {
-      "id": "6a88aa274cb69d003e2263a5",
-      "title": "Between the Covers Book Club",
-      "library": "Clark County Public Library",
-      "library_slug": "ccplohio",
-      "description": "This book club meets the second Monday of each month in the Community Room of the Enon Branch. Please visit the branch to learn which titles are being read each month.",
-      "link": "https://ccplohio.bibliocommons.com/events/6a88aa274cb69d003e2263a5",
-      "image": "http://ccplohio.bibliocommons.com/events/uploads/images/full/405feb2cdc4841ee2bf101d32a6971e2/EBetweentheCoversgeneralpromo.jpg",
-      "start_date": "2026-10-12T22:30:00+00:00",
-      "end_date": "2026-10-12T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Enon",
-        "street": "East Main Street",
-        "number": "209",
-        "city": "Enon",
-        "state": "Ohio",
-        "zip": "45323",
-        "details": "Community Room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Books and Reading",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Enon"
-    },
-    {
-      "id": "6ab55107c9d1b8187a993413",
-      "title": "Indigenous Peoples' Day Real Ones Read: Saints of the Household",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Finally, a book club where you do not have to read the book in advance! Celebrate Indigenous Peoples' Day by reading Saints of the Household by Ari Tison. We will have copies of Saints of the Household by Ari Tison for each participant. We will take turns reading the book together and discussing our thoughts, feelings, and opinions. Snacks will be provided! When brothers Max and Jay help a classmate in trouble, they struggle with the consequences of their violent actions and worry they may be more like their abusive father than they thought. So the brothers turn to their Bribri roots to find their way forward. For teens in high school. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
-      "link": "https://chipublib.bibliocommons.com/events/6ab55107c9d1b8187a993413",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/5b12c3527c42b328a5bb590999bfa0d7/YOUmedia.png",
-      "start_date": "2026-10-12T22:30:00+00:00",
-      "end_date": "2026-10-12T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Chinatown",
-        "street": "S. Wentworth Avenue",
-        "number": "2100",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60616",
-        "details": "YOUmedia, 2nd Floor"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "0"
-      },
-      "categories": [
-        "YOUmedia",
-        "Book Clubs",
-        "Teens: 13 to 19 years",
-        "English"
-      ],
-      "book": {
-        "title": "Saints of the Household"
-      },
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Chicago"
-    },
-    {
-      "id": "69f34c45fb87a3c2e2acd06f",
-      "title": "The Second Monday Murder Club: The Guest List",
-      "library": "Cincinnati & Hamilton County Public Library",
-      "library_slug": "cincinnatilibrary",
-      "description": "Join us for fun reads, hot tea, and chat as we discuss mystery books across the mystery genres! This month, we will be discussing The Guest List by Lucy Foley. This title is available digitally via Overdrive and Hoopla, and physical copies of the book can be picked up at the Covedale Branch. This book club will meet in person in the Main floor adult area. New members are always welcome! Registration is recommended, but not required.",
-      "link": "https://cincinnatilibrary.bibliocommons.com/events/69f34c45fb87a3c2e2acd06f",
-      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
-      "start_date": "2026-10-12T22:30:00+00:00",
-      "end_date": "2026-10-12T23:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Covedale Branch Library",
-        "street": "Glenway Ave.",
-        "number": "4980",
-        "city": "Cincinnati",
-        "state": "Ohio",
-        "zip": "45238",
-        "details": "Main floor adult area"
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "4"
-      },
-      "categories": [
-        "Book Clubs and Reading",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "Ohio",
-      "state_full": "Ohio",
-      "city": "Cincinnati"
-    },
-    {
-      "id": "696683bdc967cb4120819d51",
-      "title": "Genre Book Club for Adults: Speculative Fiction",
-      "library": "Chicago Public Library",
-      "library_slug": "chipublib",
-      "description": "Join Clearing Branch for our Genre Book Club. Read a book from the selected genre each month, then talk about what you read in our monthly Zoom discussions. In September, we'll be talking about speculative fiction. Speculative fiction is an umbrella genre of fiction thatturns your \"what if\" questions into full-fledged narratives. While this broad genre includes a wide variety of subgenres, this month we will be focusing specifically on science fiction, fantasy, and horror. Can't think of a book? Don't worry, we have you covered. Check out our genre picks list and try a title from there, or visit us at the library - we'll have plenty to choose from. Then join us online for the genre-sation! How To Attend This event takes place on Zoom. Only one registration per household is needed. You’ll receive two emails close to the event - one will be an event reminder, and the other will contain a link to the secure Zoom meeting about 24 hours before the meeting. Automatic transcription is included in all CPL events using Zoom.Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event. Attending CPL Online Events Questions about attending online events? Check out our Events FAQs.",
-      "link": "https://chipublib.bibliocommons.com/events/696683bdc967cb4120819d51",
-      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
-      "start_date": "2026-10-12T23:00:00+00:00",
-      "end_date": "2026-10-13T00:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "15",
-        "registered": "6"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults: 18 and up",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "6a8f67cfbe148200298a559c",
-      "title": "Monday Night Book Club",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join us for a discussion of new and interesting titles, hosted by Antonio from Plymouth Library. Some lending copies will be available at the Plymouth Library service desk. Registration is required. October 12: My Name is Emilia del Valle by Isabel Allende November 9: The Women by Kristin Hannah December 14: The Backyard Bird Chronicles by Amy Tan",
-      "link": "https://hclib.bibliocommons.com/events/6a8f67cfbe148200298a559c",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-10-12T23:00:00+00:00",
-      "end_date": "2026-10-13T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Plymouth",
-        "street": "36th Ave. N.",
-        "number": "15700",
-        "city": "Plymouth,",
-        "state": "MN",
-        "zip": "55446",
-        "details": ""
-      },
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "14",
-        "registered": "11"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "My Name is Emilia del Valle"
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Plymouth,"
-    },
-    {
-      "id": "6a503bc164ed854800a4eddb",
-      "title": "Reading Buddies",
-      "library": "King County Library System",
-      "library_slug": "kcls",
-      "description": "Volunteers help students practice reading out loud. Two students are paired by reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12. Reading Buddies share eBooks on an iPad. Book selections change every two weeks. Look for volunteers wearing the green Reading Buddies t-shirt. Add your name to the sign-up sheet for a 30-minute spot at your reading level. Safety guidelines and current protocols followed. Study Zone Study Zone programs provide volunteer-led academic support for grades K-12. Programs include Tutors, Math Club, Reading Buddies and Kids & Teens Talk Time. Available online and in libraries. Online Study Zone programs are supervised by library staff. Visit Study Zone for the Terms of Use Agreement and steps KCLS is taking to maintain a safe and positive online space. Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
-      "link": "https://kcls.bibliocommons.com/events/6a503bc164ed854800a4eddb",
-      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/4eba57da3476f4326280e607bab30bc9/ReadingBuddiesLogo1780x445.png",
-      "start_date": "2026-10-12T23:00:00+00:00",
-      "end_date": "2026-10-13T01:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Kent Panther Lake",
-        "street": "108th Avenue SE",
-        "number": "20500",
-        "city": "Kent",
-        "state": "WA",
-        "zip": "98031",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Reading Buddies",
-        "Back to School",
-        "Language Learning & Literacy",
-        "Tutoring & Homework Help",
-        "Kids (Ages 6 to 8)",
-        "Teens (Ages 12 to 18)",
-        "Tweens (Ages 9 to 11)",
-        "English"
-      ],
-      "book": {
-        "title": "out loud. Two students are paired",
-        "author": "reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12."
-      },
-      "state": "WA",
-      "state_full": "Washington",
-      "city": "Kent"
-    },
-    {
-      "id": "68dad617fe1db36a65432b5a",
-      "title": "Riverview Book Club",
-      "library": "Saint Paul Public Library",
-      "library_slug": "sppl",
-      "description": "Join your neighbors for a casual monthly book discussion! This month's selection is Angel Down by Daniel Kraus. If you need a copy, stop by Riverview Library and inquire at the desk. We meet the second Monday of the month. Here is a list of the books we have read since 2022.",
-      "link": "https://sppl.bibliocommons.com/events/68dad617fe1db36a65432b5a",
-      "image": "http://sppl.bibliocommons.com/events/uploads/images/full/68eb956d9ba2a3962b3a2f26e80e6278/AngelDown.jpg",
-      "start_date": "2026-10-12T23:00:00+00:00",
-      "end_date": "2026-10-13T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Riverview",
-        "street": "E George St.",
-        "number": "1",
-        "city": "Saint Paul",
-        "state": "MN",
-        "zip": "55107",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adult",
-        "English"
-      ],
-      "book": null,
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Saint Paul"
-    },
-    {
-      "id": "6a5fa109f4e5db3d00c33b40",
-      "title": "Mission Impossible Book Club, 2nd Monday, Monthly In-Person Group",
-      "library": "Evanston Public Library",
-      "library_slug": "evanstonlibrary",
-      "description": "This group meets in person on the second Monday of the month from October - May to read and discuss The Books of Jacob by Olga Tokarczuk. Find out more information here: https://epl.org/mission-impossible If registration is full and you wish to join, please contact Heather.",
-      "link": "https://evanstonlibrary.bibliocommons.com/events/6a5fa109f4e5db3d00c33b40",
-      "image": "",
-      "start_date": "2026-10-12T23:30:00+00:00",
-      "end_date": "2026-10-13T00:45:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Main Library",
-        "street": "Orrington Ave",
-        "number": "1703",
-        "city": "Evanston",
-        "state": "IL",
-        "zip": "60201",
-        "details": "Community Meeting Room, First Floor"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "16",
-        "registered": "16"
-      },
-      "categories": [
-        "Clubs & Gatherings",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "IL",
-      "state_full": "Illinois",
-      "city": "Evanston"
-    },
-    {
-      "id": "6a5fa107e9de6536001d4283",
-      "title": "Mission Impossible Book Club, 2nd Monday, Monthly Virtual Group",
-      "library": "Evanston Public Library",
-      "library_slug": "evanstonlibrary",
-      "description": "This group meets virtually on the second Monday of the month from October - May to read and discuss The Books of Jacob by Olga Tokarczuk. Find out more information here: https://epl.org/mission-impossible If registration is full and you wish to join, please contact Heather.",
-      "link": "https://evanstonlibrary.bibliocommons.com/events/6a5fa107e9de6536001d4283",
-      "image": "",
-      "start_date": "2026-10-12T23:30:00+00:00",
-      "end_date": "2026-10-13T00:45:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "16",
-        "registered": "15"
-      },
-      "categories": [
-        "Clubs & Gatherings",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "69e2bfcfc1cf6f9a75861f63",
-      "title": "Golden Valley Book Club: Somebody's Daughter",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join our discussion of new and interesting titles. Hosted by Golden Valley Library. October 12: Somebody's Daughter by Ashley Ford The link to the live online discussion will be emailed to registrants in advance (within 24 hours of the event). Learn more about participating in virtual library events.",
-      "link": "https://hclib.bibliocommons.com/events/69e2bfcfc1cf6f9a75861f63",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-10-12T23:30:00+00:00",
-      "end_date": "2026-10-13T01:00:00+00:00",
-      "is_virtual": true,
-      "location": {},
-      "registration": {
-        "required": true,
-        "full": false,
-        "capacity": "10",
-        "registered": "6"
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": {
-        "title": "Somebody's Daughter"
-      },
-      "state": "",
-      "state_full": "",
-      "city": ""
-    },
-    {
-      "id": "6a4ea9d60e562e2800987e34",
-      "title": "Mystery/Thriller Book Club",
-      "library": "Hennepin County Library",
-      "library_slug": "hclib",
-      "description": "Join our discussion of new and interesting mystery and thriller titles. Bring along your recommendations for future meetings. Lending copies may be picked up at the information desk prior to meeting. September 14: Small Mercies by Dennis Lehane October 12: The Current by Tim Johnston November 9: Hope Never Dies by Andrew Shaffer",
-      "link": "https://hclib.bibliocommons.com/events/6a4ea9d60e562e2800987e34",
-      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
-      "start_date": "2026-10-12T23:30:00+00:00",
-      "end_date": "2026-10-13T00:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Nokomis",
-        "street": "34th Ave. S.",
-        "number": "5100",
-        "city": "Minneapolis,",
-        "state": "MN",
-        "zip": "55417",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "Seniors",
-        "English"
-      ],
-      "book": {
-        "title": "Small Mercies"
-      },
-      "state": "MN",
-      "state_full": "Minnesota",
-      "city": "Minneapolis,"
-    },
-    {
-      "id": "6a8dc6a8b204780029956258",
-      "title": "2nd Mondays Adult Manga & Manhwa Club",
-      "library": "Alameda County Library",
-      "library_slug": "aclibrary",
-      "description": "Do you love manga/manhwa or have you always wanted to try it out? Want other adults to discuss books with? Now is your chance! All the books will be either Volume 1 in a series or a single book and will be for adults 18+. This month we will be discussing The Haunted Bookstore: Gateway to a Parallel Universe by Shinobumaru. This book club is full, but if you would like to be added to a waitlist, please visit the Reference Desk. Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests. An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) days in advance. For assistance, please contact your library or accessibility@aclibrary.org.",
-      "link": "https://aclibrary.bibliocommons.com/events/6a8dc6a8b204780029956258",
-      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/9ed80835b24c7e95f55a62179fa680b4/BookClubs.png",
-      "start_date": "2026-10-13T00:00:00+00:00",
-      "end_date": "2026-10-13T01:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Dublin",
-        "street": "Civic Plaza",
-        "number": "200",
-        "city": "Dublin",
-        "state": "CA",
-        "zip": "94568",
-        "details": "Virginia Bennett Room"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Clubs",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "CA",
-      "state_full": "California",
-      "city": "Dublin"
-    },
-    {
-      "id": "6a3d73ef296ea565de2eb91c",
-      "title": "BYOB(ook) Group at Esters Gold's Marketplace: Humor",
-      "library": "Jefferson County Public Library",
-      "library_slug": "jeffcolibrary",
-      "description": "Take book club somewhere a little more hoppy and head to Esters Gold’s Marketplace! Pair good books with great company and keep spirits high! Read any book that falls into the monthly theme and get ready to share and receive great book recommendations. Please leave four-legged friends at home. Service animals are welcome. Meets at: Esters Gold's Marketplace, 10151 W 26th Ave, Wheat Ridge, CO 80215 This Month's Theme: Humor",
-      "link": "https://jeffcolibrary.bibliocommons.com/events/6a3d73ef296ea565de2eb91c",
-      "image": "http://jeffcolibrary.bibliocommons.com/events/uploads/images/full/de083d7e6a6d0b01ba02e7cf5a36e964/15694_WR_BYOB(ook)Group_FE_942x335.png",
-      "start_date": "2026-10-13T00:30:00+00:00",
-      "end_date": "2026-10-13T02:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Wheat Ridge Library",
-        "street": "W. 32nd Ave.",
-        "number": "5475",
-        "city": "Wheat Ridge",
-        "state": "CO",
-        "zip": "80212",
-        "details": "Held at: \nEsters Gold's Marketplace\n10151 W 26th Ave Wheat Ridge, CO 80215"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book Club",
-        "Off-Site",
-        "Adults",
-        "English"
-      ],
-      "book": null,
-      "state": "CO",
-      "state_full": "Colorado",
-      "city": "Wheat Ridge"
-    },
-    {
-      "id": "6ac6b787ebad22004543d17c",
-      "title": "English Conversation Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Join our group sessions to practise conversations in English. This is not a class, but an opportunity to talk with others in English and meet new people. Great for ESOL learners.Every 3rd and 4th Tuesday of the month, 5.30-6.30pmLocation: Auahatanga | Creativity, Level 4, TūrangaFree, no bookings required.",
-      "link": "https://christchurch.bibliocommons.com/events/6ac6b787ebad22004543d17c",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/c29b777f1c361695283bbd5c75fb4c59/conversation-club.jpg",
-      "start_date": "2026-10-13T04:30:00+00:00",
-      "end_date": "2026-10-13T05:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Tūranga",
-        "street": "Cathedral Square",
-        "number": "60",
-        "city": "Central Christchurch",
-        "state": "Christchurch",
-        "zip": "8011",
-        "details": "Auahatanga | Creativity, Level 4, Tūranga"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Culture and language",
-        "Adults (ages 18+)",
-        "Teens (ages 12-18)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Central Christchurch"
-    },
-    {
-      "id": "69112d45a64b7d0d61f7246b",
-      "title": "Book Discussion Group",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "If you love reading and want to talk about books with other book lovers, join the Book Discussion Scheme at Tūranga. Group members pay a sub for the year/part year. Held on the second Tuesday each month 6-7pm Places are limited so please phone or email to enquire about availability and cost.",
-      "link": "https://christchurch.bibliocommons.com/events/69112d45a64b7d0d61f7246b",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/a29659fa9cdaa3936207567290024a22/books-reading.jpg",
-      "start_date": "2026-10-13T05:00:00+00:00",
-      "end_date": "2026-10-13T06:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Tūranga",
-        "street": "Cathedral Square",
-        "number": "60",
-        "city": "Central Christchurch",
-        "state": "Christchurch",
-        "zip": "8011",
-        "details": "Tuhurutanga | Discovery"
-      },
-      "registration": {
-        "required": true,
-        "full": true,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Central Christchurch"
-    },
-    {
-      "id": "69260f1f65ec39c10012268a",
-      "title": "Spanish Book Club",
-      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
-      "library_slug": "christchurch",
-      "description": "Love sharing your favourite reads? Come and join other Spanish speaking book lovers in our friendly, relaxed library environment. Free, no bookings required. This club meets on the 2nd Tuesday of each month.",
-      "link": "https://christchurch.bibliocommons.com/events/69260f1f65ec39c10012268a",
-      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/ad364120ce005f324f537e53ac65c6cb/spanish-book-cllub.jpg",
-      "start_date": "2026-10-13T05:30:00+00:00",
-      "end_date": "2026-10-13T06:30:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Upper Riccarton Library",
-        "street": "Main South Road",
-        "number": "71",
-        "city": "Sockburn",
-        "state": "Christchurch",
-        "zip": "8042",
-        "details": ""
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Book clubs and reading groups",
-        "Books and reading",
-        "Adults (ages 18+)",
-        "English",
-        "Spanish"
-      ],
-      "book": null,
-      "state": "Christchurch",
-      "state_full": "Christchurch",
-      "city": "Sockburn"
     },
     {
       "id": "6a90918a36204e08fbb7a75c",
@@ -1570,7 +204,7 @@
         "required": true,
         "full": false,
         "capacity": "16",
-        "registered": "11"
+        "registered": "10"
       },
       "categories": [
         "Clubs & Gatherings",
@@ -1643,7 +277,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "2"
+        "registered": "1"
       },
       "categories": [
         "Book Club",
@@ -1819,7 +453,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "18"
+        "registered": "20"
       },
       "categories": [
         "Author Visits & Book Clubs",
@@ -2107,9 +741,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "8",
-        "registered": "8"
+        "registered": "6"
       },
       "categories": [
         "Book Club",
@@ -2144,9 +778,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "12",
-        "registered": "12"
+        "registered": "11"
       },
       "categories": [
         "Book Clubs and Reading",
@@ -2563,9 +1197,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "14"
       },
       "categories": [
         "Book Groups",
@@ -2604,7 +1238,7 @@
         "required": true,
         "full": true,
         "capacity": "20",
-        "registered": "25"
+        "registered": "24"
       },
       "categories": [
         "Book & Movie Clubs",
@@ -2756,7 +1390,7 @@
         "required": true,
         "full": false,
         "capacity": "12",
-        "registered": "6"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -3053,9 +1687,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "15",
-        "registered": "15"
+        "registered": "14"
       },
       "categories": [
         "Books on Tap",
@@ -3127,7 +1761,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "4"
+        "registered": "3"
       },
       "categories": [
         "Book Club",
@@ -3211,45 +1845,6 @@
       "state": "TX",
       "state_full": "Texas",
       "city": "Houston"
-    },
-    {
-      "id": "6a5fc228a41369ab2c67ab51",
-      "title": "Making Stories",
-      "library": "Oakland Public Library",
-      "library_slug": "oaklandlibrary",
-      "description": "Children ages 8 to 12 are invited to join us on the second and fourth Tuesday of each month from 3:30-5 pm to write, illustrate, make, and tell your own stories. This is a workshop/club, where kids can work alone, in pairs, or in small groups to write and illustrate stories. Do a fun writing or drawing game, follow a prompt, free-write, or illustrate. Create a book, a zine, a comic, a story, a kamishibai, a play, a poem, or whatever! We'll set a date for people who want to read aloud their finished stories and celebrate, and we welcome stories to be added into the library collection. Drop in, no registration required. New members always welcome. Get accessibility information.",
-      "link": "https://oaklandlibrary.bibliocommons.com/events/6a5fc228a41369ab2c67ab51",
-      "image": "http://oaklandlibrary.bibliocommons.com/events/uploads/images/full/7a45679fe964073798521ea4e1b847c4/ArtclubkidsmakingstoriesIG.png",
-      "start_date": "2026-10-13T22:30:00+00:00",
-      "end_date": "2026-10-14T00:00:00+00:00",
-      "is_virtual": false,
-      "location": {
-        "name": "Rockridge Branch",
-        "street": "College Avenue",
-        "number": "5366",
-        "city": "Oakland",
-        "state": "California",
-        "zip": "94618",
-        "details": "Upstairs meeting room"
-      },
-      "registration": {
-        "required": false,
-        "full": false,
-        "capacity": "",
-        "registered": ""
-      },
-      "categories": [
-        "Crafts & DIY",
-        "Writing",
-        "Grade Schoolers",
-        "Kids",
-        "Tweens",
-        "English"
-      ],
-      "book": null,
-      "state": "California",
-      "state_full": "California",
-      "city": "Oakland"
     },
     {
       "id": "69f0ced4fb87a3c2e2ac5909",
@@ -5506,7 +4101,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "YOUmedia",
@@ -5644,7 +4239,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "32"
+        "registered": "34"
       },
       "categories": [
         "Lifelong Learning",
@@ -5713,7 +4308,7 @@
         "required": true,
         "full": true,
         "capacity": "50",
-        "registered": "53"
+        "registered": "52"
       },
       "categories": [
         "Lifelong Learning",
@@ -6186,7 +4781,7 @@
         "required": true,
         "full": false,
         "capacity": "25",
-        "registered": "18"
+        "registered": "20"
       },
       "categories": [
         "Events",
@@ -6404,7 +4999,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Clubs",
@@ -6515,7 +5110,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Club",
@@ -7275,9 +5870,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "80",
-        "registered": "80"
+        "registered": "77"
       },
       "categories": [
         "Booktoberfest",
@@ -8169,9 +6764,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -8284,7 +6879,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "9"
+        "registered": "10"
       },
       "categories": [
         "Book Club",
@@ -9407,7 +8002,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Club",
@@ -10059,7 +8654,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Discussion",
@@ -10098,7 +8693,7 @@
         "required": true,
         "full": false,
         "capacity": "40",
-        "registered": "23"
+        "registered": "24"
       },
       "categories": [
         "Arts & Entertainment",
@@ -11337,7 +9932,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "10"
+        "registered": "11"
       },
       "categories": [
         "Book Club",
@@ -11503,6 +10098,46 @@
       "city": "Chicago"
     },
     {
+      "id": "6abd5ed2901b02002cbf0d9b",
+      "title": "Adult Book Discussion: Uprooted",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join Jeffery Manor branch in discussing Uprooted by Naomi Novik. Summary:Naomi Novik’s Uprooted follows Agnieszka, a seemingly ordinary village girl chosen by the wizard known as the Dragon, who discovers her own intuitive magic and ultimately confronts the corrupt, sentient Wood threatening her homeland. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6abd5ed2901b02002cbf0d9b",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/cebba08e08bc14d62787f7a9d5b593f5/PolishAmericanHeritage.png",
+      "start_date": "2026-10-17T15:00:00+00:00",
+      "end_date": "2026-10-17T16:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Jeffery Manor",
+        "street": "E. 100th Street",
+        "number": "2401",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60617",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "0"
+      },
+      "categories": [
+        "Polish American Heritage",
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": {
+        "title": "Uprooted",
+        "author": "Naomi Novik."
+      },
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6a91a24e29a7dd0d674749ca",
       "title": "Silent Book Club",
       "library": "Charlotte Mecklenburg Library",
@@ -11526,7 +10161,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "1"
+        "registered": "2"
       },
       "categories": [
         "Book Club",
@@ -11652,6 +10287,153 @@
       "city": "Houston"
     },
     {
+      "id": "6949b188b5ff473000576c7e",
+      "title": "Adult Book Discussion",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Share your love of reading, broaden your horizons, and stay connected with others through our monthly book discussion. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6949b188b5ff473000576c7e",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-10-17T16:00:00+00:00",
+      "end_date": "2026-10-17T17:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Budlong Woods",
+        "street": "N. Lincoln Avenue",
+        "number": "5630",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60659",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
+      "id": "6ac3c30b377296003a49d3ee",
+      "title": "Beginner Readers Book Club",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Learning to read? Join the club! Every month we will meet to play games and practice reading. For kids 6 to 8. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6ac3c30b377296003a49d3ee",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-10-17T16:00:00+00:00",
+      "end_date": "2026-10-17T17:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Little Village",
+        "street": "S. Kedzie Avenue",
+        "number": "2311",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60623",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Kids: 6 to 13 years",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
+      "id": "6aa96c3365abe8002a7964c9",
+      "title": "Adult Book Discussion: The Midnight Library",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us at the Harold Washington Library Center on the third Saturday of each month from 11 a.m. to 12 p.m. for a fiction book discussion for adults. On Saturday, October 17, we'll discuss the novel, The Midnight Library by Matt Haig. \"The Midnight Library follows Nora Seed as she enters a magical library filled with books that each show a different version of her life. As she steps into these alternate realities, she explores the choices she could have made and the futures they might have created. Through her journey, she discovers what truly brings meaning and fulfillment to her life.\"--Publisher's Marketing Copies of this month's selection will be available prior to the event at the 7th floor Literature and Language reference desk. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6aa96c3365abe8002a7964c9",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-10-17T16:00:00+00:00",
+      "end_date": "2026-10-17T17:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Harold Washington Library Center",
+        "street": "S. State Street",
+        "number": "400",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60605",
+        "details": "7N-5, 7th Floor"
+      },
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "15",
+        "registered": "15"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "English"
+      ],
+      "book": null,
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
+      "id": "6abd7329754bb0003ac281a6",
+      "title": "Real Ones Read: Teen Book Club",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Visit Gage Park for Real Ones Read Book Club! We’ll read and discuss Cemetery Boys by Aiden Thomas. Don’t worry about starting the book ahead of time – we’ll read it together! Books and snacks will be provided. For teens age 13 to 19.Los Verdaderos Lectores: Club de Libros Juvenil ¡Visita Gage Park para Club de Libros Los Verdaderos Lectores! Leeremos y discutiremos Cemetery Boys de Aiden. ¡No te preocupes por comenzar el libro antes de tiempo, lo leeremos juntos! Se proporcionarán libros y bocadillos. Para adolescentes de 13 a 19 años.Real Ones Read is a program funded through a grant by Urban Libraries Council. This program focuses on helping teens develop literacy and communication skills while providing a safe space for dialogue and learning. AccessibilityNeed sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event.",
+      "link": "https://chipublib.bibliocommons.com/events/6abd7329754bb0003ac281a6",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-10-17T16:00:00+00:00",
+      "end_date": "2026-10-17T17:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Gage Park",
+        "street": "W. 55th Street",
+        "number": "2807",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60632",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Teens: 13 to 19 years",
+        "English",
+        "Spanish"
+      ],
+      "book": {
+        "title": "Cemetery Boys"
+      },
+      "state": "IL",
+      "state_full": "Illinois",
+      "city": "Chicago"
+    },
+    {
       "id": "6a73727974e3b8b75db7c80b",
       "title": "Popular Pages Book Club | Seymour",
       "library": "Grand Rapids Public Library",
@@ -11686,6 +10468,37 @@
       "state": "MI",
       "state_full": "Michigan",
       "city": "Grand Rapids"
+    },
+    {
+      "id": "6ac0165cebad22004542a8a1",
+      "title": "Book Discussion: I Am Roe",
+      "library": "Chicago Public Library",
+      "library_slug": "chipublib",
+      "description": "Join us for a friendly conversation of I Am Roe by Norma McCorvey on Zoom. Copies of the book are available at the Adult Reference Desk. How to Attend This event takes place on Zoom. Only one registration per household is needed. You’ll receive an email with a link to the secure Zoom meeting about 24 hours before the meeting. Automatic transcription is included in all CPL events using Zoom. Accessibility Need sign language interpretation or other accessibility assistance for this event? Please call (312) 747-8184 or email access@chipublib.org to request accommodations. Requests must be made at least 14 business days before the event. Attending CPL Online Events Questions about attending online events? Check out our Events FAQs.",
+      "link": "https://chipublib.bibliocommons.com/events/6ac0165cebad22004542a8a1",
+      "image": "http://chipublib.bibliocommons.com/events/uploads/images/full/2833e5ec86743aff82c21e245928dc24/BookClubs.png",
+      "start_date": "2026-10-17T17:00:00+00:00",
+      "end_date": "2026-10-17T18:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults: 18 and up",
+        "Seniors: 55 and up",
+        "English"
+      ],
+      "book": {
+        "title": "I Am Roe"
+      },
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "6aa97cacca248a002915f77c",
@@ -12239,7 +11052,7 @@
         "required": true,
         "full": false,
         "capacity": "100",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Club Book: The Book Club Rewritten",
@@ -15401,6 +14214,79 @@
       "city": "Cincinnati"
     },
     {
+      "id": "68dad1589aa99d0f2069b049",
+      "title": "Loveland Branch Book Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Please join us for a discussion of a variety of books throughout the year.Only register if you plan to attend via Zoom, in person attendance does not require registration.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/68dad1589aa99d0f2069b049",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/fb23a631a586725a64eedc5121578de2/event-bookclub-reading.jpg",
+      "start_date": "2026-10-20T14:00:00+00:00",
+      "end_date": "2026-10-20T15:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Loveland Branch Library",
+        "street": "Loveland Madeira Rd.",
+        "number": "649",
+        "city": "Loveland",
+        "state": "Ohio",
+        "zip": "45140",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Loveland"
+    },
+    {
+      "id": "68f159119b87934100913343",
+      "title": "Mystery Book Club",
+      "library": "Cincinnati & Hamilton County Public Library",
+      "library_slug": "cincinnatilibrary",
+      "description": "Join us for a lively discussion of Not That I Could Tell by Jessica Strawser, an Ohio author. No registration required.",
+      "link": "https://cincinnatilibrary.bibliocommons.com/events/68f159119b87934100913343",
+      "image": "http://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/4f758453c6f337c45a5e4a82abcdeff4/America250_Biblioeventheader-01.jpg",
+      "start_date": "2026-10-20T14:00:00+00:00",
+      "end_date": "2026-10-20T15:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Northside Branch Library",
+        "street": "Hamilton Ave.",
+        "number": "4219",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45223",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "America 250-Ohio",
+        "Book Clubs and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Cincinnati"
+    },
+    {
       "id": "69a9c1a5cbf6405d3569703e",
       "title": "KPL Heritage Walking Tours: Greenridge Cemetery",
       "library": "Kenosha Public Library",
@@ -16266,6 +15152,42 @@
       "city": "Central Christchurch"
     },
     {
+      "id": "6a8bb00757c264087ad34437",
+      "title": "English Conversation Club",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Join our group sessions to practise conversations in English. This is not a class, but an opportunity to talk with others in English and meet new people.Great for ESOL learners.Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/6a8bb00757c264087ad34437",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/9a215b7ef1004aa8ff0e510df2ea1d01/culture-language-flags.jpg",
+      "start_date": "2026-10-20T22:00:00+00:00",
+      "end_date": "2026-10-20T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Linwood Library",
+        "street": "1st Floor Eastgate Shopping Centre, Buckleys Road",
+        "number": "",
+        "city": "Linwood",
+        "state": "Christchurch",
+        "zip": "8062",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Culture and language",
+        "Adults (ages 18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Linwood"
+    },
+    {
       "id": "6a9332f160ccaf01c021fd9f",
       "title": "Flights of Fantasy: The Southern Book Club's Guide to Slaying Vampires",
       "library": "Greene County Public Library",
@@ -16819,6 +15741,50 @@
       "city": "Minneapolis,"
     },
     {
+      "id": "6a91f3a857c264087ad49107",
+      "title": "Reading Buddies",
+      "library": "King County Library System",
+      "library_slug": "kcls",
+      "description": "Volunteers help students practice reading out loud. Two students are paired by reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12. Reading Buddies share eBooks on an iPad. Books selection changes every two weeks. Look for volunteers wearing the green Reading Buddies t-shirt. Add your name to the sign-up sheet for a 30-minute spot at your reading level. Safety guidelines and current protocols followed. Study Zone Study Zone programs provide volunteer-led academic support for grades K-12. Programs include Tutors, Math Club, Reading Buddies and Kids & Teens Talk Time. Available online and in libraries. Online Study Zone programs are supervised by library staff. Visit Study Zone for the Terms of Use Agreement and steps KCLS is taking to maintain a safe and positive online space. Reasonable accommodation for people with disabilities is available by request. Email access@kcls.org at least seven days before the event. Automated closed captioning is always available for online events.",
+      "link": "https://kcls.bibliocommons.com/events/6a91f3a857c264087ad49107",
+      "image": "http://kcls.bibliocommons.com/events/uploads/images/full/4eba57da3476f4326280e607bab30bc9/ReadingBuddiesLogo1780x445.png",
+      "start_date": "2026-10-20T23:00:00+00:00",
+      "end_date": "2026-10-21T01:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Shoreline",
+        "street": "NE 175th Street",
+        "number": "345",
+        "city": "Shoreline",
+        "state": "WA",
+        "zip": "98155",
+        "details": "Small Meeting Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Reading Buddies",
+        "Back to School",
+        "Language Learning & Literacy",
+        "Tutoring & Homework Help",
+        "Kids (Ages 6 to 8)",
+        "Teens (Ages 12 to 18)",
+        "Tweens (Ages 9 to 11)",
+        "English"
+      ],
+      "book": {
+        "title": "out loud. Two students are paired",
+        "author": "reading level with each volunteer. Book selection focuses on readers in grades K-8 and English language learners in grades K-12."
+      },
+      "state": "WA",
+      "state_full": "Washington",
+      "city": "Shoreline"
+    },
+    {
       "id": "69c2bc9ab6c4ac1fedc7d0db",
       "title": "Novel Nights Book Club",
       "library": "Omaha Public Library",
@@ -17369,6 +16335,43 @@
       "city": "Chandler"
     },
     {
+      "id": "69447f6876261f28005fe334",
+      "title": "Scrabble",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble club every Wednesday at 1-3pm. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69447f6876261f28005fe334",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": "2026-10-21T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "street": "Bishopdale Court",
+        "number": "13",
+        "city": "Bishopdale",
+        "state": "Christchurch",
+        "zip": "8053",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Bishopdale"
+    },
+    {
       "id": "6a335f822ea730c17ab7c84e",
       "title": "Evening Book Group: Dark Renaissance",
       "library": "Jefferson County Public Library",
@@ -17526,6 +16529,43 @@
       "state": "CA",
       "state_full": "California",
       "city": "Valley Center"
+    },
+    {
+      "id": "69112bd8683f18f7608cf676",
+      "title": "Scrabble Group",
+      "library": "Christchurch City Libraries NgÄ Kete WÄnanga o Åtautahi",
+      "library_slug": "christchurch",
+      "description": "Come along to our Scrabble Club. No obligation, just come along when you can and join our friendly group. All materials are supplied. Free, no bookings required.",
+      "link": "https://christchurch.bibliocommons.com/events/69112bd8683f18f7608cf676",
+      "image": "http://christchurch.bibliocommons.com/events/uploads/images/full/d5ce1ad9d0ab52d775d26e2aa9832d27/scrabble.jpg",
+      "start_date": "2026-10-21T00:30:00+00:00",
+      "end_date": "2026-10-21T02:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Shirley Library",
+        "street": "Marshland Road",
+        "number": "36",
+        "city": "Shirley",
+        "state": "Christchurch",
+        "zip": "8061",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Games and gaming",
+        "Adults (ages 18+)",
+        "Older adults (ages 60+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Christchurch",
+      "state_full": "Christchurch",
+      "city": "Shirley"
     },
     {
       "id": "69fcee5ff6bd012f00666786",
@@ -18152,6 +17192,43 @@
       "state": "LA",
       "state_full": "Louisiana",
       "city": "Abita Springs"
+    },
+    {
+      "id": "6a75075974e3b8b75db82ae6",
+      "title": "Novel Notions Book Club - \"The Woman in the Window\" by A.J. FINN",
+      "library": "Fulton County Library System",
+      "library_slug": "fulcolibrary",
+      "description": "It isn't paranoia if it's really happening . . . Anna Fox lives alone--a recluse in her New York City home, unable to venture outside. She spends her day drinking wine (maybe too much), watching old movies, recalling happier times . . . and spying on her neighbors.Then the Russells move into the house across the way: a father, mother, their teenaged son. The perfect family. But when Anna, gazing out her window one night, sees something she shouldn't, her world begins to crumble and its shocking secrets are laid bare.Read up and join our fun Book Club for a lively discussion! Copies available in multiple formats.",
+      "link": "https://fulcolibrary.bibliocommons.com/events/6a75075974e3b8b75db82ae6",
+      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/eecde798ec4a1c716a3189e82fa70977/BIBLIOEVENTSLOGO.png",
+      "start_date": "2026-10-21T16:00:00+00:00",
+      "end_date": "2026-10-21T17:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Milton Branch",
+        "street": "Mayfield Rd.",
+        "number": "855",
+        "city": "Milton",
+        "state": "GA",
+        "zip": "30009",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Books and Reading",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "GA",
+      "state_full": "Georgia",
+      "city": "Milton"
     },
     {
       "id": "6ab6cd4360748300382988eb",
@@ -20105,6 +19182,78 @@
       "city": ""
     },
     {
+      "id": "6920b316a64b7d0d61f81c96",
+      "title": "Noon Day Book Club @ Wolf Creek",
+      "library": "Fulton County Library System",
+      "library_slug": "fulcolibrary",
+      "description": "Join us for the Noon Day Book Club, our monthly gathering where readers come together to discuss exciting titles, share perspectives and enjoy getting to know other book lovers.",
+      "link": "https://fulcolibrary.bibliocommons.com/events/6920b316a64b7d0d61f81c96",
+      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/a9a1083189ecbb4e0cbf80d0796bf561/book%20clubs%20v.5.png",
+      "start_date": "2026-10-22T16:00:00+00:00",
+      "end_date": "2026-10-22T18:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Wolf Creek Branch",
+        "street": "Enon Road",
+        "number": "3100",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30331",
+        "details": "Meeting room C"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "GA",
+      "state_full": "Georgia",
+      "city": "Atlanta"
+    },
+    {
+      "id": "6a70f4d7f213992f00c93fb5",
+      "title": "Northwest Adult Book Club",
+      "library": "Fulton County Library System",
+      "library_slug": "fulcolibrary",
+      "description": "Join Our Library Book Club! Looking for your next great read—and great conversation to go with it? Our Library Book Club is the perfect place to discover new authors, share perspectives, and connect with fellow readers in a welcoming, relaxed atmosphere. Whether you're an avid book lover or simply looking to read more, you'll enjoy lively discussions, thoughtful insights, and the chance to explore books you might never have picked up on your own. There are no quizzes or right answers—just engaging conversations, new friendships, and a shared love of reading. New members are always welcome! Come for the books, stay for the community, and discover why every great story is even better when it's shared. Everyone is welcome. Bring your curiosity—we'll provide the conversation! Librarian will supply books both hard copy and digital copies if available. Refreshments will be available.",
+      "link": "https://fulcolibrary.bibliocommons.com/events/6a70f4d7f213992f00c93fb5",
+      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/15247183857c2b926155fde215c966b1/BookClub5.jpg",
+      "start_date": "2026-10-22T16:00:00+00:00",
+      "end_date": "2026-10-22T18:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Northwest Branch",
+        "street": "Perry Boulevard NW",
+        "number": "2489",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30318",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "GA",
+      "state_full": "Georgia",
+      "city": "Atlanta"
+    },
+    {
       "id": "6a7263d2e30fe4845966f00a",
       "title": "Read & Write Book Club - For Adults Learning English",
       "library": "Alameda County Library",
@@ -20201,7 +19350,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "7"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -20312,9 +19461,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -20401,6 +19550,47 @@
       "state": "CA",
       "state_full": "California",
       "city": "El Cajon"
+    },
+    {
+      "id": "6a985d6d5e6fc10d0550ec62",
+      "title": "Teen Anime/Manga Club",
+      "library": "Fulton County Library System",
+      "library_slug": "fulcolibrary",
+      "description": "Join us for our Anime/Manga Club, we have various activities such as viewing anime, anime music videos, reading manga, karaoke and arts and crafts.Teens, Please join us if you are a fan of this genre. THURSDAY, 3:30PM - 5:00PM AT ADAMSVILLE-COLLIER HEIGHTS BRANCH",
+      "link": "https://fulcolibrary.bibliocommons.com/events/6a985d6d5e6fc10d0550ec62",
+      "image": "http://fulcolibrary.bibliocommons.com/events/uploads/images/full/78ae2d65db13e4338757f9fd231646e3/mangaanimeclubupdate8.4.2026.png",
+      "start_date": "2026-10-22T19:30:00+00:00",
+      "end_date": "2026-10-22T20:45:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Adamsville-Collier Heights Branch",
+        "street": "Martin Luther King Jr., Drive, SW",
+        "number": "3424",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30331",
+        "details": "Meeting Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "The Year of the Book",
+        "Arts/Crafts/Hobbies",
+        "Crafts & DIY",
+        "District 6",
+        "Games and Gaming",
+        "Movies and Performances",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "GA",
+      "state_full": "Georgia",
+      "city": "Atlanta"
     },
     {
       "id": "6920dd8fb864f02900259300",
@@ -21137,6 +20327,45 @@
       "city": "Minneapolis,"
     },
     {
+      "id": "6a6b77433f18b57d5231f826",
+      "title": "Banned Book Club",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Are you concerned about book bans? Join our discussion about book banning and censorship as we read titles that have faced challenges over the years. Lending copies may be picked up at the service desk prior to each meeting. eBooks or eAudiobooks are available through www.hclib.org. The book club meets at Roosevelt Library. August 27: Choose Your Own Banned Book September 24: Persepolis by Marjane Satrapi October 22: Choose Your Own Banned Book",
+      "link": "https://hclib.bibliocommons.com/events/6a6b77433f18b57d5231f826",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
+      "start_date": "2026-10-22T23:30:00+00:00",
+      "end_date": "2026-10-23T01:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Roosevelt",
+        "street": "28th Ave. S.",
+        "number": "4026",
+        "city": "Minneapolis,",
+        "state": "MN",
+        "zip": "55406",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "12",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "Seniors",
+        "English"
+      ],
+      "book": {
+        "title": "Persepolis"
+      },
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Minneapolis,"
+    },
+    {
       "id": "6a3d6abb4407827f8aa757ae",
       "title": "Fiction Readers Book Group at Deer Creek: The Nature of Disappearing﻿﻿",
       "library": "Jefferson County Public Library",
@@ -21499,9 +20728,9 @@
       },
       "registration": {
         "required": true,
-        "full": false,
+        "full": true,
         "capacity": "20",
-        "registered": "19"
+        "registered": "20"
       },
       "categories": [
         "Book Clubs",
@@ -22423,7 +21652,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Pride",
@@ -22475,6 +21704,44 @@
       "state": "CA",
       "state_full": "California",
       "city": "Ramona"
+    },
+    {
+      "id": "6a56b5147d9501df1a26c610",
+      "title": "Quick Reads Book Club",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Join our discussion of new and interesting titles, all 250 pages or less. Bring along your recommendations for future meetings. Copies of the book may be picked up at the service desk prior to meeting. September 27: Everything is Tuberculosis by John Green October 25: Before the Coffee Gets Cold by Toshikiazu Kawaguchi November 22: Parable of the Sower (Graphic Novel Adaptation) by Octavia Butler",
+      "link": "https://hclib.bibliocommons.com/events/6a56b5147d9501df1a26c610",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
+      "start_date": "2026-10-25T18:00:00+00:00",
+      "end_date": "2026-10-25T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Hopkins",
+        "street": "11th Ave. N.",
+        "number": "22",
+        "city": "Hopkins,",
+        "state": "MN",
+        "zip": "55343",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "Everything is Tuberculosis"
+      },
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Hopkins,"
     },
     {
       "id": "6a908818aafa6100295f9917",
@@ -22539,6 +21806,47 @@
       "state": "CA",
       "state_full": "California",
       "city": "Brisbane"
+    },
+    {
+      "id": "6a879f412656cb0046721e18",
+      "title": "Bring Your Own Book Club",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Grades 2-8. This is a space for young readers to come relax, read, talk about awesome books, and create. Bring your own book or choose from the library cart. Quiet reading time will be followed by a group discussion and then a fun activity. Materials provided. All readers are welcome.",
+      "link": "https://hclib.bibliocommons.com/events/6a879f412656cb0046721e18",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/63389ae51fc22cae95a38b8136182d78/BookClubs_banner.jpg",
+      "start_date": "2026-10-25T19:30:00+00:00",
+      "end_date": "2026-10-25T20:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Hopkins",
+        "street": "11th Ave. N.",
+        "number": "22",
+        "city": "Hopkins,",
+        "state": "MN",
+        "zip": "55343",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Kids",
+        "Preteens",
+        "Teens",
+        "English"
+      ],
+      "book": {
+        "title": "s, and create. Bring your own book or choose from the library cart. Quiet reading time will be followed",
+        "author": "a group discussion and then a fun activity. Materials provided. All readers are welcome."
+      },
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Hopkins,"
     },
     {
       "id": "6a5fa6560d65ac3600413cce",
@@ -24085,7 +23393,7 @@
         "required": true,
         "full": false,
         "capacity": "9",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Discussion",
@@ -24320,6 +23628,45 @@
       "city": "Lawrence"
     },
     {
+      "id": "6acd2ab29d27a00045506cf8",
+      "title": "Manga and a Movie: Mob Psycho 100",
+      "library": "Ramsey County Library",
+      "library_slug": "rclreads",
+      "description": "You give us an hour of your time, and we give you a free book to read and a place to meet and talk about it! Afterwards, stay and watch a movie or episodes based on or related to what we just read. Free copies of this book are available for book club members! To get your copy, please register and then stop by the Teen Desk at the Roseville Library and ask to pick it up when you are notified it is ready. This program is funded by the Ramsey County Library Friends.",
+      "link": "https://rclreads.bibliocommons.com/events/6acd2ab29d27a00045506cf8",
+      "image": "",
+      "start_date": "2026-10-27T21:00:00+00:00",
+      "end_date": "2026-10-27T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "RCL - Roseville",
+        "street": "North Hamline Ave",
+        "number": "2180",
+        "city": "Roseville",
+        "state": "Minnesota",
+        "zip": "55113",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Teens",
+        "English"
+      ],
+      "book": {
+        "title": "are available for book club members! To get your copy, please register and then stop",
+        "author": "the Teen Desk at the Roseville Library and ask to pick it up when you are notified it is ready."
+      },
+      "state": "Minnesota",
+      "state_full": "Minnesota",
+      "city": "Roseville"
+    },
+    {
       "id": "6a7167f488e9bf28003558df",
       "title": "Tuesday Afternoon Book Club",
       "library": "Strathcona County Library",
@@ -24390,6 +23737,46 @@
       "state": "KS",
       "state_full": "Kansas",
       "city": "Leawood"
+    },
+    {
+      "id": "6a9331cc36204e08fbb829b8",
+      "title": "Next Chapter Book Club",
+      "library": "Greene County Public Library",
+      "library_slug": "greenelibrary",
+      "description": "Promoting literacy, social connections, and inclusion for adults with special needs. Registration required. --- Next Chapter Book Club is for ages 18+ who have intellectual and developmental disabilities. It’s a community-based book club that promotes literacy, social connections, and inclusion for adults with special needs. Members read a book together and all levels of reading are able to participate. Meetings are facilitated by Greene County Board of Developmental Disabilities staff and Beavercreek Community Library staff. Registration is required.",
+      "link": "https://greenelibrary.bibliocommons.com/events/6a9331cc36204e08fbb829b8",
+      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/d54c29a62caaefc5e025cb6aaa5b99da/nextchapterbookclub_square.png",
+      "start_date": "2026-10-27T22:00:00+00:00",
+      "end_date": "2026-10-27T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Carol Graff Beavercreek Library",
+        "street": "Dayton-Xenia Road",
+        "number": "3618",
+        "city": "Beavercreek",
+        "state": "OH",
+        "zip": "45432",
+        "details": "Large Meeting Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "In Person",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "together and all levels of reading are able to participate. Meetings are facilitated",
+        "author": "Greene County Board of Developmental Disabilities staff and Beavercreek Community Library staff."
+      },
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Beavercreek"
     },
     {
       "id": "6a8456c91401fd00606cc737",
@@ -24501,6 +23888,43 @@
       "state": "Ohio",
       "state_full": "Ohio",
       "city": "Springfield"
+    },
+    {
+      "id": "6a8f25371c197d11325afe94",
+      "title": "Cedarville Reads: All the Colors of the Dark",
+      "library": "Greene County Public Library",
+      "library_slug": "greenelibrary",
+      "description": "Join Erin for a thoughtful and lively discussion of All the Colors of the Dark. --- Newcomers are always welcome!",
+      "link": "https://greenelibrary.bibliocommons.com/events/6a8f25371c197d11325afe94",
+      "image": "http://greenelibrary.bibliocommons.com/events/uploads/images/full/167bfe0f493d9795ff7ba4a806f2a4f4/colorsofthedark.jpg",
+      "start_date": "2026-10-27T22:30:00+00:00",
+      "end_date": "2026-10-27T23:45:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Cedarville Community Library",
+        "street": "South Miller Street",
+        "number": "20",
+        "city": "Cedarville",
+        "state": "OH",
+        "zip": "45314",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "In Person",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Cedarville"
     },
     {
       "id": "6a5fc228a41369ab2c67ab52",
@@ -25278,6 +24702,36 @@
       "city": "Tacoma"
     },
     {
+      "id": "6ac069b1901b02002cbfb21b",
+      "title": "Dial-a-Story for Adults",
+      "library": "Hennepin County Library",
+      "library_slug": "hclib",
+      "description": "Call 612-543-8851 and listen to a recording of staff reading a short story on-demand. The story will change weekly. See the list of previous stories on the Dial-a-Story for Adults book list. Hosted by Outreach Services. Sponsor: Friends of the Hennepin County Library.",
+      "link": "https://hclib.bibliocommons.com/events/6ac069b1901b02002cbfb21b",
+      "image": "http://hclib.bibliocommons.com/events/uploads/images/full/071ea8ab01ec3d0561c8db1c30e3f67a/DialAStory_760x230.png",
+      "start_date": "2026-10-28T05:00:00+00:00",
+      "end_date": "2026-10-29T04:59:59+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Writing",
+        "Adults",
+        "Seniors",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
+    },
+    {
       "id": "69ff871e43b41b3d0065552d",
       "title": "Next Chapter Book Club",
       "library": "Glenview Public Library",
@@ -25521,7 +24975,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "0"
+        "registered": "4"
       },
       "categories": [
         "Book Club",
@@ -26592,7 +26046,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -26839,7 +26293,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "7"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -26877,9 +26331,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -28094,6 +27548,47 @@
       "city": "Arvada"
     },
     {
+      "id": "6aaadcc8129d8e0031f2bafe",
+      "title": "Tutoring Club",
+      "library": "Lawrence Public Library",
+      "library_slug": "lawrence",
+      "description": "Boost reading and math skills with our KU tutor. Register for an in-person session here. Tutoring in Reading: Pre-K–6th gradeTutoring in Math: K–9th grade This session will meet in the Children's Study Nooks. Check in at the Children's desk upon arrival. Please do not sign up for more than one session a day or two sessions a week. Sessions may be booked up to 2 weeks in advance.",
+      "link": "https://lawrence.bibliocommons.com/events/6aaadcc8129d8e0031f2bafe",
+      "image": "http://lawrence.bibliocommons.com/events/uploads/images/full/b77089aa8bc9e46033a01edc92663838/tutoringclubresized.png",
+      "start_date": "2026-11-02T23:00:00+00:00",
+      "end_date": "2026-11-03T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Lawrence Public Library",
+        "street": "Vermont Street",
+        "number": "707",
+        "city": "Lawrence",
+        "state": "KS",
+        "zip": "66044",
+        "details": "Children's Study Nooks"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Educational",
+        "Kids",
+        "Kids Clubs",
+        "Language & Culture",
+        "Teen",
+        "Kids",
+        "Teens",
+        "English"
+      ],
+      "book": null,
+      "state": "KS",
+      "state_full": "Kansas",
+      "city": "Lawrence"
+    },
+    {
       "id": "6a79d6e5f4e5db3d00c7af86",
       "title": "Random Readers Book Club",
       "library": "Herrick District Library",
@@ -28968,6 +28463,43 @@
       "city": "Guelph"
     },
     {
+      "id": "6a2c1e3690cc4e3a790d9ee4",
+      "title": "Tuesday Afternoon Book Group: The Republic of Pirates",
+      "library": "Jefferson County Public Library",
+      "library_slug": "jeffcolibrary",
+      "description": "Book time to connect with others at the Tuesday Afternoon Book Group. Participate in lively discussions of great reads. Monthly Theme: The Republic of Pirates",
+      "link": "https://jeffcolibrary.bibliocommons.com/events/6a2c1e3690cc4e3a790d9ee4",
+      "image": "http://jeffcolibrary.bibliocommons.com/events/uploads/images/full/f1d435ef5ff2292b5d0d6bb60b0b3698/16632_CL_TuesdayAfternoonBookGroup_Jul-Dec_2026_BE.png",
+      "start_date": "2026-11-03T21:00:00+00:00",
+      "end_date": "2026-11-03T23:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Columbine Library",
+        "street": "W. Bowles Ave.",
+        "number": "7706",
+        "city": "Littleton",
+        "state": "CO",
+        "zip": "80123",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "60+",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "CO",
+      "state_full": "Colorado",
+      "city": "Littleton"
+    },
+    {
       "id": "6a625d86cf8dd42855ad3c5c",
       "title": "Book Club Tasting",
       "library": "SDG Library",
@@ -29318,7 +28850,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "2"
+        "registered": "3"
       },
       "categories": [
         "Book Discussions",
@@ -30902,7 +30434,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "7"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -31625,6 +31157,42 @@
       "state": "CA",
       "state_full": "California",
       "city": "San Ramon"
+    },
+    {
+      "id": "6ac02e0fde300e004517d42f",
+      "title": "Teen Book Club",
+      "library": "San JosÃ© Public Library",
+      "library_slug": "sjpl",
+      "description": "Interested in discussing books with other teens? Join our teen-led teen book club! We’ll be playing Kahoots and will be discussing: Miss Peregrine's Home for Peculiar Children by Ransom RiggsDelicious in Dungeon (Volume 1) by Ryoko KuiInside Out & Back Again by Thanhha Lai This book club is for teens ages 13 to 18. We will meet in the Community Room. No registration required. ADA Accommodation Requests",
+      "link": "https://sjpl.bibliocommons.com/events/6ac02e0fde300e004517d42f",
+      "image": "http://sjpl.bibliocommons.com/events/uploads/images/full/61afcb9a6d696cc7c584d06e582fb5ef/AdobeStock_57869797.jpg",
+      "start_date": "2026-11-07T00:00:00+00:00",
+      "end_date": "2026-11-07T01:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Santa Teresa",
+        "street": "International Circle",
+        "number": "290",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95119",
+        "details": "Community Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Books & Authors",
+        "Teens, ages 12-18",
+        "English"
+      ],
+      "book": null,
+      "state": "CA",
+      "state_full": "California",
+      "city": "San Jose"
     },
     {
       "id": "6a6266e8d23de82955c8d44c",
@@ -32664,6 +32232,45 @@
       "city": ""
     },
     {
+      "id": "6acd30dde06996003a830adb",
+      "title": "2nd Mondays Adult Manga & Manhwa Club",
+      "library": "Alameda County Library",
+      "library_slug": "aclibrary",
+      "description": "Do you love manga/manhwa or have you always wanted to try it out? Want other adults to discuss books with? Now is your chance! All the books will be either Volume 1 in a series or a single book and will be for adults 18+. This month we will be discussing Run With Your New Legs by Wataru Midori. You can register and pick up a copy of the book from the Reference desk. Please bring your Alameda County Library Card to the meeting to check out next month's book. Library staff may take photos, videos, or audio recordings at our events. Please tell us if you do not wish to be photographed, video-recorded, or audio-recorded. We will always respect your requests. An ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least seven (7) days in advance. For assistance, please contact your library or accessibility@aclibrary.org.",
+      "link": "https://aclibrary.bibliocommons.com/events/6acd30dde06996003a830adb",
+      "image": "http://aclibrary.bibliocommons.com/events/uploads/images/full/9ed80835b24c7e95f55a62179fa680b4/BookClubs.png",
+      "start_date": "2026-11-10T01:00:00+00:00",
+      "end_date": "2026-11-10T02:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Dublin",
+        "street": "Civic Plaza",
+        "number": "200",
+        "city": "Dublin",
+        "state": "CA",
+        "zip": "94568",
+        "details": "Virginia Bennett Room"
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adults",
+        "English"
+      ],
+      "book": {
+        "title": "Run With Your New Legs",
+        "author": "Wataru Midori. You can register and pick up a copy of the book from the Reference desk. Please bring your Alameda County Library Card to the meeting to check out next month's book."
+      },
+      "state": "CA",
+      "state_full": "California",
+      "city": "Dublin"
+    },
+    {
       "id": "6aaadcf2101eb7003f309ab3",
       "title": "Vocabulary Club: English  Conversation Class",
       "library": "Edmonton Public Library",
@@ -32877,6 +32484,42 @@
       "city": "Mandeville"
     },
     {
+      "id": "6a6db4839006f75353143432",
+      "title": "Catalina Book Club",
+      "library": "Pima County Public Library",
+      "library_slug": "pima",
+      "description": "Welcome to the Catalina Book Club! A monthly book club featuring lively discussions for adults! We usually meet the second Tuesday of each month from 10:00 am - 11:30 am at Dewhirst- Catalina Library. New members are welcome but, participation is limited to 14 people at one time due to size of our meeting room. Here is the reading list for 2026.",
+      "link": "https://pima.bibliocommons.com/events/6a6db4839006f75353143432",
+      "image": "http://pima.bibliocommons.com/events/uploads/images/full/5a12f489e9a690454c123f75e3dc683b/bookclub-readers890x445rectangle.png",
+      "start_date": "2026-11-10T17:00:00+00:00",
+      "end_date": "2026-11-10T18:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Dewhirst-Catalina Library",
+        "street": "N. Oracle Rd., #199",
+        "number": "15631",
+        "city": "Catalina",
+        "state": "AZ",
+        "zip": "85739",
+        "details": "Meeting Room"
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults (18+)",
+        "English"
+      ],
+      "book": null,
+      "state": "AZ",
+      "state_full": "Arizona",
+      "city": "Catalina"
+    },
+    {
       "id": "6aa83bd6607483003826d68f",
       "title": "Woman's Literary Club - Book Club",
       "library": "Herrick District Library",
@@ -33044,7 +32687,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "5"
+        "registered": "6"
       },
       "categories": [
         "Book Groups",
@@ -34038,7 +33681,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "23"
+        "registered": "24"
       },
       "categories": [
         "Lifelong Learning",
@@ -34107,7 +33750,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "37"
+        "registered": "38"
       },
       "categories": [
         "Lifelong Learning",
@@ -34369,7 +34012,7 @@
         "required": true,
         "full": false,
         "capacity": "10",
-        "registered": "8"
+        "registered": "7"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -34407,9 +34050,9 @@
       },
       "registration": {
         "required": true,
-        "full": true,
+        "full": false,
         "capacity": "10",
-        "registered": "10"
+        "registered": "9"
       },
       "categories": [
         "Adult Literacy/ESL",
@@ -34775,7 +34418,7 @@
         "required": true,
         "full": false,
         "capacity": "30",
-        "registered": "7"
+        "registered": "8"
       },
       "categories": [
         "Book Clubs",
@@ -35128,6 +34771,43 @@
       "state": "FL",
       "state_full": "Florida",
       "city": "Palm Beach Gardens"
+    },
+    {
+      "id": "6ab305464ea230006f350656",
+      "title": "Intermediate ESL Book Club - Project Hail Mary",
+      "library": "Pleasanton Public Library",
+      "library_slug": "pleasantonlibrary",
+      "description": "Rianne Hastie Adams will lead an intermediate ESL Book Club for Project Hail Mary by Andy Weir. This book club is best for intermediate English learners. Students will read at home each week. Then we will meet as a group once a week to talk about the story, learn new vocabulary, and practice conversation. Meeting dates: October 16, 23, 30; November 6, 13, 20; December 4, 11. (No class November 27) Meeting time: Fridays 11:30am - 12:30pm Where: Literacy Table Registration is open now! Book club is limited to 10 participants. Books will be provided for registered participants to keep. Please consider your schedule and do not register if you will miss more than one meeting. Project Hail Mary description:Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company. His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species. And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone. Or does he? Hailed by USA Today as “an epic story of redemption, discovery, and cool speculative sci-fi,” Project Hail Mary is an irresistible interstellar adventure as only Andy Weir could deliver.",
+      "link": "https://pleasantonlibrary.bibliocommons.com/events/6ab305464ea230006f350656",
+      "image": "http://pleasantonlibrary.bibliocommons.com/events/uploads/images/full/0b8d2e377a13e985aadbb976e33eeee0/ProjectHailMary.jpg",
+      "start_date": "2026-11-13T19:30:00+00:00",
+      "end_date": "2026-11-13T20:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Pleasanton Library",
+        "street": "Old Bernal Avenue",
+        "number": "400",
+        "city": "Pleasanton",
+        "state": "California",
+        "zip": "94566",
+        "details": "Literacy Table"
+      },
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "10",
+        "registered": "10"
+      },
+      "categories": [
+        "Adult Literacy/ESL",
+        "Books & Reading",
+        "Adult Literacy",
+        "English"
+      ],
+      "book": null,
+      "state": "California",
+      "state_full": "California",
+      "city": "Pleasanton"
     },
     {
       "id": "6a7a15d5f4e5db3d00c7c3b4",
@@ -36663,7 +36343,7 @@
         "required": true,
         "full": false,
         "capacity": "1700",
-        "registered": "447"
+        "registered": "461"
       },
       "categories": [
         "Big Read",
@@ -36752,6 +36432,42 @@
       "state": "VA",
       "state_full": "Virginia",
       "city": "Fredericksburg"
+    },
+    {
+      "id": "6aa97464f9ed2e003850cf5d",
+      "title": "Chapter Chat Book Club",
+      "library": "Public Library of Youngstown and Mahoning County",
+      "library_slug": "plymc",
+      "description": "Love books? Come to the Chapter Chat Book Club where we will be reading and discussing a book together every month! This month we will be reading and discussing the book Lincoln in the Bardo by George Saunders.",
+      "link": "https://plymc.bibliocommons.com/events/6aa97464f9ed2e003850cf5d",
+      "image": "http://plymc.bibliocommons.com/events/uploads/images/full/e2b551f917e6b92cc3000a2ecd7e4443/Event_Type_Feature_LargeImage_1780x445_BooksandMedia.jpg",
+      "start_date": "2026-11-17T23:30:00+00:00",
+      "end_date": "2026-11-18T00:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Austintown",
+        "street": "S Raccoon Rd",
+        "number": "600",
+        "city": "Youngstown",
+        "state": "OH",
+        "zip": "44515",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Books and Media",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "OH",
+      "state_full": "Ohio",
+      "city": "Youngstown"
     },
     {
       "id": "693893baddf563280020144d",
@@ -38589,7 +38305,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Clubs",
@@ -38994,7 +38710,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "2"
+        "registered": "4"
       },
       "categories": [
         "Book Groups",
@@ -39660,7 +39376,7 @@
         "required": true,
         "full": false,
         "capacity": "15",
-        "registered": "0"
+        "registered": "1"
       },
       "categories": [
         "Book Clubs",
@@ -41986,6 +41702,50 @@
       "city": "Oakland"
     },
     {
+      "id": "6a99ceab29a7dd0d6748df65",
+      "title": "Homeschool Hangout | Origami Gift Boxes",
+      "library": "Stark Library",
+      "library_slug": "starklibrary",
+      "description": "Calling all homeschool families! Connect with the library and other homeschool families in your community as we explore different topics with books, activities, and fun for the whole family.Dec 02 | Origami Gift Boxes Jan 06 | Family Trees Feb 03| African Art and Storytelling",
+      "link": "https://starklibrary.bibliocommons.com/events/6a99ceab29a7dd0d6748df65",
+      "image": "http://starklibrary.bibliocommons.com/events/uploads/images/full/8e18d87177412950e25c7d3f583db6bb/Homeschool_Hangout%5B1%5D.png",
+      "start_date": "2026-12-02T15:00:00+00:00",
+      "end_date": "2026-12-02T16:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Perry Sippo Branch",
+        "street": "12th St. NW",
+        "number": "5710",
+        "city": "Canton",
+        "state": "Ohio",
+        "zip": "44708",
+        "details": ""
+      },
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "24",
+        "registered": "0"
+      },
+      "categories": [
+        "Book Clubs",
+        "Continuing Education",
+        "Crafts",
+        "Maker & Creator",
+        "Parenting",
+        "Recreation",
+        "STEM",
+        "Technology",
+        "Elementary (K - 5th Grade)",
+        "Tweens",
+        "English"
+      ],
+      "book": null,
+      "state": "Ohio",
+      "state_full": "Ohio",
+      "city": "Canton"
+    },
+    {
       "id": "6abbcddfa85a2c00337bd428",
       "title": "Sibling Revelry: Readings by Terry Blackhawk and Tom Bohnhorst",
       "library": "East Lansing Public Library",
@@ -42740,7 +42500,7 @@
         "required": true,
         "full": false,
         "capacity": "20",
-        "registered": "6"
+        "registered": "7"
       },
       "categories": [
         "Book Clubs",
@@ -43010,6 +42770,34 @@
       "city": ""
     },
     {
+      "id": "6a5fa10d4523092f00318efb",
+      "title": "Mission Impossible Book Club, 1st Monday, Monthly Virtual Group",
+      "library": "Evanston Public Library",
+      "library_slug": "evanstonlibrary",
+      "description": "This group meets monthly on the first Monday of the month from October through May to read and discuss The Books of Jacob by Olga Tokarczuk. Find out more information here: https://epl.org/mission-impossible If registration is full and you wish to join, please contact Heather.",
+      "link": "https://evanstonlibrary.bibliocommons.com/events/6a5fa10d4523092f00318efb",
+      "image": "",
+      "start_date": "2026-12-08T00:30:00+00:00",
+      "end_date": "2026-12-08T01:45:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": true,
+        "capacity": "17",
+        "registered": "17"
+      },
+      "categories": [
+        "Clubs & Gatherings",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
+    },
+    {
       "id": "69419fd194297d3600a03587",
       "title": "Mandeville Book Club",
       "library": "St. Tammany Parish Library",
@@ -43045,6 +42833,34 @@
       "state": "LA",
       "state_full": "Louisiana",
       "city": "Mandeville"
+    },
+    {
+      "id": "6a5fa102e9de6536001d427e",
+      "title": "Mission Impossible Book Club, 1st  or 2nd Tuesday, Every Other Month Virtual Group",
+      "library": "Evanston Public Library",
+      "library_slug": "evanstonlibrary",
+      "description": "This group meets virtually every other month on the 1st or 2nd Tuesday to read and discuss The Books of Jacob by Olga Tokarczuk. Find out more information here: https://epl.org/mission-impossible If registration is full and you want to join, please contact Heather.",
+      "link": "https://evanstonlibrary.bibliocommons.com/events/6a5fa102e9de6536001d427e",
+      "image": "",
+      "start_date": "2026-12-08T17:00:00+00:00",
+      "end_date": "2026-12-08T18:30:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "16",
+        "registered": "10"
+      },
+      "categories": [
+        "Clubs & Gatherings",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "68ef9d5261706d28001dcbfe",
@@ -43505,7 +43321,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "19"
+        "registered": "21"
       },
       "categories": [
         "Lifelong Learning",
@@ -43536,7 +43352,7 @@
         "required": true,
         "full": false,
         "capacity": "50",
-        "registered": "41"
+        "registered": "43"
       },
       "categories": [
         "Lifelong Learning",
@@ -43664,6 +43480,34 @@
       "state": "MN",
       "state_full": "Minnesota",
       "city": "Saint Paul"
+    },
+    {
+      "id": "6a5fa0f2f4e5db3d00c33b3a",
+      "title": "Mission Impossible Book Club, 2nd Wednesday, Meets 3 Times Virtual Group",
+      "library": "Evanston Public Library",
+      "library_slug": "evanstonlibrary",
+      "description": "This group meets three times virtually to read and discuss The Books of Jacob by Olga Tokarczuk. Meeting Dates are December 9, March 10, and June 9. Find out more information here: https://epl.org/mission-impossible If registration is full and you want to join, please contact Heather.",
+      "link": "https://evanstonlibrary.bibliocommons.com/events/6a5fa0f2f4e5db3d00c33b3a",
+      "image": "",
+      "start_date": "2026-12-10T00:30:00+00:00",
+      "end_date": "2026-12-10T02:00:00+00:00",
+      "is_virtual": true,
+      "location": {},
+      "registration": {
+        "required": true,
+        "full": false,
+        "capacity": "10",
+        "registered": "5"
+      },
+      "categories": [
+        "Clubs & Gatherings",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "",
+      "state_full": "",
+      "city": ""
     },
     {
       "id": "6a7164e288e9bf280035583c",
@@ -44376,6 +44220,43 @@
       "city": "Kentwood"
     },
     {
+      "id": "6ab1413b6074830038287199",
+      "title": "Lakeside Lit Book Club",
+      "library": "Kent District Library",
+      "library_slug": "kdl",
+      "description": "Join a fun, informal discussion of great books. This month, we'll discuss Mad Mabel by Sally Hepworth.",
+      "link": "https://kdl.bibliocommons.com/events/6ab1413b6074830038287199",
+      "image": "",
+      "start_date": "2026-12-14T18:00:00+00:00",
+      "end_date": "2026-12-14T19:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "East Grand Rapids Branch",
+        "street": "Lakeside Drive SE",
+        "number": "746",
+        "city": "East Grand Rapids",
+        "state": "Michigan",
+        "zip": "49506",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Discussion",
+        "Adults (18+)",
+        "Seniors (55+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Michigan",
+      "state_full": "Michigan",
+      "city": "East Grand Rapids"
+    },
+    {
       "id": "6a7367f79006f75353151986",
       "title": "APL Afternoon Book Club",
       "library": "Aurora Public Library",
@@ -44629,6 +44510,43 @@
       "state": "New Jersey",
       "state_full": "New Jersey",
       "city": "Ocean City"
+    },
+    {
+      "id": "6aaa89278cf597003f9437ba",
+      "title": "Nelson Twp. Book Club",
+      "library": "Kent District Library",
+      "library_slug": "kdl",
+      "description": "Join a fun, informal discussion of great books. This month, we'll discuss books we loved reading in 2026!",
+      "link": "https://kdl.bibliocommons.com/events/6aaa89278cf597003f9437ba",
+      "image": "",
+      "start_date": "2026-12-15T18:30:00+00:00",
+      "end_date": "2026-12-15T19:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Nelson Township Branch",
+        "street": "Eighth St.",
+        "number": "88",
+        "city": "Sand Lake",
+        "state": "Michigan",
+        "zip": "49343",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Discussion",
+        "Adults (18+)",
+        "Seniors (55+)",
+        "English"
+      ],
+      "book": null,
+      "state": "Michigan",
+      "state_full": "Michigan",
+      "city": "Sand Lake"
     },
     {
       "id": "698b55318d5e2d09335e40a5",
@@ -45448,6 +45366,42 @@
       "state": "AB",
       "state_full": "Alberta",
       "city": "Red Deer"
+    },
+    {
+      "id": "6a2af319c7d3cd58005fa76f",
+      "title": "Mystery Loves Company Book Club",
+      "library": "Saint Paul Public Library",
+      "library_slug": "sppl",
+      "description": "Join us the 3rd Wednesday of each month for crime, company, and cookies! Each month a new mystery theme will be selected. Read any book under the chosen category to share with the group. If you're just looking for reading inspiration, no problem! Sit back and listen as fellow mystery lovers share their current reads. No registration necessary. December's theme: TBD",
+      "link": "https://sppl.bibliocommons.com/events/6a2af319c7d3cd58005fa76f",
+      "image": "http://sppl.bibliocommons.com/events/uploads/images/full/40cca6a620b29d7b0c9afa38bd0e7124/MysteryBOokCLubBiblio.png",
+      "start_date": "2026-12-17T00:30:00+00:00",
+      "end_date": "2026-12-17T01:30:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Saint Anthony Park",
+        "street": "Como Avenue",
+        "number": "2245",
+        "city": "Saint Paul",
+        "state": "MN",
+        "zip": "55108",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Clubs",
+        "Adult",
+        "English"
+      ],
+      "book": null,
+      "state": "MN",
+      "state_full": "Minnesota",
+      "city": "Saint Paul"
     },
     {
       "id": "68e1628962a8786065c6679f",
@@ -49739,6 +49693,42 @@
       "state": "MI",
       "state_full": "Michigan",
       "city": "East Lansing"
+    },
+    {
+      "id": "6a7a289a1d5d03c3a6bba908",
+      "title": "Call-In Book Club",
+      "library": "Kenosha Public Library",
+      "library_slug": "mykpl",
+      "description": "If you have a hard time getting out of the house, try this unique book club over the phone. Just call in to hear the whole group! To register and get the call-in phone number, contact Kenosha Area Family and Aging Services (KAFASI) at 262-658-3508 (ext. 110 or 118). For more information, contact Emily Kastelic at ekastelic@mykpl.info or call 262-564-6130.Suitable for Adults 19+.",
+      "link": "https://mykpl.bibliocommons.com/events/6a7a289a1d5d03c3a6bba908",
+      "image": "",
+      "start_date": "2027-06-08T19:00:00+00:00",
+      "end_date": "2027-06-08T20:00:00+00:00",
+      "is_virtual": false,
+      "location": {
+        "name": "Call-In Party Line",
+        "street": "38th Avenue",
+        "number": "7979",
+        "city": "Kenosha",
+        "state": "WI",
+        "zip": "53142",
+        "details": ""
+      },
+      "registration": {
+        "required": false,
+        "full": false,
+        "capacity": "",
+        "registered": ""
+      },
+      "categories": [
+        "Book Club",
+        "Adults",
+        "English"
+      ],
+      "book": null,
+      "state": "WI",
+      "state_full": "Wisconsin",
+      "city": "Kenosha"
     },
     {
       "id": "6a5e7eca88e9bf28003222e3",
